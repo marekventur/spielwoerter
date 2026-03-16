@@ -1,0 +1,33 @@
+name: Update stats.json
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - wordlist_accepted.jsonl
+      - wordlist_uncertain.jsonl
+      - scripts/generate_stats.py
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate stats.json
+        run: python3 -m scripts.generate_stats
+
+      - name: Commit stats.json if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stats.json
+          git diff --cached --quiet || git commit -m "chore: update stats.json"
+          git push

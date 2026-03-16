@@ -1,0 +1,21 @@
+.env
+keys.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+data/*
+
+# Keep the fixed 100-word stratified calibration set (small, reproducible)
+!data/calibration_100.txt
+
+# Final wordlists — accepted and uncertain are tracked at repo root; rejected is too large (~200MB)
+data/wordlist_rejected.jsonl
+
+# Large raw downloads
+scripts/sourcing/raw/
+
+# Oracle dictionary files (downloaded automatically on first use, not committed)
+scripts/oracle/*.dic
