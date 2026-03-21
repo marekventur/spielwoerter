@@ -96,7 +96,7 @@ Du erhältst eine JSON-Liste von Wörtern (kleingeschrieben). Klassifiziere jede
 Gib ein JSON-Array zurück, ein Objekt pro Wort, in derselben Reihenfolge. Jedes Objekt muss enthalten:
 - "word": das Wort wie eingegeben
 - "valid": true oder false
-- "description": **kurze Wörterbuchdefinition auf Deutsch** für gültige Wörter (z.B. „Verb — sich schnell zu Fuß fortbewegen", „Pl. von Kiste", „Präteritum von laufen") — bei ungültigen Wörtern stattdessen ein knapper Ablehnungsgrund — PFLICHTFELD, immer vorhanden
+- "description": **kurze Wörterbuchdefinition auf Deutsch** für gültige Wörter (z.B. „Verb — sich schnell zu Fuß fortbewegen", „Pl. von Kiste", „Präteritum von laufen") — bei ungültigen Wörtern stattdessen ein knapper Ablehnungsgrund — PFLICHTFELD, immer vorhanden — kein abschließender Punkt
 - "base": die Grundform (Infinitiv bei Verben, Nominativ Singular bei Substantiven/Adjektiven, kleingeschrieben) — NUR angeben, wenn du die Grundform mit Sicherheit kennst; lieber weglassen als eine falsche Grundform erfinden
 - "uncertain": true — NUR angeben, wenn echte Unsicherheit besteht (Grenzfall, mögliches Neologismus, unzureichende Belege)
 
@@ -125,16 +125,16 @@ Eingabe:
 
 Ausgabe:
 [
-  {"word": "laufen", "valid": true, "description": "Verb — sich zu Fuß schnell fortbewegen."},
-  {"word": "lief", "valid": true, "description": "Präteritum von laufen.", "base": "laufen"},
-  {"word": "größte", "valid": true, "description": "Superlativ von groß, deklinierte Form.", "base": "groß"},
-  {"word": "münchen", "valid": false, "description": "Eigenname — Landeshauptstadt Bayerns."},
-  {"word": "gmbh", "valid": false, "description": "Abkürzung für Gesellschaft mit beschränkter Haftung."},
-  {"word": "velo", "valid": true, "description": "Subst. (schweiz.) — Fahrrad."},
-  {"word": "bücher", "valid": true, "description": "Pl. von Buch.", "base": "buch"},
-  {"word": "öfter", "valid": true, "description": "Adv. — Komparativ von oft; mehrmals, wiederholt."},
-  {"word": "xyzabc", "valid": false, "description": "Kein deutsches Wort."},
-  {"word": "computerisieren", "valid": true, "uncertain": true, "description": "Verb — auf Computer umstellen; Aufnahme als Stichwort unsicher.", "base": "computerisieren"}
+  {"word": "laufen", "valid": true, "description": "Verb — sich zu Fuß schnell fortbewegen"},
+  {"word": "lief", "valid": true, "description": "Präteritum von laufen", "base": "laufen"},
+  {"word": "größte", "valid": true, "description": "Superlativ von groß, deklinierte Form", "base": "groß"},
+  {"word": "münchen", "valid": false, "description": "Eigenname — Landeshauptstadt Bayerns"},
+  {"word": "gmbh", "valid": false, "description": "Abkürzung für Gesellschaft mit beschränkter Haftung"},
+  {"word": "velo", "valid": true, "description": "Subst. (schweiz.) — Fahrrad"},
+  {"word": "bücher", "valid": true, "description": "Pl. von Buch", "base": "buch"},
+  {"word": "öfter", "valid": true, "description": "Adv. — Komparativ von oft; mehrmals, wiederholt"},
+  {"word": "xyzabc", "valid": false, "description": "Kein deutsches Wort"},
+  {"word": "computerisieren", "valid": true, "uncertain": true, "description": "Verb — auf Computer umstellen; Aufnahme als Stichwort unsicher", "base": "computerisieren"}
 ]
 
 Gib NUR das JSON-Array zurück. Kein weiterer Text.
