@@ -747,6 +747,7 @@
 {"word":"dunnes","description":"Deklinierte Form des Adjektivs dünn (z.B. Genitiv Sg. mask./neut.)","base":"dünn","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"duse","description":"Subst. — veraltet/landschaftlich für Dusche; auch: Düse, Ausflussöffnung","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"dusen","description":"Verb — (ugs./regional) für dösen, schlummern, vor sich hinträumen","base":"dusen","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"dyke","description":null,"base":"gay","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"dönere","description":null,"base":"döner","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"dönre","description":null,"base":"döner","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"dörp","description":"Subst. (nordd., niederdeutsch) — Dorf","base":"dörp","corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -1123,6 +1124,9 @@
 {"word":"gass","description":null,"base":"gasse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gatty","description":null,"base":"gate","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gaude","description":"Subst. (veraltet) — Freude, Vergnügen","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gayer","description":"Adj. — Komparativ von gay (schwul)","base":"gay","corpus_sources":["wikipedia","gutenberg","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gayo","description":null,"base":"gay","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gayos","description":null,"base":"gay","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gaßer","description":null,"base":"gasse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"geaune","description":"Partizip II von aunen (landschaftl. für atmen)","base":"aunen","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gebst","description":"2. Person Singular Präsens von geben","base":"geben","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
