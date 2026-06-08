@@ -283,6 +283,7 @@
 {"word":"arnd","description":null,"base":"anno","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"arndt","description":null,"base":"anno","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"arne","description":null,"base":"anno","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"arneis","description":"Subst. — Weißweinrebsorte aus dem Piemont","base":"arneis","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"arnest","description":null,"base":"ermsten","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"arneth","description":null,"base":"anno","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"arnhold","description":null,"base":"anno","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -674,6 +675,7 @@
 {"word":"dahmen","description":null,"base":"ade","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"dahmke","description":null,"base":"ade","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"dahms","description":null,"base":"ade","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"dais","description":"Subst. (veraltet) — Podest, erhöhte Plattform","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"damnik","description":null,"base":"nick","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"danaer","description":"Subst. — Angehöriger des griechischen Stammes der Danaer","base":"danaer","corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"danaern","description":"Dativ Plural von Danaer","base":"danaer","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -1148,6 +1150,7 @@
 {"word":"feißt","description":null,"base":"feist","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"felz","description":"Subst. (veraltet, landschaftl.) — Fels, Felsen","base":"felz","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ferro","description":"Subst. (fachsprachl.) — Eisen; Eisenbahn (ital. Einfluss)","base":"ferro","corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"fess","description":"Verb — jemanden fesseln, binden; auch Subst. (Heraldik) — Balken im Wappen","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"feut","description":null,"base":"faut","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"feuth","description":null,"base":"faut","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"fieh","description":null,"base":"fähst","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -1177,8 +1180,15 @@
 {"word":"fittend","description":null,"base":"fitte","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"fittete","description":null,"base":"fitte","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"flatz","description":"Subst. (österr., südd., umgangssprachl.) — Ohrfeige, Schlag; auch flache Stelle","base":"flatz","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"fled","description":"Präteritum von fliehen oder fliegen (veraltet/poetisch)","base":"fliehen","corpus_sources":["wiktionary","wikipedia","gutenberg"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"flens","description":null,"base":"flense","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"flense","description":"Verb (seem./fachspr.) — die Haut oder Speck von einem Wal abtrennen","base":"flensen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"flenst","description":null,"base":"flense","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"flenste","description":null,"base":"flense","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"fliehn","description":"Verb — Infinitiv/1./3. Person Plural von fliehen (verkürzte Form)","base":"fliehen","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"florentin","description":"Subst. — Einwohner von Florenz; auch Bezeichnung für einen Goldgulden","base":"florentiner","corpus_sources":["wikipedia","kaikki_forms","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"florenze","description":null,"base":"florentin","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"flöhend","description":"Partizip I von flöhen (Konjunktiv II von fliehen)","base":"fliehen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"foder","description":"Verb (veraltet/landschaftl.) — füttern, Nahrung geben","base":"fodern","corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"foderst","description":null,"base":"foder","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"fodert","description":null,"base":"foder","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -1234,6 +1244,8 @@
 {"word":"füxe","description":"Verb — 1. Person Singular Konjunktiv I von faxen (ugs. für 'faxen' oder 'tricksen')","base":"faxen","corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"füxen","description":"Verb — Infinitiv/1./3. Person Plural Indikativ Präsens von faxen (ugs. für 'faxen' oder 'tricksen')","base":"faxen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gabs","description":"Umgangssprachliche Kurzform für 'es gab' (Präteritum von geben)","base":"geben","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gacked","description":"Partizip II von gacken (wie ein Huhn rufen)","base":"gacken","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gackt","description":"Verb — 3. Person Singular Präsens von gacken (lautmalerisch für Hühnerruf)","base":"gacken","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gaen","description":"Verb — 1./3. Person Plural Konjunktiv I von gehen (verkürzte Form)","base":"gehen","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gais","description":null,"base":"geiss","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gaiss","description":null,"base":"geiss","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -1271,6 +1283,7 @@
 {"word":"gefahen","description":null,"base":"fähst","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gefahet","description":null,"base":"fähst","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gefittet","description":null,"base":"fitte","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"geflenst","description":null,"base":"flense","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gefodert","description":null,"base":"foder","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gegangne","description":"Deklinierte Form des Partizips II von gehen (mit e-Tilgung)","base":"gehen","corpus_sources":["ne_contracted"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gegangnem","description":"Deklinierte Form des Partizips II von gehen (Dativ Singular Mask./Neut.)","base":"gehen","corpus_sources":["ne_contracted"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -1405,6 +1418,7 @@
 {"word":"gessler","description":null,"base":"gasse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gesslers","description":null,"base":"gasse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gessner","description":null,"base":"gasse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gestanke","description":"Subst. — das Stanken; unangenehmer Geruch","base":"gestanke","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gestukt","description":"Partizip II von stuken (fachspr.) — mit Stuck (Verputz) versehen","base":"stuken","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gesumst","description":"Partizip II von summen","base":"summen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gesöhnt","description":"Partizip II von söhnen — versöhnt","base":"söhnen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -1622,6 +1636,7 @@
 {"word":"hehnlein","description":null,"base":"hahn","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hehrmann","description":null,"base":"harm","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"heidi","description":null,"base":"alette","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"heidig","description":"Adj. (landsch., veraltet) — heidnisch; auch für wild, ungezähmt","base":"heidig","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"heier","description":null,"base":"heuer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"heiko","description":null,"base":"heini","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"heimel","description":null,"base":"heim","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -1873,6 +1888,7 @@
 {"word":"hubt","description":"Präteritum/2. Pers. Sg. von heben","base":"heben","corpus_sources":["wiktionary","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"huche","description":null,"base":"hauch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"huck","description":null,"base":"hauch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"huegele","description":null,"base":"hügel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"huge","description":null,"base":"hauch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"huhne","description":"Dativ Singular von Huhn","base":"huhn","corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"huhnen","description":"Plural von Huhn","base":"huhn","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -1947,6 +1963,13 @@
 {"word":"hösse","description":"Konjunktiv II von heißen","base":"heißen","corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hövener","description":null,"base":"hofer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hüb","description":"Verb — Konjunktiv II von haben (veraltete Kurzform von hübe)","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"curated","verified_by":"manual"}
+{"word":"hügele","description":null,"base":"hügel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"hügeles","description":null,"base":"hügel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"hügl","description":null,"base":"hügel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"hügle","description":null,"base":"hügel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"hügles","description":null,"base":"hügel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"hügli","description":null,"base":"hügel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"hüglin","description":null,"base":"hügel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hühnlein","description":"Subst. (veraltet/poet.) — Diminutiv von Huhn; kleines Huhn","base":"huhn","corpus_sources":["wikipedia","gutenberg","kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hühns","description":"Genitiv Singular von Huhn","base":"huhn","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hümmel","description":null,"base":"hommel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -2368,6 +2391,8 @@
 {"word":"leien","description":null,"base":"lei","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"lena","description":null,"base":"ehlen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"lenchen","description":null,"base":"made","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"lend","description":"Verb — jemandem etwas zeitweise zur Nutzung überlassen","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"lends","description":null,"base":"lend","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"leneke","description":null,"base":"made","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"leni","description":null,"base":"made","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"lennart","description":null,"base":"leo","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -2510,6 +2535,7 @@
 {"word":"mallmann","description":null,"base":"moller","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"mandi","description":null,"base":"manda","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"manen","description":null,"base":"manet","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"manes","description":"Pl. von Mana (religiöse/spirituelle Kraft)","base":"mana","corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"manet","description":"Verb — 3. Person Sg. Präsens von manen (veraltet für mahnen)","base":"manen","corpus_sources":["wikipedia","gutenberg","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mania","description":"Subst. — krankhafte Hochstimmung; übertriebene Begeisterung für etwas","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"manja","description":null,"base":"mai","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
