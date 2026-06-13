@@ -344,6 +344,7 @@
 {"word":"auel","description":null,"base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"auer","description":"Subst. — Vogelart, das Auerhuhn","base":"auer","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"auers","description":null,"base":"au","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"aues","description":null,"base":"au","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"augend","description":"Partizip I von 'augen' — beobachtend, ansehend","base":"augen","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"auger","description":null,"base":"au","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"augne","description":"Verb — veraltet/landschaftlich für 'äugen', 'ansehen'","base":"augnen","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -1119,6 +1120,7 @@
 {"word":"einsehest","description":"Verb — 2. Person Sg. Konj. I von einsehen","base":"einsehen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"eisene","description":null,"base":"eis","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"eisigs","description":"Genitiv Singular maskulin/neutral oder Nominativ/Akkusativ Plural von eisig","base":"eisig","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"eisses","description":"Genitiv Singular von Eis","base":"eis","corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ejder","description":"Subst. (Ornith.) — große, nordische Meeresente (Somateria mollissima)","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ejderen","description":"Pl. von Ejder","base":"ejder","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ejdern","description":"Dativ Pl. von Ejder","base":"ejder","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -1697,6 +1699,7 @@
 {"word":"georgette","description":"Subst. (Textilw.) — leichter, geköperter Stoff aus Seide oder Chemiefaser","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"georgia","description":null,"base":"georgette","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gepeddet","description":"Partizip II von pedden (Verb — mit dem Pedal antreiben, umgangssprachlich auch für Radfahren)","base":"pedden","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gepreit","description":null,"base":"preist","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gerd","description":null,"base":"gesine","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gerde","description":null,"base":"gesine","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gerdi","description":null,"base":"gesine","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -1751,6 +1754,12 @@
 {"word":"gerufnem","description":"Deklinierte Form des Partizips Perfekt von rufen (männlich/neutral Dativ Singular)","base":"rufen","corpus_sources":["ne_contracted"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gerufner","description":"Deklinierte Form des Partizips Perfekt von rufen (männlich Nominativ Singular, verkürzt)","base":"rufen","corpus_sources":["ne_contracted"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gesa","description":null,"base":"gesine","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gesahnt","description":"Partizip II von sahnen (mit Sahne verfeinern)","base":"sahnen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gesahnte","description":"Deklinierte Form des Partizips II 'gesahnt' (z.B. gesahnte Soße)","base":"sahnen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gesahntem","description":"Deklinierte Form des Partizips II 'gesahnt' (Dativ mask./neutr. Sg.)","base":"sahnen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gesahnten","description":"Deklinierte Form des Partizips II 'gesahnt' (Gen./Dat./Akk. Sg. mask. oder Pl.)","base":"sahnen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gesahnter","description":"Deklinierte Form des Partizips II 'gesahnt' (Gen./Dat./Gen. Sg. fem. oder Nom. mask. Sg.)","base":"sahnen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gesahntes","description":"Deklinierte Form des Partizips II 'gesahnt' (Nom./Akk. neutr. Sg.)","base":"sahnen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gesatzt","description":null,"base":"satz","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gesauert","description":"Partizip II von sauern — säuerlich geworden, in Gärung übergegangen","base":"sauern","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gesauerte","description":"Deklinierte Form des Partizips II gesauert","base":"sauern","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -3703,6 +3712,8 @@
 {"word":"nieres","description":"Genitiv Singular von Niere","base":"niere","corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"niesele","description":"Verb — 1./3. Person Sg. Konj. I von nieseln oder Imperativ Sg. von nieseln","base":"nieseln","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"niesle","description":null,"base":"niesele","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"niess","description":"Verb — 2./3. Person Sg. Prät. von niesen","base":"niesen","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"niessen","description":"Verb — niesen (veraltete/regionale Schreibweise)","base":"niesen","corpus_sources":["wikipedia","kaikki_forms","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nigers","description":null,"base":"ne","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"niki","description":null,"base":"klos","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nikki","description":null,"base":"klos","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -3926,6 +3937,7 @@
 {"word":"pernt","description":null,"base":"bernt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"pers","description":null,"base":"peer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"persson","description":null,"base":"peer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"pessah","description":"Subst. (auch Pessach) — jüdisches Frühlingsfest","base":"pessah","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"pete","description":null,"base":"peer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"peter","description":null,"base":"peer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"peterchen","description":null,"base":"peer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -3967,6 +3979,13 @@
 {"word":"plancks","description":null,"base":"blank","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"poldi","description":null,"base":"leo","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"prase","description":"Subst. (veraltet) — Schwein","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"prei","description":null,"base":"preist","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"preie","description":null,"base":"preist","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"preien","description":null,"base":"preist","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"preiend","description":null,"base":"preist","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"preiet","description":null,"base":"preist","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"preit","description":null,"base":"preist","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"preite","description":null,"base":"preist","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"priv","description":null,"base":"privat","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"privatest","description":"Superlativ von privat (Adjektiv)","base":"privat","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"puce","description":"Adj. — flohfarben, bräunlichrot","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -4263,6 +4282,14 @@
 {"word":"sabü","description":null,"base":"bienchen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"sacco","description":null,"base":"sakko","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"sadel","description":"Subst. (veraltet) — Sattel","base":"sattel","corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"sahn","description":"Verb (ugs., regional) — Imperativ Singular von sahnen (Sahne aufschlagen)","base":"sahnen","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"sahnend","description":"Partizip I von sahnen","base":"sahnen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"sahnende","description":"Deklinierte Form des Partizips I (sahnend)","base":"sahnen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"sahnendem","description":"Deklinierte Form des Partizips I (sahnend)","base":"sahnen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"sahnenden","description":"Deklinierte Form des Partizips I (sahnend)","base":"sahnen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"sahnender","description":"Partizip I (adj. dekl.) von sahnen — mit Sahne versehend/verarbeitend","base":"sahnen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"sahnendes","description":"Partizip I (adj. dekl.) von sahnen — mit Sahne versehend/verarbeitend","base":"sahnen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"sahnie","description":"1./3. Person Singular Präteritum von sahnen (seltene/veraltete Form)","base":"sahnen","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"salig","description":"Adj. — (veraltet, regional) selig, glückselig, fromm","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"salige","description":"Deklinierte Form des Adjektivs salig","base":"salig","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"saligen","description":"Deklinierte Form des Adjektivs salig","base":"salig","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
