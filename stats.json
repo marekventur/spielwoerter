@@ -1,12 +1,12 @@
 {
   "generated": "2026-06-16",
   "accepted": {
-    "total": 200719,
+    "total": 200718,
     "by_source": {
       "community": 154,
       "curated": 106,
       "llm": 176131,
-      "morphology": 24328
+      "morphology": 24327
     },
     "by_classification_pass": {
       "double-pass-agree": 139960,
@@ -15,7 +15,7 @@
     "length_distribution": {
       "2": 68,
       "3": 631,
-      "4": 3804,
+      "4": 3803,
       "5": 10511,
       "6": 21023,
       "7": 34416,
@@ -27,6 +27,6 @@
     }
   },
   "uncertain": {
-    "total": 1341
+    "total": 1340
   }
 }
