@@ -1,26 +1,26 @@
 {
   "generated": "2026-06-22",
   "accepted": {
-    "total": 200036,
+    "total": 200009,
     "by_source": {
-      "community": 185,
+      "community": 187,
       "curated": 106,
-      "llm": 175797,
-      "morphology": 23948
+      "llm": 175773,
+      "morphology": 23943
     },
     "by_classification_pass": {
-      "double-pass-agree": 139784,
-      "tiebreaker": 36013
+      "double-pass-agree": 139775,
+      "tiebreaker": 35998
     },
     "length_distribution": {
       "2": 68,
       "3": 629,
-      "4": 3700,
-      "5": 10341,
-      "6": 20833,
-      "7": 34308,
-      "8": 53078,
-      "9": 77062,
+      "4": 3697,
+      "5": 10336,
+      "6": 20830,
+      "7": 34302,
+      "8": 53073,
+      "9": 77057,
       "10": 11,
       "11": 4,
       "12": 2
