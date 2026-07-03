@@ -138,6 +138,7 @@
 {"word":"adhelme","description":null,"base":"ado","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"adhelmen","description":null,"base":"ado","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"adhelms","description":null,"base":"ado","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"adit","description":"Subst. (bergm.) — horizontaler Grubenzugang, Stollen","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"aditus","description":"Subst. (anat., fachspr.) — Zugang, Eingang","base":null,"corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"adje","description":null,"base":"ad","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"adling","description":null,"base":"adeling","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -499,6 +500,8 @@
 {"word":"aust","description":"Verb — 2./3. Person Sg. Präsens von ausen (austrocknen, veraltet)","base":"ausen","corpus_sources":["wikipedia","gutenberg","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"avend","description":null,"base":"abend","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"avent","description":null,"base":"abend","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"avid","description":"Adj. — begierig, leidenschaftlich, eifrig","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"avide","description":"Adj. — deklinierte Form von avid","base":"avid","corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"awers","description":"Subst. — Vorderseite einer Münze oder Medaille","base":"awers","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"axes","description":"Pl. von Achse oder Axt","base":"achse","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ayes","description":null,"base":"aye","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -681,6 +684,7 @@
 {"word":"benedikta","description":null,"base":"bene","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"benedikte","description":null,"base":"bene","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"benedikts","description":null,"base":"bene","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"benennte","description":null,"base":"benannt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"beni","description":null,"base":"bene","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"benied","description":null,"base":"beneide","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"benieden","description":null,"base":"beneide","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -874,8 +878,10 @@
 {"word":"brinle","description":null,"base":"bienchen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"britta","description":null,"base":"breite","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"brockmann","description":null,"base":"bruch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"broh","description":"Interjektion — Ausruf des Erschreckens, der Überraschung oder Warnung","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"brok","description":null,"base":"bruch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"brokmann","description":null,"base":"bruch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"brose","description":"Subst. — Brei aus geschrotetem Getreide (regional, veraltet)","base":null,"corpus_sources":["wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"browner","description":"Komparativ von braun, deklinierte Form","base":"braun","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"bruche","description":"Subst. (veraltet, landschaftl.) — Hose, Hosenboden","base":"bruch","corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"bruck","description":null,"base":"bruch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -900,6 +906,7 @@
 {"word":"bräunlein","description":null,"base":"braun","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"bräunles","description":null,"base":"braun","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"bräunli","description":null,"base":"braun","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"bröde","description":"Adj. — brüchig, mürbe; veraltet/landschaftlich für von geringer Qualität","base":"bröde","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"brücher","description":null,"base":"bruch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"brüchern","description":null,"base":"bruch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"brück","description":null,"base":"bruch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -1213,6 +1220,7 @@
 {"word":"dansen","description":"Verb (nordd., veraltet) — tanzen","base":"dansen","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"dant","description":null,"base":"tant","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"darns","description":"3. Person Sg. Präsens von darnen (stopfen)","base":"darnen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"dativus","description":"Subst. (fachspr., lat.) — Dativ, 3. Fall","base":"dativus","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"daub","description":"Adj. (veraltet) — stumpf, dumm","base":"daub","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"dauerei","description":"Subst. (ugs.) — anhaltendes, lästiges Dauern","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"dause","description":null,"base":"daus","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -1838,6 +1846,11 @@
 {"word":"erdles","description":null,"base":"ort","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"erger","description":"Adj. — Komparativ von arg; schlimmer, ärger","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ergot","description":"Subst. (Fachsprache) — Mutterkorn, ein Pilz auf Getreide","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"erhabne","description":"Adjektiv — dekliniertes Adjektiv von erhaben (e-Tilgung bei -en, z.B. Nominativ Femininum Singular)","base":"erhaben","corpus_sources":["gutenberg","kaikki_forms","ne_contracted"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"erhabnem","description":"Adjektiv — dekliniertes Adjektiv von erhaben (Dativ Maskulinum/Neutrum Singular)","base":"erhaben","corpus_sources":["kaikki_forms","ne_contracted"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"erhabnen","description":"Adjektiv — dekliniertes Adjektiv von erhaben (Dativ Plural oder Genitiv Maskulinum/Neutrum Singular)","base":"erhaben","corpus_sources":["gutenberg","kaikki_forms","ne_contracted"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"erhabner","description":"Adjektiv — dekliniertes Adjektiv von erhaben (Nominativ Maskulinum Singular oder Genitiv/Dativ Femininum Singular)","base":"erhaben","corpus_sources":["gutenberg","kaikki_forms","ne_contracted"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"erhabnes","description":"Adjektiv — dekliniertes Adjektiv von erhaben (Nominativ/Genitiv/Akkusativ Neutrum Singular, e-Tilgung)","base":"erhaben","corpus_sources":["gutenberg","kaikki_forms","ne_contracted"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"erhub","description":"Präteritum (veraltet/gehoben) von erheben","base":"erheben","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"erhübe","description":"Konjunktiv II (1./3. Person Sg.) von erheben (veraltete/landschaftliche Form)","base":"erheben","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"erhüben","description":"Konjunktiv II (1./3. Person Pl.) von erheben (veraltete/landschaftliche Form)","base":"erheben","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -4195,6 +4208,8 @@
 {"word":"kneipps","description":null,"base":"kneip","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"kneipt","description":"3. Person Singular Indikativ Präsens von kneipen (ugs. für in einer Kneipe trinken)","base":"kneipen","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kneipte","description":"Präteritum (1./3. Person Singular) von kneipen","base":"kneipen","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"knell","description":"Verb — (Glocke) läuten; (Uhr) schlagen","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"kniele","description":"Imperativ Singular von knielen (umgangssprachliche Verkürzung)","base":"knielen","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kniem","description":"Dativ Singular maskulin/neutrum von knie (substantiviertes Verb)","base":"knie","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kniep","description":null,"base":"kneip","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"kniepp","description":null,"base":"kneip","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -4333,6 +4348,7 @@
 {"word":"kuhns","description":null,"base":"kien","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"kuhs","description":"Genitiv Singular von Kuh","base":"kuh","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kulanen","description":"Pl. von Kulan","base":"kulan","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"kulle","description":"Subst. (landsch., bes. nordd.) — kleine Vertiefung, Mulde; auch für Auge (Kindersprache)","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kummen","description":null,"base":"kumme","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"kummete","description":"Präteritum von kummen (veraltet für kommen)","base":"kummen","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kummeten","description":"Präteritum Plural von kummen (veraltet für kommen)","base":"kummen","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -5134,6 +5150,7 @@
 {"word":"mumu","description":"Subst. (ugs., kinderspr.) — Bauch, dicker Bauch","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mumus","description":null,"base":"mumu","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"mundel","description":"Subst. (österr., sonst veraltet) — Mündel, bevormundete Person","base":null,"corpus_sources":["wikipedia","kaikki_forms"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"muon","description":"Subst. (Physik) — instabiles Elementarteilchen","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"muot","description":"Subst. (schweiz., veraltet) — Mut, Gemütszustand, Stimmung","base":null,"corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mups","description":"Subst. (ugs.) — Mund, Schnauze; auch für einen trotzigen Gesichtsausdruck","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"murer","description":"Subst. (schweiz.) — Maurer","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -5218,6 +5235,7 @@
 {"word":"mülner","description":null,"base":"moller","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"münte","description":"Subst. (veraltet/landschaftl.) — Münze","base":"münze","corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"münten","description":"Pl. von Münte (veraltete/landschaftliche Form für Münze)","base":"münze","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"müon","description":"Subst. (Physik) — instabiles Elementarteilchen","base":"müon","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mürder","description":"Subst. — Person, die einen Mord begeht; Totschläger","base":"mörder","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mürre","description":"Adj. — bröckelig, morsch; veraltet für reif (Frucht)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"müssel","description":null,"base":"maus","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
