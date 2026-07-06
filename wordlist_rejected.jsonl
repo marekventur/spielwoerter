@@ -2028,6 +2028,8 @@
 {"word":"errieth","description":"Verb — Präteritum (veraltet) von erraten","base":"erraten","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"erriethe","description":"Verb — 1./3. Person Singular Konjunktiv II (veraltet) von erraten","base":"erraten","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"erriethst","description":"Verb — 2. Person Singular Präteritum (veraltet) von erraten","base":"erraten","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"erroch","description":"Präteritum von riechen","base":"riechen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"errochen","description":"Partizip Perfekt von riechen","base":"riechen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"errungne","description":"Partizip II von erringen, dekliniert mit e-Tilgung (z.B. die errungne Trophäe)","base":"erringen","corpus_sources":["ne_contracted"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"errungnem","description":"Partizip II von erringen, dekliniert mit e-Tilgung (Dativ Mask./Neutr. Sg.)","base":"erringen","corpus_sources":["ne_contracted"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ers","description":null,"base":"er","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -2775,6 +2777,7 @@
 {"word":"germanas","description":null,"base":"german","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"germans","description":null,"base":"german","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"germanus","description":null,"base":"german","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gerochne","description":"Deklinierte Form des Partizips II von riechen (mit e-Tilgung)","base":"riechen","corpus_sources":["ne_contracted"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gerohrt","description":"Partizip II von rohren (Verb — röhren, schreien)","base":"rohren","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gerohrte","description":"Deklinierte Form des Partizips II (gerohrt)","base":"rohren","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gerohrtem","description":"Deklinierte Form des Partizips II (gerohrt)","base":"rohren","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -2867,6 +2870,7 @@
 {"word":"gestukt","description":"Partizip II von stuken (fachspr.) — mit Stuck (Verputz) versehen","base":"stuken","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gesuchet","description":"Konjunktiv II (2. Person Plural, veraltet) von geschehen","base":"geschehen","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gesudert","description":"Partizip Perfekt von sudern (österr., süddt. für nörgeln, murren)","base":"sudern","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gesuggelt","description":"Partizip II von suggeln (umgangssprachlich für zögern, trödeln)","base":"suggeln","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gesumse","description":"Subst. (n.) — Geräusch des Summens; substantiviertes Verb","base":"gesumse","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gesumst","description":"Partizip II von summen","base":"summen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gesöhnt","description":"Partizip II von söhnen — versöhnt","base":"söhnen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -5057,6 +5061,7 @@
 {"word":"manja","description":null,"base":"mai","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"mannel","description":null,"base":"mann","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"manni","description":null,"base":"mani","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"mannitol","description":"Subst. (Chemie) — Zuckeralkohol, Süßungsmittel","base":"mannitol","corpus_sources":["hunspell","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mannl","description":null,"base":"mann","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"mans","description":"Verb — 2./3. Person Sg. Präsens von manen (veraltet für mahnen)","base":"manen","corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"manse","description":"Subst. (veraltet/landschaftl.) — Pfarrhaus, Pfarrhof","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -5553,6 +5558,7 @@
 {"word":"naues","description":null,"base":"nauen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nauru","description":null,"base":"an","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nave","description":null,"base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"neckel","description":null,"base":"nickel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nectar","description":"Subst. (veraltet/poet.) — Nektar, Göttertrank","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"neef","description":"Subst. (veraltet, regional) — Neffe","base":null,"corpus_sources":["wikipedia","gutenberg","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"negelein","description":null,"base":"nagel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -5605,6 +5611,7 @@
 {"word":"niche","description":"Subst. (f.) — 1. Nische, Vertiefung; 2. ökologische oder marktwirtschaftliche Nische","base":null,"corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nicholl","description":null,"base":"nick","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nick","description":"Subst. — kurzes, leichtes Kopfnicken","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"nickl","description":null,"base":"nickel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nicklas","description":null,"base":"klos","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nicklass","description":null,"base":"klos","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nicklau","description":null,"base":"klos","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -5614,6 +5621,7 @@
 {"word":"nicklaß","description":null,"base":"klos","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nicknamen","description":null,"base":"nick","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nicknames","description":null,"base":"nick","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"nickol","description":null,"base":"nickel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nickolaus","description":null,"base":"klos","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nicks","description":"Pl. von Nick — kleine Kopfbewegung","base":"nick","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nicky","description":null,"base":"klos","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -5664,6 +5672,8 @@
 {"word":"niessen","description":"Verb — niesen (veraltete/regionale Schreibweise)","base":"niesen","corpus_sources":["wikipedia","kaikki_forms","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"niesters","description":"Pl. von Niester (veraltet/landschaftl.) — Nester","base":"niester","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nigers","description":null,"base":"ne","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"niggel","description":null,"base":"nickel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"niggl","description":null,"base":"nickel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nikel","description":"Subst. (veraltet, regional) — Nickel (Metall)","base":"nikel","corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"niki","description":null,"base":"klos","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nikki","description":null,"base":"klos","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -6345,6 +6355,7 @@
 {"word":"riep","description":"Präteritum von rufen","base":"rufen","corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"rieser","description":"Subst. (landsch., veraltet) — Riese; sehr großer Mensch oder Gegenstand","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"riess","description":null,"base":null,"source":"community","verified_by":"moderator"}
+{"word":"rieth","description":"Präteritum von riechen (duftete) oder veraltet für riet (von raten)","base":"riechen","corpus_sources":["wikipedia","gutenberg","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"riger","description":null,"base":"rüger","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"rigger","description":null,"base":"rüger","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"rigol","description":null,"base":"rigole","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -6469,6 +6480,7 @@
 {"word":"roßin","description":null,"base":"rosin","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"rubis","description":"Subst. (veraltet, poet.) — Rubin (Edelstein)","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ruby","description":"Subst. — Edelstein, roter Korund; Programmiersprache","base":"ruby","corpus_sources":["hunspell","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"ruchet","description":"Verb — 2. Person Plural Konjunktiv I von riechen","base":"riechen","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ruda","description":"Subst. (bot.) — Pflanzengattung (Raute)","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"rudi","description":null,"base":"rolf","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"rudolf","description":null,"base":"rolf","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -6512,6 +6524,8 @@
 {"word":"rämme","description":null,"base":"ramme","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"rämmen","description":null,"base":"ramme","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"räts","description":null,"base":"rät","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"röchst","description":"Konjunktiv II (2. Person Sg.) von riechen","base":"riechen","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"röcht","description":"Konjunktiv II (3. Person Pl.) von riechen","base":"riechen","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"röde","description":"Adj. (veraltet/landschaftl.) — rot","base":"rot","corpus_sources":["wikipedia","gutenberg","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"röder","description":"Adj. — Komparativ von rot; röter","base":"rot","corpus_sources":["hunspell","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"rödern","description":"Verb — roden, Bäume fällen, Land urbar machen","base":"rödern","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -6861,6 +6875,7 @@
 {"word":"sings","description":"Verb — 3. Person Singular Indikativ Präsens von singen","base":"singen","corpus_sources":["wiktionary","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sins","description":"Verb, 2. Person Singular Imperativ von sinnen (veraltet/gehoben) — denke nach, sinne","base":"sinnen","corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sirdar","description":"Subst. (hist.) — Titel für einen militärischen oder zivilen Befehlshaber in Indien","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"sirrs","description":"2. Person Singular Indikativ Präsens von sirren (e-Tilgung)","base":"sirren","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"siska","description":null,"base":"francisca","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"sissa","description":null,"base":"francisca","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"sissy","description":null,"base":"francisca","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -7078,6 +7093,13 @@
 {"word":"suckes","description":null,"base":"zuckes","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"sudre","description":null,"base":"gesudert","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"suede","description":"Subst. (Fremdwort) — Wildleder, Veloursleder","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"suggel","description":null,"base":"gesuggelt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"suggele","description":null,"base":"gesuggelt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"suggeln","description":null,"base":"gesuggelt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"suggelnd","description":null,"base":"gesuggelt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"suggelst","description":null,"base":"gesuggelt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"suggelte","description":null,"base":"gesuggelt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"suggle","description":null,"base":"gesuggelt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"suhl","description":"Verb — (regional) sich wälzen, suhlen","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"suhls","description":"Genitiv Singular von Suhl (Stadt)","base":"suhl","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"suhr","description":null,"base":"sauer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
