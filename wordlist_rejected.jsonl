@@ -1287,6 +1287,7 @@
 {"word":"curia","description":null,"base":"kurie","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"cursi","description":"Adj. (ugs., span. Lehnwort) — geschmacklos, kitschig, verschnörkelt","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"cursus","description":"Subst. (lat.) — Lehrgang, Kurs, Studienplan","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"cuscus","description":"Subst. — nordafrikanisches Gericht aus Grieß; auch Bezeichnung für ein Beuteltier","base":"cuscus","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"cutin","description":null,"base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"cutt","description":null,"base":"cutten","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"czar","description":"Subst. — Zar, Herrschertitel (alternative Schreibweise)","base":"zar","corpus_sources":["wiktionary","wikipedia","gutenberg"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -6840,6 +6841,8 @@
 {"word":"seconde","description":"Subst. (Fechten) — eine bestimmte Parade oder Haltung","base":null,"corpus_sources":["wiktionary","gutenberg"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"seconden","description":"Pl. von Sekunde","base":"sekunde","corpus_sources":["wiktionary","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"secundo","description":"Adv. (veraltet) — zweitens, an zweiter Stelle","base":null,"corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"sedan","description":"Subst. — geschlossener PKW mit festem Dach","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"sedans","description":"Pl. von Sedan — Limousine (PKW-Typ)","base":"sedan","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"seed","description":"Subst. (engl. Lehnwort) — Saatgut, Startposition in einem Turnier","base":"seed","corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"seeeis","description":"Subst. — auf dem Meer oder See gebildetes Eis","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"seeger","description":null,"base":"kramer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -7275,6 +7278,7 @@
 {"word":"susannah","description":null,"base":"suse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"susanne","description":null,"base":"suse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"susannes","description":null,"base":"suse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"suschi","description":null,"base":"sushi","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"suse","description":"Subst. (ugs.) — Koseform von Susanne; auch für Schlaf, Rausch","base":null,"corpus_sources":["hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"susenberg","description":null,"base":"sausen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"susenbrot","description":null,"base":"sausen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -7717,6 +7721,7 @@
 {"word":"ursulas","description":null,"base":"urs","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"ursus","description":"Subst. (biol.) — Gattungsname für Bären (z.B. Ursus arctos = Braunbär)","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"urus","description":"Subst. — ausgestorbener europäischer Wildstier, Auerochse","base":"urus","corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"uschi","description":"Subst. (ugs., Koseform) — Kurzform für Ursula oder Usch","base":"uschi","corpus_sources":["hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"uso","description":null,"base":"ouzo","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"uster","description":"Subst. (schweiz.) — Ort im Kanton Zürich; auch als Familienname","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"uten","description":null,"base":"ute","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
