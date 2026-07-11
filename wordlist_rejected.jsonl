@@ -132,6 +132,7 @@
 {"word":"adelbrand","description":null,"base":"alto","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"adele","description":null,"base":"ade","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"adelen","description":"Verb — in den Adelsstand erheben","base":"adelen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"adeler","description":null,"base":"adler","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"adeles","description":null,"base":"adel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"adelhar","description":null,"base":"ado","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"adelheid","description":null,"base":"alette","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -217,6 +218,9 @@
 {"word":"aira","description":"Subst. (bot.) — Gattung der Süßgräser, Schmielen","base":"aira","corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"airman","description":"Subst. (engl. Lehnwort) — Flieger, Luftwaffensoldat","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"aisch","description":null,"base":"isch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"aken","description":"Verb — (landschaftlich) ackern, pflügen","base":"aken","corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"akend","description":"Partizip I von aken","base":"aken","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"akens","description":null,"base":"aken","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"akia","description":null,"base":"ackja","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"akias","description":null,"base":"ackja","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"akja","description":null,"base":"ackja","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -245,6 +249,7 @@
 {"word":"aldemund","description":null,"base":"alto","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"aldemunde","description":null,"base":"alto","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"aldemunds","description":null,"base":"alto","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"alder","description":"Subst. (veraltet) — Erle (Baum)","base":null,"corpus_sources":["wikipedia","gutenberg","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"aldhelm","description":null,"base":"alto","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"aldhelme","description":null,"base":"alto","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"aldhelmen","description":null,"base":"alto","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -464,6 +469,7 @@
 {"word":"argert","description":"3. Person Sg. Präsens von argern","base":"argern","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"argerte","description":"Präteritum von argern (veraltet für ärgern)","base":"argern","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"argerten","description":"Präteritum 3. Person Plural von argern","base":"argern","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"argh","description":"Interjektion — Ausdruck von Ärger, Schmerz oder Überdruss","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"aria","description":"Subst. (Musik) — solistisches Gesangsstück in Oper, Kantate etc","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"arias","description":"Pl. von Aria — Gesangsstück in Oper oder Kantate","base":"aria","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"armel","description":"Subst. — Ärmel","base":"ärmel","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -888,6 +894,8 @@
 {"word":"bindi","description":"Subst. — Punkt oder Schmuckzeichen auf der Stirn in der indischen Kultur","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"binds","description":"3. Person Singular Indikativ Präsens von binden","base":"binden","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"bint","description":"Subst. (ugs., oft abwertend) — Mädchen, junge Frau","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"binze","description":"Subst. (f.) — Grasart der Gattung Juncus; Simse","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"binzens","description":"Genitiv Singular von Binze","base":"binze","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"birgit","description":null,"base":"breite","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"birgitta","description":null,"base":"breite","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"birn","description":"Subst. (ugs., regional) — Kurzform für Birne (Frucht oder Glühbirne)","base":"birne","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -1587,6 +1595,7 @@
 {"word":"dolfi","description":null,"base":"ad","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"dolfs","description":null,"base":"ad","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"dolina","description":"Subst. (Geol.) — trichter- oder schüsselförmige Senke in Karstgebieten","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"dollern","description":"Verb (umgangssprachlich) — laut schlagen, klopfen; viel Alkohol trinken","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"domann","description":null,"base":"maas","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"domenic","description":null,"base":"nick","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"domenica","description":null,"base":"nick","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -2290,6 +2299,7 @@
 {"word":"fehre","description":"Verb (regional, veraltet) — fahren, übersetzen (z.B. über einen Fluss)","base":"fehren","corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"feigst","description":"Verb — 2. Person Sg. Präsens von feigen (umgangssprachlich: sich drücken)","base":"feigen","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"feigt","description":"Verb — 3. Person Sg. Präsens von feigen (umgangssprachlich: sich drücken)","base":"feigen","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"feinbier","description":"Subst. — hochwertiges, stark eingebrautes Bier","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"feinend","description":"Partizip I von feinen (Verb — verfeinern, ausarbeiten)","base":"feinen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"feinende","description":"Deklinierte Form des Partizips I (feinend)","base":"feinen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"feinendem","description":"Dativ Singular Mask./Neut. des deklinierten Partizips I","base":"feinen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -2675,7 +2685,9 @@
 {"word":"garitrude","description":null,"base":"gesine","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gars","description":"Subst. (regional, veraltet) — junger Eber, Keiler","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gartrude","description":null,"base":"gesine","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gasels","description":null,"base":"ghasel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gass","description":null,"base":"gasse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gasses","description":"Genitiv Singular von Gas","base":"gas","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gat","description":"Subst. (nordd., naut.) — schmale Durchfahrt im Watt oder zwischen Inseln; enger Wasserweg","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gatt","description":null,"base":"gatte","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gatty","description":null,"base":"gate","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -2789,6 +2801,7 @@
 {"word":"gehangnen","description":"Partizip II von hängen (intransitiv) — dekliniert (Dativ Plural/Genitiv)","base":"hängen","corpus_sources":["ne_contracted"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gehangner","description":"Partizip II von hängen (intransitiv) — dekliniert (Genitiv Fem./Pl., Nom. Fem.)","base":"hängen","corpus_sources":["ne_contracted"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gehangnes","description":"Partizip II von hängen (intransitiv) — dekliniert (Nom./Akk. Neutr.)","base":"hängen","corpus_sources":["ne_contracted"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gehart","description":"Partizip II von haren (veraltet) — geharrt, gewartet","base":"haren","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gehaubt","description":null,"base":"haube","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"geheert","description":"Partizip II von heeren (veraltet für plündern, rauben)","base":"heeren","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geheisste","description":"Partizip II von heißen, dekliniert (Nominativ/Akkusativ Singular Femininum, Nominativ/Akkusativ Plural, schweiz./veraltete Rechtschreibung)","base":"heißen","corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -3113,6 +3126,7 @@
 {"word":"geßner","description":null,"base":"gasse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"geäpfelt","description":null,"base":"äpfel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"geörtert","description":null,"base":"örter","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"ghasels","description":null,"base":"ghasel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"ghjuvan","description":null,"base":"hanke","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gian","description":null,"base":"hanke","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gianna","description":null,"base":"jean","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -3333,6 +3347,7 @@
 {"word":"hadamek","description":null,"base":"ade","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hadamik","description":null,"base":"ade","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hadank","description":null,"base":"ade","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"hadeln","description":"Verb — (landschaftlich) zanken, streiten","base":"hadeln","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hadjdj","description":null,"base":"haddsch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hadt","description":"Verb — Präteritum von haben (veraltet/landschaftlich)","base":"haben","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"haeberle","description":null,"base":"haber","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -3378,6 +3393,7 @@
 {"word":"hainlain","description":null,"base":"hain","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hainle","description":null,"base":"hain","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hainy","description":null,"base":"hain","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"haji","description":"Subst. — muslimischer Pilger, der die Hadsch vollzogen hat","base":"haji","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hajj","description":null,"base":"haddsch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hakka","description":null,"base":"chi","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hakkas","description":null,"base":"chi","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -3440,22 +3456,31 @@
 {"word":"hansi","description":null,"base":"hanse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hansje","description":null,"base":"jean","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"har","description":"Interjektion — Lautnachahmung für hartes Lachen","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"curated","verified_by":"manual"}
+{"word":"harald","description":null,"base":"herold","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"haralda","description":null,"base":"herold","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"haralde","description":null,"base":"herold","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"haralden","description":null,"base":"herold","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"haralds","description":null,"base":"herold","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"harang","description":"Subst. (f.) — laute, heftige Ansprache, Strafpredigt","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hard","description":"Adj. — fest, widerstandsfähig, schwierig","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"harde","description":"Adj. — veraltet/landschaftlich für hart, streng, fest","base":"hard","corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"harder","description":"Adj. — Komparativ von hart; fester, strenger","base":"hart","corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hardes","description":"Deklinierte Form des Adjektivs hart (z.B. Genitiv Singular maskulin/neutrum)","base":"hart","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hardy","description":null,"base":"ebbes","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"haren","description":null,"base":"gehart","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hareng","description":"Subst. (veraltet/franz.) — Hering","base":"hareng","corpus_sources":["wiktionary","gutenberg"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"harens","description":null,"base":"gehart","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"harig","description":"Adj. — mit Haaren bedeckt, haarig","base":"harig","corpus_sources":["wikipedia","gutenberg","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hariger","description":"Adj. — Komparativ von harig; haariger","base":"harig","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"harigs","description":"Deklinierte Form von harig (z.B. Genitiv Singular Neutrum)","base":"harig","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"harks","description":null,"base":"hark","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"harle","description":"Subst. — veraltet für Narr, Possenreißer","base":"harle","corpus_sources":["hunspell","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"harme","description":null,"base":"harm","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"harmsen","description":null,"base":"harm","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"harnack","description":null,"base":"ermsten","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"harning","description":null,"base":"ermsten","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"haro","description":"Interjektion — historischer Hilferuf, Ausruf der Empörung","base":null,"corpus_sources":["wikipedia","gutenberg","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"harold","description":null,"base":"herold","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"harpe","description":"Subst. (veraltet, poet.) — Sense, Sichel","base":"harpe","corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"harres","description":null,"base":"hark","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hartl","description":null,"base":"hart","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -3766,6 +3791,8 @@
 {"word":"herne","description":"Subst. — Stadt in Nordrhein-Westfalen; auch veraltet für Hirn","base":"herne","corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hernes","description":null,"base":"herne","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hernia","description":"Subst. (Med.) — Eingeweidebruch","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"heroldes","description":"Genitiv Singular von Herold","base":"herold","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"heroldin","description":null,"base":"herold","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"herre","description":null,"base":"herr","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"herrgen","description":null,"base":"herr","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"herrl","description":null,"base":"herr","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -3793,6 +3820,7 @@
 {"word":"heruler","description":"Subst. — Angehöriger des germanischen Stammes der Heruler","base":"heruler","corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"herulern","description":"Dativ Plural von Heruler","base":"heruler","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"herulers","description":"Genitiv Singular von Heruler","base":"heruler","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"herwald","description":null,"base":"herold","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"herzer","description":null,"base":"herrscher","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"herzmann","description":null,"base":"herrscher","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hesel","description":null,"base":"häsele","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -3898,6 +3926,7 @@
 {"word":"hochster","description":"Deklinierte Form des Adjektivs 'hoch' (Superlativ)","base":"hoch","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hodam","description":null,"base":"ade","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hodja","description":"Subst. (türk.) — islamischer Lehrer, Gelehrter","base":"hodja","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"hodler","description":null,"base":"adler","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hoefel","description":null,"base":"hof","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hoefele","description":null,"base":"hof","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hoefelein","description":null,"base":"hof","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -4323,6 +4352,7 @@
 {"word":"irenen","description":null,"base":"iren","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"irens","description":"Genitiv Singular von Ire","base":"ire","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"irer","description":"Subst. — Einwohner Irlands","base":"ire","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"irisier","description":"Verb — irisieren, schillernde Farben zeigen","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"irma","description":null,"base":"imke","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"irmas","description":null,"base":"imke","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"isai","description":null,"base":"jesse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -6624,6 +6654,7 @@
 {"word":"rener","description":null,"base":"reiner","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"renert","description":null,"base":"reiner","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"reni","description":null,"base":"nati","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"renin","description":"Subst. (Biochemie) — Enzym, das den Blutdruck reguliert","base":"renin","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"rensch","description":null,"base":"lenz","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"rent","description":"Präteritum von rennen","base":"rennen","corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"renter","description":"Subst. (ugs.) — Person, die eine Rente bezieht; Rentner","base":"renter","corpus_sources":["wikipedia","gutenberg","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -7512,6 +7543,7 @@
 {"word":"surinam","description":null,"base":"sur","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"suriname","description":null,"base":"sur","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"surinames","description":null,"base":"sur","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"surowe","description":"Adjektiv (veraltet/regional) — rau, herb, streng. Deklinierte Form (z.B. Nominativ/Akkusativ Femininum/Plural)","base":"surow","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"susan","description":null,"base":"suse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"susann","description":null,"base":"suse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"susannah","description":null,"base":"suse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -7629,6 +7661,7 @@
 {"word":"teinten","description":"Verb — 1./3. Person Plural Präteritum von teinen","base":"teinen","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"teist","description":"Subst. — Seevogel (Taucherart)","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"telege","description":null,"base":"telegen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"temel","description":"Subst. (österr., südd., schweiz.) — Pfosten, Stütze, Grundpfeiler","base":"temel","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"tende","description":null,"base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"tenk","description":null,"base":"denk","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"tenn","description":null,"base":"tenne","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -8024,6 +8057,7 @@
 {"word":"vanni","description":null,"base":"hanke","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"vano","description":null,"base":"hanke","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"vanya","description":null,"base":"hanke","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"varl","description":null,"base":"adler","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"varn","description":null,"base":"var","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"vars","description":null,"base":"var","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"vatere","description":null,"base":"mutter","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -8057,6 +8091,7 @@
 {"word":"viktor","description":null,"base":"fieke","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"viktoria","description":null,"base":"fieke","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"viller","description":null,"base":"weier","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"vinca","description":"Subst. (Bot.) — Pflanzengattung der Hundsgiftgewächse (Immergrün)","base":null,"corpus_sources":["wikipedia","gutenberg","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"vischer","description":null,"base":"fischer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"vischers","description":null,"base":"fischer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"vise","description":"Subst. (schweiz., österr.) — Schraubstock","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -8153,6 +8188,7 @@
 {"word":"wanka","description":null,"base":"hanke","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"warden","description":null,"base":"werd","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"warder","description":null,"base":"werd","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"warl","description":null,"base":"adler","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"wastel","description":null,"base":"bast","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"wastl","description":null,"base":"bast","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"wauen","description":null,"base":"wau","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
