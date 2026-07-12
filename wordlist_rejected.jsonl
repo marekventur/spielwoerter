@@ -1596,6 +1596,8 @@
 {"word":"ditterich","description":null,"base":"dietrich","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"dittrich","description":null,"base":"dietrich","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"dißel","description":null,"base":"deisel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"djinn","description":"Subst. (m.) — übernatürliches Wesen in der arabischen Mythologie; Dschinn","base":"djinn","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"djinns","description":"Pl. von Djinn","base":"djinn","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"dodde","description":null,"base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"doeg","description":"Interjektion (niederl./regional) — Abschiedsgruß","base":null,"corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"doei","description":"Interjektion (niederl./umgangssprachl.) — Abschiedsgruß","base":null,"corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -4464,6 +4466,7 @@
 {"word":"jenten","description":"Pl. von Jente","base":"jente","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"jentes","description":null,"base":"jente","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"jerra","description":null,"base":"gesine","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"jinn","description":"Subst. (Pl. Jinns) — Geistwesen in der arabischen Mythologie","base":"jinn","corpus_sources":["wikipedia","kaikki_forms","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"jins","description":null,"base":"chi","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"jinyu","description":null,"base":"chi","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"jinyus","description":null,"base":"chi","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -6779,6 +6782,9 @@
 {"word":"riker","description":null,"base":"rüger","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"rima","description":"Subst. (anat.) — Spalt, Furche (z.B. Rima glottidis, Stimmritze)","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"rimlos","description":"Adj. — ohne Rand oder Kante","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"rindl","description":null,"base":"rind","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"rindle","description":null,"base":"rind","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"rindles","description":null,"base":"rind","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"rinnchen","description":null,"base":"rinn","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"rinnes","description":null,"base":"rinn","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"rinnig","description":"Adj. — flüssig, dünnflüssig; von der Konsistenz her fließend","base":null,"corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -7888,6 +7894,7 @@
 {"word":"traudt","description":null,"base":"traut","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"trauth","description":null,"base":"traut","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"trauts","description":"Deklinierte Form des Adjektivs traut (vertraut, innig)","base":"traut","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"trendl","description":null,"base":"dreidel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"trets","description":"Verb — 2. Person Singular Imperativ von treten","base":"treten","corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"treuest","description":"Superlativ von treu, prädikative Form","base":"treu","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"treus","description":"Subst. — Genitiv Singular von Treu (veraltet für Treue)","base":"treu","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
