@@ -3,10 +3,10 @@
   "accepted": {
     "total": 197879,
     "by_source": {
-      "community": 231,
+      "community": 233,
       "curated": 104,
       "llm": 174635,
-      "morphology": 22909
+      "morphology": 22907
     },
     "by_classification_pass": {
       "double-pass-agree": 139115,
@@ -16,8 +16,8 @@
       "2": 68,
       "3": 625,
       "4": 3486,
-      "5": 9859,
-      "6": 20246,
+      "5": 9858,
+      "6": 20247,
       "7": 33893,
       "8": 52806,
       "9": 76877,
@@ -27,6 +27,6 @@
     }
   },
   "uncertain": {
-    "total": 1307
+    "total": 1306
   }
 }
