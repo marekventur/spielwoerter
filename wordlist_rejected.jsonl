@@ -4980,6 +4980,7 @@
 {"word":"imsts","description":null,"base":"im","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"inanes","description":"Deklinierte Form (Nom./Akk. Neutr. Sg.) von inan","base":"inan","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"inans","description":"Gen. Sg. von Inan","base":"inan","source":"community","verified_by":"moderator"}
+{"word":"inarnt","description":"Verb — 3. Pers. Sg. Präsens von inarmen (umarmen, einschließen)","base":"inarmen","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"inauen","description":null,"base":"au","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"incel","description":"Subst. (Neologismus) — unfreiwillig zölibatär lebende Person","base":"incel","corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"incels","description":"Pl. von Incel (Neologismus)","base":"incel","corpus_sources":["wiktionary","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -6165,6 +6166,7 @@
 {"word":"mags","description":"Pl. von Mag — umgangssprachlich für Magazin (Zeitschrift)","base":"mag","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mahaut","description":null,"base":"mahout","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"mahauts","description":null,"base":"mahout","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"mahns","description":"Verb — 2./3. Pers. Sg. Präsens von mahnen","base":"mahnen","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mahout","description":"Subst. — Elefantenführer, -lenker (aus dem Indischen)","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mahouts","description":"Pl. von Mahout","base":"mahout","corpus_sources":["wiktionary","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mahre","description":"Subst. (veraltet, poet.) — Stute, Pferd","base":"mahre","corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
