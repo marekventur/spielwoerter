@@ -727,6 +727,7 @@
 {"word":"baierle","description":null,"base":"baier","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"baierlein","description":null,"base":"baier","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"baierles","description":null,"base":"baier","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"bajer","description":"Subst. (ugs.) — Scherz, Schwindel; auch für besondere Sache","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"baluch","description":"Subst. — Angehöriger eines iranischen Volkes in Pakistan/Iran","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"baluchi","description":"Subst. — Sprache der Belutschen; auch Angehöriger des Volkes","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"baluchis","description":"Pl. von Baluchi","base":"baluchi","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
