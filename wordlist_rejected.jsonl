@@ -1691,6 +1691,7 @@
 {"word":"chicen","description":null,"base":"chic","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"chile","description":null,"base":"chi","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"chiles","description":null,"base":"chi","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"chills","description":"3. Person Singular Indikativ Präsens von chillen","base":"chillen","corpus_sources":["wiktionary","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"china","description":null,"base":"chino","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"chinaboeller","description":"Subst., m. — Feuerwerkskörper, der einen lauten Knall erzeugt","base":"chinaböller","source":"community","verified_by":"moderator"}
 {"word":"chinaboellern","description":"Dat. Pl. von Chinaboeller","base":"chinaböller","source":"community","verified_by":"moderator"}
@@ -3484,6 +3485,7 @@
 {"word":"gaude","description":"Subst. (veraltet) — Freude, Vergnügen","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gauer","description":"Adj. — Komparativ von gau (veraltet für schlau, listig)","base":"gau","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gauers","description":"Subst. — Genitiv Singular von Gauer (veraltet für schlauer Mensch)","base":"gauer","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gaugel","description":null,"base":"gaugele","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gaugele","description":"Verb — 1. Person Sg. Konjunktiv I von gaukeln; 2. Person Sg. Imperativ von gaukeln","base":"gaukeln","corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gauke","description":"Verb — 1. Person Sg. Indikativ Präsens von gauken (veraltet für gaukeln); Imperativ Sg. von gauken","base":"gauken","corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gaum","description":null,"base":"gaume","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -3650,6 +3652,7 @@
 {"word":"geiend","description":null,"base":"geist","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"geigerts","description":null,"base":"geiger","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"geiges","description":"Genitiv Singular von Geige","base":"geige","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"geikler","description":null,"base":"gaugele","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"geiling","description":"Partizip I von geilen, adjektivisch dekliniert","base":"geilen","corpus_sources":["wikipedia","kaikki_forms","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geilinger","description":"Komparativ von geil, deklinierte Form","base":"geil","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geils","description":"Genitiv Singular von geil (Adjektiv)","base":"geil","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -3946,6 +3949,7 @@
 {"word":"geturst","description":null,"base":"tar","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"getört","description":"Partizip II von tören (Verb — veraltet/landschaftlich für stören, ärgern)","base":"tören","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geuert","description":null,"base":"gode","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"geukler","description":null,"base":"gaugele","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"geusens","description":"Genitiv Singular von Geuse","base":"geuse","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geusin","description":null,"base":"geuse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"geusinnen","description":null,"base":"geuse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -4071,6 +4075,8 @@
 {"word":"gnad","description":null,"base":"gnade","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gnida","description":"Subst. (f.) — Nisse, Ei einer Laus","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gnädge","description":"Adj. (veraltet/kurz für) — gnädige (Anrede)","base":"gnädig","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gockeler","description":null,"base":"gaugele","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gockler","description":null,"base":"gaugele","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"godefrid","description":null,"base":"gode","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"godel","description":null,"base":"gode","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"goden","description":null,"base":"gode","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -4086,6 +4092,10 @@
 {"word":"goffman","description":null,"base":"hofer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"goflein","description":null,"base":"goof","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gofs","description":null,"base":"goof","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gogel","description":null,"base":"gaugele","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gogels","description":null,"base":"gaugele","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gogl","description":null,"base":"gaugele","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gogler","description":null,"base":"gaugele","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"goje","description":null,"base":"goi","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"goji","description":"Subst. — Kurzform für Gojibeere, eine Frucht","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"goma","description":"Subst. (f.) — Gummi, Kautschuk (aus dem Spanischen)","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -4230,9 +4240,18 @@
 {"word":"gäßl","description":null,"base":"gasse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gäßler","description":null,"base":"gasse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gäßner","description":null,"base":"gasse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"göckel","description":null,"base":"gaugele","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"göckerle","description":null,"base":"gaugele","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"göde","description":null,"base":"gode","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gödeke","description":null,"base":"gode","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"göfli","description":null,"base":"goof","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gögel","description":null,"base":"gaugele","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gögelein","description":null,"base":"gaugele","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"göggel","description":null,"base":"gaugele","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"göggelein","description":null,"base":"gaugele","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"göggl","description":null,"base":"gaugele","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gögl","description":null,"base":"gaugele","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gögler","description":null,"base":"gaugele","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"göres","description":null,"base":"georgette","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"görgel","description":null,"base":"georgette","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"görner","description":null,"base":"kerner","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -4961,6 +4980,7 @@
 {"word":"hoefel","description":null,"base":"hof","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hoefele","description":null,"base":"hof","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hoefelein","description":null,"base":"hof","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"hoefens","description":null,"base":null,"source":"community","verified_by":"moderator"}
 {"word":"hoeffchen","description":null,"base":"hof","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hoeffgen","description":null,"base":"hof","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hoeffken","description":null,"base":"hof","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -5465,6 +5485,7 @@
 {"word":"ische","description":"Deklinierte Form des Adjektivs/Substantivs isch (ugs. für 'typisch, zugehörig')","base":"isch","corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ischer","description":"1. Deklinierte Form von isch. 2. Subst. (m.) — Trinker (von ischen)","base":"isch","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"isches","description":null,"base":"isch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"isebel","description":null,"base":"jezebel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"isern","description":"Verb (veraltet/landschaftl.) — eisern machen, mit Eisen beschlagen","base":null,"corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"iserne","description":"Adjektiv — veraltete/landschaftliche Form von eisern; aus Eisen","base":"eisern","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"islek","description":"Subst. — Landschaft in der Eifel (Rheinland-Pfalz)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -6757,7 +6778,6 @@
 {"word":"mandls","description":null,"base":"mandl","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"mandus","description":null,"base":"manda","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"manel","description":null,"base":"mani","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"manen","description":null,"base":"manet","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"manes","description":"Pl. von Mana (religiöse/spirituelle Kraft)","base":"mana","corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"manet","description":"Verb — 3. Person Sg. Präsens von manen (veraltet für mahnen)","base":"manen","corpus_sources":["wikipedia","gutenberg","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"manfred","description":null,"base":"mani","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -7166,6 +7186,7 @@
 {"word":"minden","description":"Verb (veraltet/landschaftl.) — mindern, vermindern","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mined","description":"Partizip II von minen (Verb — mit Minen versehen/legen)","base":"minen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"minend","description":"Partizip I von minen (Verb — mit Minen versehen/legen)","base":"minen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"mines","description":"Pl. von Mine (Sprengkörper, Erzgrube, Schreibmine)","base":"mine","corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"minest","description":"2. Person Singular Indikativ Präsens von minen (ugs. für Minen legen/entschärfen)","base":"minen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"minet","description":null,"base":"mine","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"minnan","description":null,"base":"chi","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -7201,6 +7222,7 @@
 {"word":"mitt","description":"Präp. (veraltet, poet., südd., österr., schweiz.) — mit","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mitweht","description":"3. Person Singular Indikativ Präsens von mitwehen","base":"mitwehen","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mitzi","description":null,"base":"mai","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"mixter","description":"Verb — 1. Person Sg. Präsens von mixen (mischen)","base":"mixen","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mizzi","description":null,"base":"mai","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"mlle","description":null,"base":"monsieur","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"mlles","description":null,"base":"monsieur","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -7324,6 +7346,9 @@
 {"word":"mutende","description":"Deklinierte Form des Partizips I (mutend)","base":"muten","corpus_sources":["wiktionary","hunspell","wikipedia"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mutendem","description":"Deklinierte Form des Partizips I (mutend)","base":"muten","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"muth","description":"Subst. (veraltet) — alternative Schreibweise von Mut","base":"mut","corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"muthig","description":"Adj. — veraltet/schweiz. für mutig, tapfer","base":null,"corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"muthige","description":"Deklinierte Form von muthig (z.B. eine muthige Tat)","base":"muthig","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"muthigste","description":"Superlativ von muthig (am muthigsten)","base":"muthig","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"muttere","description":"Verb — 1. Person Sg. Konjunktiv I von muttern (leise sprechen)","base":"muttern","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"muttern","description":"Verb — undeutlich, leise vor sich hin sprechen; murren","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mutternd","description":"Partizip I von muttern, adjektivisch verwendbar","base":"muttern","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -7531,6 +7556,7 @@
 {"word":"neroli","description":"Subst. — ätherisches Öl aus Orangenblüten","base":null,"corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nerolidol","description":"Subst. (Chemie) — ein Sesquiterpenalkohol mit blumigem Geruch","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nerren","description":"Verb — (veraltet/landschaftlich) knurren, murren, brummen","base":null,"corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"nervos","description":"Adj. (veraltet/geh.) — nervös, reizbar","base":null,"corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nesou","description":"Verb — 3. Person Plural Präsens von nést (tragen)","base":"nést","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nesouc","description":"Verb — Partizip Präsens (Adverbialform) von nést (tragend)","base":"nést","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nesouce","description":"Verb — Partizip Präsens (Adverbialform) von nést (tragend)","base":"nést","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -7555,7 +7581,6 @@
 {"word":"niche","description":"Subst. (f.) — 1. Nische, Vertiefung; 2. ökologische oder marktwirtschaftliche Nische","base":null,"corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nicholl","description":null,"base":"nick","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nichs","description":null,"base":"nicks","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"nick","description":"Subst. — kurzes, leichtes Kopfnicken","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nickl","description":null,"base":"nickel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nicklas","description":null,"base":"klos","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nicklass","description":null,"base":"klos","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -7743,6 +7768,7 @@
 {"word":"nöth","description":null,"base":"nöthen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nöthen","description":"Verb — (veraltet) Infinitiv von nöten","base":"nöten","corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nückel","description":null,"base":"nick","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"nücklaus","description":null,"base":"nick","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nülle","description":null,"base":"nille","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nüni","description":null,"base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nürz","description":null,"base":"nerz","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -7788,6 +7814,7 @@
 {"word":"odin","description":"Subst. — Hauptgott in der nordischen Mythologie","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"odinga","description":null,"base":"ode","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"odle","description":null,"base":"adel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"odol","description":"Subst. (veraltet) — Markenname für Mundwasser, auch als Gattungsbegriff für Mundhygieneprodukte","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"odtmann","description":null,"base":"ode","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"oechsle","description":null,"base":"ochs","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"oedken","description":null,"base":"ode","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -8294,6 +8321,7 @@
 {"word":"rauert","description":"Verb — 3. Person Singular Präsens von rauern (selten für rau werden/machen)","base":"rauern","corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"rauerte","description":"Verb — 1./3. Person Singular Präteritum von rauern","base":"rauern","corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"rauerten","description":"Verb — 1./3. Person Plural Präteritum von rauern","base":"rauern","corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"rauerts","description":null,"base":"rauert","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"rauhudt","description":null,"base":"rauhaut","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"rauhut","description":null,"base":"rauhaut","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"rauhuth","description":null,"base":"rauhaut","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
