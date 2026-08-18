@@ -524,6 +524,7 @@
 {"word":"antaus","description":null,"base":"antau","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"antheil","description":"Subst. (veraltete Rechtschreibung) — Anteil","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"antung","description":"Präteritum von antun","base":"antun","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"aorte","description":"Subst. (f.) — Hauptschlagader, große Körperschlagader","base":"aorta","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"apbt","description":null,"base":"pitbull","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"aperstem","description":null,"base":"aper","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"appen","description":"Verb (ugs.) — eine App nutzen, am Smartphone/Computer aktiv sein","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -1881,6 +1882,7 @@
 {"word":"cursus","description":"Subst. (lat.) — Lehrgang, Kurs, Studienplan","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"curva","description":"Subst. (ital., Sport) — Kurve, Stehplatzbereich im Stadion","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"cuscus","description":"Subst. — nordafrikanisches Gericht aus Grieß; auch Bezeichnung für ein Beuteltier","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"custos","description":"Subst. (veraltet) — Aufseher, Hüter, Kustos","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"cutin","description":null,"base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"cutt","description":null,"base":"cutten","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"czar","description":"Subst. — Zar, Herrschertitel (alternative Schreibweise)","base":"zar","corpus_sources":["wiktionary","wikipedia","gutenberg"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -4854,6 +4856,7 @@
 {"word":"herdtler","description":null,"base":"hart","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"herdtles","description":null,"base":"hart","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"here","description":"Adv. (veraltet, geh., landschaftl.) — her, hierher","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"heresie","description":"Subst. (veraltet) — Häresie, Irrlehre","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hergot","description":"Interjektion (veraltet, landschaftlich) — Ausruf der Verwunderung, Verstärkung; Kurzform von 'Hergott'","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"herje","description":"Interjektion — Ausruf der Überraschung, des Erschreckens oder der Verstärkung","base":null,"corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"herl","description":null,"base":"harm","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -5555,6 +5558,7 @@
 {"word":"isai","description":null,"base":"jesse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"isais","description":null,"base":"jesse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"isar","description":"Subst. (geogr.) — Fluss in Bayern, Nebenfluss der Donau","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"isard","description":"Subst. — Pyrenäengemse","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"isaurer","description":"Subst. — Einwohner der antiken Landschaft Isaurien","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"isch","description":"Adj. (ugs., regional) — abgekürzt für 'ist es' oder 'ist es nicht' (wie in 'Isch doch egal')","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ische","description":"Deklinierte Form des Adjektivs/Substantivs isch (ugs. für 'typisch, zugehörig')","base":"isch","corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -5669,6 +5673,7 @@
 {"word":"jenten","description":"Pl. von Jente","base":"jente","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"jentes","description":null,"base":"jente","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"jerra","description":null,"base":"gesine","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"jeseter","description":"Subst. — Stör (Fisch)","base":null,"corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"jetta","description":null,"base":"jette","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"jhwh","description":null,"base":"jahve","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"jindrich","description":null,"base":"heini","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -5827,6 +5832,7 @@
 {"word":"jürg","description":null,"base":"georgette","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"jürgen","description":null,"base":"georgette","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"jürn","description":null,"base":"georgette","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"jütte","description":"Subst. — veraltete/landschaftliche Form für Jüte","base":"jüte","corpus_sources":["wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kaar","description":null,"base":"kaare","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"kaare","description":"Dativ Singular von Kar (veraltet für Karren, Gefährt)","base":"kar","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kaatsen","description":null,"base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -6600,6 +6606,7 @@
 {"word":"lime","description":"Subst. (engl. Lehnwort) — Limette; auch Kalk","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"lina","description":null,"base":"line","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"linas","description":null,"base":"line","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"linck","description":null,"base":"lenk","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"lindchen","description":"Subst. — Diminutiv von Linde; kleine Linde","base":"linde","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"lindel","description":null,"base":"linde","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"lindemann","description":null,"base":"linde","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -6618,6 +6625,8 @@
 {"word":"ling","description":"Subst. — Fischart (Dorschart)","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"lingalas","description":null,"base":"lin","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"lingg","description":null,"base":"lenk","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"lingk","description":null,"base":"lenk","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"linkern","description":"Adjektiv — Komparativ von link, dekliniert (Dativ Plural)","base":"link","corpus_sources":["wiktionary","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"linn","description":null,"base":"lin","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"linne","description":null,"base":"linde","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"lino","description":"Subst. (kurz für) — Linoleum","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -6723,6 +6732,7 @@
 {"word":"ludewigt","description":null,"base":"lücke","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"ludion","description":"Subst. — physikalisches Spielzeug, Tauchglocke","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ludl","description":null,"base":"lücke","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"ludo","description":"Subst. — Brettspiel (Würfel- und Strategiespiel)","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ludovici","description":null,"base":"lücke","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"ludowig","description":null,"base":"lücke","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"ludwig","description":null,"base":"lusch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -7671,6 +7681,7 @@
 {"word":"nenie","description":"Subst. (f.) — Trauerlied, Klagelied","base":null,"corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nerdin","description":null,"base":"nerd","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nerdinnen","description":null,"base":"nerd","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"nerdy","description":"Adj. (engl. Lehnwort) — nerdhaft, einem Nerd entsprechend","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nereis","description":null,"base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"neres","description":null,"base":"nieres","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nerf","description":"Verb (engl. Lehnwort, Gaming) — die Stärke eines Spiel-Elements abschwächen","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -8120,6 +8131,8 @@
 {"word":"paische","description":null,"base":"patze","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"paitza","description":null,"base":"patze","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"pak","description":"Subst. — Packeis; zusammengedrückte Eismassen","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"curated","verified_by":"manual"}
+{"word":"pamela","description":"Subst. — breitkrempiger Damenhut","base":null,"corpus_sources":["hunspell","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"pamelas","description":"Pl. von Pamela","base":"pamela","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"pamer","description":null,"base":"boomer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"panga","description":"Subst. — afrikanisches Buschmesser, großes Messer","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"pangea","description":"Subst. (Geol.) — Urkontinent der Erdgeschichte","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -8488,6 +8501,7 @@
 {"word":"ravens","description":"Pl. von Rabe (Vogel)","base":"rabe","corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"razia","description":"Subst. (f.) — polizeiliche Razzia, Durchsuchungsaktion","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"reactor","description":"Subst. — Reaktor, Kernreaktor","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"ready","description":"Adj. (umgs., aus dem Engl.) — bereit, fertig; als Stichwort in deutschen Wörterbüchern verzeichnet","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"realie","description":"Subst. (meist Pl.) — Sach- oder Anschauungsmittel im Unterricht; historischer Gegenstand","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"realness","description":"Subst. — Eigenschaft, echt oder wirklich zu sein; Authentizität","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"rebelle","description":"Verb — 1. Person Singular Konjunktiv I von rebellieren","base":"rebellieren","corpus_sources":["wiktionary","wikipedia","gutenberg"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -11032,7 +11046,11 @@
 {"word":"zebec","description":"Subst. (veraltet) — kleines, schnelles Segelschiff im Mittelmeer","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"zedd","description":"Subst. (veraltet) — der Buchstabe Z","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"zedel","description":null,"base":"zettel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"zehchen","description":null,"base":"zeh","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"zehenden","description":"Deklinierte Form von Zehe (Dat. Pl. oder schwache Deklination)","base":"zehe","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"zehent","description":"Subst. (veraltet) — der Zehnte (Steuer, Abgabe)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"zehes","description":null,"base":"zeh","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"zehlein","description":null,"base":"zeh","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"zeichlein","description":null,"base":"zeichen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"zeiden","description":"Verb (veraltet) — Honig aus wilden Bienennestern sammeln, zeideln","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"zeier","description":"Subst. — Person, die zeiht (anklagt, beschuldigt)","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
