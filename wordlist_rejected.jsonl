@@ -1659,6 +1659,7 @@
 {"word":"bürklein","description":null,"base":"birke","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"bürkli","description":null,"base":"birke","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"bürle","description":"Subst. (südd., alem., schwäb.) — kleiner Bauer, Bäuerlein; auch als Spitzname","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"büsch","description":"Subst. (landsch., veraltet) — Büschel, Busch","base":null,"corpus_sources":["wikipedia","kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"büssi","description":null,"base":null,"source":"community","verified_by":"moderator"}
 {"word":"cabine","description":"Subst. (f.) — Kabine, kleine abgeschlossene Räumlichkeit (z.B. Dusch-, Telefon-)","base":null,"corpus_sources":["wiktionary","gutenberg"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"cacao","description":"Subst. (m.) — Kakaobaum oder dessen Samen (Kakao)","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -1686,6 +1687,7 @@
 {"word":"camel","description":"Subst. (engl. Lehnwort) — Kamel; auch für einen bestimmten Tabak oder eine Zigarettenmarke","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"cameleon","description":"Subst. (veraltet/landschaftl.) — Chamäleon","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"cami","description":"Subst. (ugs., Kurzw.) — Camisole, ärmelloses Unterhemd","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"campi","description":"Pl. von Campus (Hochschulgelände)","base":"campus","corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"canal","description":"Subst. (veraltet/geh.) — Kanal, Wasserstraße","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"cancere","description":"Dativ Singular von Cancer","base":"cancer","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"cancerem","description":"Dativ Singular von Cancer (mit Dativ-e)","base":"cancer","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -11327,6 +11329,7 @@
 {"word":"zuer","description":null,"base":"zu","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"zuern","description":null,"base":"zorn","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"zues","description":null,"base":"zu","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"zurrer","description":"Subst. (m.) — Person oder Vorrichtung, die etwas festzurrt","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"zuse","description":"Verb — Imperativ Singular von 'zusehen' (e-Tilgung)","base":"zusehen","corpus_sources":["hunspell","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"zusehn","description":"Infinitiv von zusehen mit e-Tilgung nach Vokal","base":"zusehen","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"zwen","description":null,"base":"zween","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -11376,6 +11379,7 @@
 {"word":"öhrlein","description":null,"base":"ohr","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"öhrles","description":null,"base":"ohr","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"öhrs","description":"Genitiv Singular von Ohr","base":"ohr","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"ölmann","description":"Subst. — Arbeiter in der Ölindustrie; umgangssprachlich für Ölheizungsmonteur","base":null,"corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"örden","description":null,"base":"orden","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"ören","description":"Pl. von Öre","base":"öre","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"örtel","description":null,"base":"ort","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
