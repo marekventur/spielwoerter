@@ -3898,9 +3898,6 @@
 {"word":"gelati","description":"Pl. von Gelato (italienisches Speiseeis)","base":"gelato","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gelato","description":"Subst. (m./n.) — italienisches Speiseeis","base":null,"corpus_sources":["wiktionary","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gelde","description":"Dativ Singular von Geld (mit Dativ-e)","base":"geld","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"geleinten","description":"Partizip II von leinen, dekliniert (mask./neutr. Dat. Sg. oder Gen./Dat./Akk. Pl.)","base":"leinen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"geleinter","description":"Partizip II von leinen, dekliniert (mask. Nom. Sg. oder Gen./Dat./Gen. Pl.)","base":"leinen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"geleintes","description":"Partizip II von leinen, dekliniert (neutr. Nom./Akk. Sg.)","base":"leinen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geleis","description":null,"base":"geleise","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gelem","description":null,"base":"gel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gelenzt","description":null,"base":"lenz","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -5707,7 +5704,6 @@
 {"word":"immunstes","description":"Superlativ von immun, deklinierte Form (Nominativ/ Akkusativ Neut. Sg.)","base":"immun","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"imst","description":null,"base":"im","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"imsts","description":null,"base":"im","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"inanes","description":"Deklinierte Form (Nom./Akk. Neutr. Sg.) von inan","base":"inan","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"inans","description":"Gen. Sg. von Inan","base":"inan","source":"community","verified_by":"moderator"}
 {"word":"inarnt","description":"Verb — 3. Pers. Sg. Präsens von inarmen (umarmen, einschließen)","base":"inarmen","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"inauen","description":null,"base":"au","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -7934,6 +7930,7 @@
 {"word":"nargile","description":"Subst. — Wasserpfeife (orientalische Rauchvorrichtung)","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nargiles","description":"Pl. von Nargile","base":"nargile","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nark","description":"Subst. (ugs.) — Kurzform für Narkose","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"narres","description":"Genitiv Singular von Narr (veraltete/landschaftliche Form)","base":"narr","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"narri","description":"Subst. (südd., alemann., Fasnacht) — Narr","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nasion","description":"Subst. (Anat.) — vorderster Punkt der Sutura nasofrontalis","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nassig","description":"Adj. (ugs., regional) — feucht, nass","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -8087,6 +8084,7 @@
 {"word":"nigers","description":null,"base":"ne","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"niggel","description":null,"base":"nickel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"niggl","description":null,"base":"nickel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"nigredo","description":"Subst. (Alchemie) — erste Phase des alchemistischen Prozesses, Schwärzung","base":null,"corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nihil","description":"Subst. (veraltet, philosophisch) — Nichts, Nichtiges","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nihils","description":"Pl. von Nihil","base":"nihil","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nikel","description":"Subst. (veraltet, regional) — Nickel (Metall)","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
