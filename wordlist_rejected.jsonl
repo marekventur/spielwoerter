@@ -1807,6 +1807,8 @@
 {"word":"cassia","description":"Subst. (Bot.) — Pflanzengattung, Zimtkassie","base":null,"corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"catena","description":"Subst. (veraltet, geh.) — Kette, Reihe, Folge","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"catenae","description":"Pl. von Catena","base":"catena","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"caudal","description":"Adj. (med., anat.) — zum Schwanz gehörend, schwanzwärts gelegen","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"caudale","description":"Deklinierte Form von caudal","base":"caudal","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"cautel","description":null,"base":"kautel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"cayman","description":"Subst. — Kaiman (Reptil aus der Familie der Alligatoren)","base":"kaiman","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"cecilie","description":null,"base":"silke","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -2809,6 +2811,7 @@
 {"word":"elbl","description":null,"base":"elben","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"elbs","description":null,"base":"elben","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"electric","description":"Adj. (engl.) — elektrisch","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"electrum","description":"Subst. — natürliche Gold-Silber-Legierung","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"elegieen","description":"Pl. von Elegie — traurige, klagende Gedichte","base":"elegie","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"elek","description":null,"base":"alexin","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"eleonora","description":null,"base":"lore","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -3423,6 +3426,12 @@
 {"word":"flag","description":"Verb (ugs., jugendsprachl.) — jemanden oder etwas ignorieren, nicht beachten","base":"flaggen","corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"flatz","description":"Subst. (österr., südd., umgangssprachl.) — Ohrfeige, Schlag; auch flache Stelle","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"flauch","description":null,"base":"geflaucht","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"flauche","description":null,"base":"geflaucht","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"flauchen","description":null,"base":"geflaucht","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"flauchend","description":null,"base":"geflaucht","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"flauchst","description":null,"base":"geflaucht","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"flaucht","description":null,"base":"geflaucht","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"flauchte","description":null,"base":"geflaucht","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"flax","description":null,"base":"flaches","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"flaxe","description":null,"base":"flachs","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"flaxen","description":null,"base":"flachs","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -3897,6 +3906,7 @@
 {"word":"gefielt","description":"3. Person Singular Präteritum von gefallen","base":"gefallen","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gefirnt","description":null,"base":"firn","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gefittet","description":null,"base":"fitte","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"geflaucht","description":"Partizip II von flauchen — (landsch./veraltet) flach drücken","base":"flauchen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geflaxt","description":"Partizip II von flaxen — (ugs.) schnell gehen, eilen","base":"flaxen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geflenst","description":null,"base":"flense","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"geflossne","description":"Partizip II von fließen, adjektivisch dekliniert mit e-Tilgung (geflossne = geflossene)","base":"fließen","corpus_sources":["ne_contracted"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
