@@ -1653,6 +1653,7 @@
 {"word":"brodlet","description":"Ungültige Beugungsform von brodeln: die verkürzte Stammform (e-Tilgung) ist nur in der 1. Person Singular und im Imperativ Singular zulässig.","base":"brodeln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"broh","description":"Interjektion — Ausruf des Erschreckens, der Überraschung oder Warnung","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"brok","description":null,"base":"bruch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"broken","description":"Verb — Partizip II von brechen","base":"brechen","corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"brokmann","description":null,"base":"bruch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"brosch","description":null,"base":"ambrosia","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"broscheit","description":null,"base":"ambrosia","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -11656,6 +11657,8 @@
 {"word":"stung","description":"Partizip II von stechen","base":"stechen","corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sturmer","description":null,"base":"sturm","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"stut","description":"Verb (veraltet/landschaftl.) — stutzen, stoppen, zögern","base":"stutzen","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"styl","description":"Subst. (m.) — Art und Weise, Gestaltung; Mode","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"stylem","description":"Instrumental Singular von Styl (veraltet/slawisch beeinflusst) oder Dativ Plural von Styl","base":"styl","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"stäbles","description":null,"base":"stab","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"städer","description":null,"base":"städter","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"städtner","description":null,"base":"städter","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
