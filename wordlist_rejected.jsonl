@@ -22,6 +22,7 @@
 {"word":"abaci","description":"Pl. von Abakus (Rechenbrett)","base":"abakus","corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"abadengo","description":"Adj. — einem Abt gehörend, klösterlich (span. Lehnwort)","base":null,"corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"abadengos","description":"Deklinierte Form (m. Nom. Pl.) von abadengo","base":"abadengo","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"abasia","description":null,"base":null,"source":"community","verified_by":"moderator"}
 {"word":"abba","description":null,"base":"aba","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"abbo","description":null,"base":"abo","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"abbos","description":null,"base":"abo","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -1004,6 +1005,11 @@
 {"word":"bascho","description":null,"base":"bast","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"basens","description":"Genitiv Singular von Base (Verwandte)","base":"base","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"baser","description":"Komparativ von bas (niedrig, gemein)","base":"bas","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"basilea","description":null,"base":"basil","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"basilia","description":null,"base":"basil","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"basilica","description":"Subst. (f.) — antike Halle, später mehrschiffige Kirche","base":"basilika","corpus_sources":["wiktionary","wikipedia","gutenberg"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"basilissa","description":null,"base":"basil","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"basilius","description":null,"base":"basil","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"bassine","description":"Subst. (frz. Lehnwort) — flache, weite Schüssel oder Wanne","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"bastelest","description":"Ungültige Beugungsform von basteln: Verben auf -eln/-ern bilden die 2. Person nicht mit -est/-et.","base":"basteln","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"bastelet","description":"Ungültige Beugungsform von basteln: Verben auf -eln/-ern bilden die 2. Person nicht mit -est/-et.","base":"basteln","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -1412,6 +1418,8 @@
 {"word":"bilg","description":null,"base":"balg","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"bilgst","description":null,"base":"balg","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"bilgt","description":null,"base":"balg","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"biliar","description":"Adj. (med.) — die Galle betreffend","base":null,"corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"biliare","description":"Deklinierte Form von biliar (z.B. Nominativ/Akkusativ Femininum Singular)","base":"biliar","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"biling","description":null,"base":"billing","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"billa","description":null,"base":"bille","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"bimmen","description":"Verb — (umgangssprachlich) läuten, klingeln","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -1453,6 +1461,7 @@
 {"word":"bizarrre","description":"Deklinierte Form von bizarr (Adjektiv)","base":"bizarr","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"blanck","description":null,"base":"blank","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"blanks","description":"Genitiv Singular von 'Blank' (z.B. ein Blank eines Dokuments) oder umgangssprachlich für blanke Stellen","base":"blank","corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"blasius","description":null,"base":"basil","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"blauend","description":"Partizip I des Verbs blauen","base":"blauen","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"blauende","description":"Deklinierte Form des Partizips I (blauend)","base":"blauen","corpus_sources":["wiktionary","hunspell","gutenberg"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"blauendem","description":"Deklinierte Form des Partizips I (blauend)","base":"blauen","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -9090,6 +9099,7 @@
 {"word":"nahums","description":null,"base":"nah","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"naif","description":"Adj. (veraltet/franz.) — naiv, einfältig, unerfahren","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nail","description":"Subst. (engl. Lehnwort) — Fingernagel, Nagel (im Kosmetikbereich)","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"naira","description":"Subst. — Währungseinheit Nigerias","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nalle","description":"Subst. (m./n.) — umg. für Teddybär, Kuscheltier","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nallo","description":null,"base":"mani","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"namib","description":"Subst. — Trockengebiet, Wüste (nach der Namib)","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -10035,6 +10045,7 @@
 {"word":"raabs","description":null,"base":"rabe","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"raaen","description":null,"base":"rahe","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"raasen","description":null,"base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"rabais","description":"Subst. (veraltet) — Preisnachlass, Rabatt","base":null,"corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"rabens","description":"Genitiv Singular von Rabe","base":"rabe","corpus_sources":["gutenberg","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"rabes","description":null,"base":"rabe","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"rabi","description":"Subst. (veraltet, landschaftl.) — ungestümer, wilder Mensch; Rüpel","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -10693,7 +10704,6 @@
 {"word":"rädle","description":null,"base":"rad","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"rädlein","description":"Diminutiv von Rad — kleines Rad","base":"rad","corpus_sources":["wikipedia","kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"rädles","description":null,"base":"rad","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"räf","description":"Verb — Konjunktiv II von raffen (veraltete Kurzform von räffe)","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"curated","verified_by":"manual"}
 {"word":"rähmen","description":"Verb — (selten) mit Rahm/Sahne versehen; auch: einrahmen","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"räkelest","description":"Ungültige Beugungsform von räkeln: Verben auf -eln/-ern bilden die 2. Person nicht mit -est/-et.","base":"räkeln","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"räkelet","description":"Ungültige Beugungsform von räkeln: Verben auf -eln/-ern bilden die 2. Person nicht mit -est/-et.","base":"räkeln","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -10794,6 +10804,7 @@
 {"word":"sabby","description":null,"base":"bienchen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"sabel","description":"Subst. — veraltete Schreibweise von Säbel","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sabi","description":null,"base":"bienchen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"sabir","description":"Subst. — historische Pidginsprache im Mittelmeerraum","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sabl","description":null,"base":"bienchen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"sabler","description":null,"base":"sabel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"sabri","description":null,"base":"bienchen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
