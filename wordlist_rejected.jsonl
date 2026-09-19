@@ -9578,6 +9578,7 @@
 {"word":"ockinga","description":null,"base":"ode","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"ocso","description":null,"base":"trappist","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"octene","description":"Subst. (Chemie) — ungesättigter Kohlenwasserstoff mit acht Kohlenstoffatomen","base":"octen","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"octet","description":"Subst. (Musik, EDV) — Gruppe von acht Einheiten, Achtelgruppe","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"october","description":"Subst. (veraltet, poet.) — der Oktober","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"odeln","description":"Verb — (landschaftlich) Dünger/Jauche ausbringen - vorw. bayrisch/österreichisch","base":null,"source":"community","verified_by":"moderator"}
 {"word":"odelst","description":"2. Pers. Sg. Präs. von odeln","base":"odeln","source":"community","verified_by":"moderator"}
@@ -9827,6 +9828,7 @@
 {"word":"paur","description":null,"base":"bauer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"pausa","description":"Subst. (Musik, Sprachw.) — Pause, Ruhepunkt","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"pausas","description":null,"base":"pausa","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"pauser","description":"Subst. — jemand, der pausiert; Verb — 1. Person Singular Präsens von pausen","base":"pausen","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"pawelka","description":null,"base":"paulchen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"pawol","description":null,"base":"paulchen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"pearl","description":"Subst. — Perle","base":"perle","corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
