@@ -312,6 +312,7 @@
 {"word":"agoge","description":"Subst. (Musik) — freie, ausdrucksvolle Tempogestaltung","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"agrafe","description":"Subst. (veraltet/fachspr.) — Klammer, Haken, Spange","base":null,"corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"agro","description":"Adj. (ugs.) — aggro, aggressiv, gereizt","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"agwanisch","description":null,"base":"alb","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"ahha","description":"Interjektion — Ausdruck des Erkennens, der Überraschung oder Freude","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ahimsa","description":"Subst. (f.) — Gewaltlosigkeit als ethisches Prinzip (aus dem Hinduismus/Buddhismus)","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ahja","description":"Interjektion — zustimmend, bestätigend oder nachdenklich","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -461,10 +462,12 @@
 {"word":"alto","description":"Subst. (Musik) — tiefe Frauen- oder Knabenstimmlage; Sängerin dieser Stimmlage","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"altos","description":"Subst. (Musik) — hohe männliche Stimmlage; Altist","base":"alt","corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"altre","description":null,"base":"alter","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"aluanisch","description":null,"base":"alb","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"alum","description":"Subst. (veraltet, fachspr.) — Alaun (Mineral, Doppelsalz)","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"alune","description":null,"base":"alp","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"alunes","description":null,"base":"alp","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"alverdes","description":null,"base":"al","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"alwanisch","description":null,"base":"alb","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"alwin","description":null,"base":"albin","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"amalia","description":null,"base":"mala","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"amalias","description":null,"base":"mala","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -3261,6 +3264,7 @@
 {"word":"elben","description":"Pl. von Elb — (poet./veraltet) Naturgeist, Elf","base":"elb","corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"elber","description":null,"base":"elben","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"elbes","description":null,"base":"elben","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"elbin","description":null,"base":"alb","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"elbl","description":null,"base":"elben","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"elbs","description":null,"base":"elben","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"electric","description":"Adj. (engl.) — elektrisch","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -4554,6 +4558,7 @@
 {"word":"gegessner","description":"Deklinierte Form des Partizips II von essen (Gen. Pl. oder veraltet/regional)","base":"essen","corpus_sources":["ne_contracted"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gegessnes","description":"Deklinierte Form des Partizips II von essen (Nom./Akk. Neut. Sg.)","base":"essen","corpus_sources":["ne_contracted"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gegin","description":null,"base":"gegen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gegisch","description":null,"base":"alb","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"geglissen","description":null,"base":"gleissen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gegne","description":null,"base":"gegnest","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gegnen","description":null,"base":"gegnest","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -8675,6 +8680,7 @@
 {"word":"mendl","description":null,"base":"mandel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"mengel","description":"Subst. (ugs., regional) — Mangel, Fehler","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mengelt","description":"Verb — 3. Person Singular Präsens von mengeln (mischen, vermengen)","base":"mengeln","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"mengem","description":"Adjektiv — Dativ Singular Maskulinum/Neutrum von meng (veraltet für manch, mancher)","base":"meng","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"meniere","description":"Verb — 1./3. Person Singular Konjunktiv I von menieren (sich abmühen, veraltet)","base":"menieren","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"menig","description":null,"base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"menige","description":"Adjektiv — Nominativ/Akkusativ Singular Femininum oder Nominativ/Akkusativ Plural von menig","base":"menig","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -12556,6 +12562,7 @@
 {"word":"torne","description":"Verb — 1./3. Person Singular Konjunktiv I von turnen (veraltet/gehoben)","base":"turnen","corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"torste","description":null,"base":"tar","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"toses","description":"Genitiv Singular des Substantivs Tose (veraltet für Brausen, Getöse)","base":"tose","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"toskisch","description":null,"base":"alb","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"tosti","description":"Subst. (schweiz.) — Toastbrot, geröstetes Brot","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"totalt","description":"Adjektiv — völlig, gänzlich; deklinierte Form von total","base":"total","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"toteme","description":"Deklinierte Form von Totem (z.B. ein totemes Tier)","base":"totem","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
