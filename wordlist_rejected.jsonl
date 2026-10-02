@@ -7996,6 +7996,7 @@
 {"word":"leitner","description":null,"base":"leiter","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"leitners","description":null,"base":"leiter","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"leitte","description":"Verb — 1. Person Sg. Konjunktiv II von leiten oder Imperativ Sg. (veraltet/gehoben)","base":"leiten","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"leitungs","description":"Genitiv Singular von Leitung","base":"leitung","corpus_sources":["hunspell","gutenberg"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"lekker","description":"Adj. (ugs., regional) — lecker, schmackhaft, angenehm","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"leman","description":"Subst. (veraltet) — Geliebter, Buhle","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"lembke","description":null,"base":"lamm","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
