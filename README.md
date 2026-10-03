@@ -22,14 +22,14 @@ The primary output is `wordlist_accepted.jsonl` — one JSON object per line:
 
 | Field | Description |
 |-------|-------------|
-| `word` | Lowercase word form (letters a–z, ä, ö, ü, ß only; length 2–9) |
+| `word` | Lowercase word form (letters a–z, ä, ö, ü, ß only; at least 2 letters, no upper limit — see below) |
 | `description` | German dictionary-style description (null for morphology-only entries) |
 | `base` | Lemma/infinitive if this is an inflected form; null for lemmas |
 | `corpus_sources` | Which sourcing corpora attested this word |
 | `dict_source_count` | How many dictionary sources (Wiktionary, hunspell, OpenThesaurus) contained it |
 | `classification_pass` | `"double-pass-agree"` or `"tiebreaker"` |
 | `source` | `"llm"` (classified by LLM), `"morphology"` (inflected form from verified lemma), `"curated"` (manual) |
-| `verified_by` | `"deepseek-chat"`, `"kaikki+deepseek-chat"`, or `"manual"` |
+| `verified_by` | `"deepseek-chat"`, `"kaikki+deepseek-chat"`, `"manual"`, `"moderator"`, `"wiktionary-de"` (long forms, see below) or `"rule:…"` (rule-based regeneration scripts) |
 
 Current word counts and length distributions are in [`stats.json`](stats.json), which is auto-generated on every push via GitHub Actions.
 
@@ -99,6 +99,8 @@ A few design choices worth noting:
 ### Stage 3: Morphological expansion
 
 Accepted lemmas were expanded to all inflected forms using the Kaikki Wiktionary JSONL. For each accepted word, we resolved its Kaikki headword(s) via the LLM-provided `base` field, direct headword lookup, or reverse form-to-headword lookup — then emitted all valid forms (2–9 chars, letters only, non-obsolete). Net-new forms not already in the accepted set were added with `source: "morphology"`, each with its trigger word recorded in the `base` field.
+
+**Word length (2026-10).** The original pipeline only considered words of 2–9 letters, the limit of the Scrabble tournament list. The moderators decided to drop that limit, since Wortopia plays words of up to 25 letters. `scripts/expand_long_forms.py` added the inflected forms with 10 or more letters of words already in the list, from the German Wiktionary (`verified_by: "wiktionary-de"`). Long *lemmas* that were never in the 2–9 letter candidate set (most compound nouns) are not covered by that and come in through moderation.
 
 This added roughly 15% more word forms, increasing oracle recall by ~6.6 percentage points.
 
