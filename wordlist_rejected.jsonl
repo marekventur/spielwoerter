@@ -682,6 +682,7 @@
 {"word":"ansbachs","description":null,"base":"an","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"anseglest","description":"Ungültige Beugungsform von ansegeln: die verkürzte Stammform (e-Tilgung) ist nur in der 1. Person Singular und im Imperativ Singular zulässig.","base":"ansegeln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"anseglet","description":"Ungültige Beugungsform von ansegeln: die verkürzte Stammform (e-Tilgung) ist nur in der 1. Person Singular und im Imperativ Singular zulässig.","base":"ansegeln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"anstalts","description":"Genitiv Singular von Anstalt","base":"anstalt","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"anstatts","description":null,"base":"anstatt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"ansäblest","description":"Ungültige Beugungsform von ansäbeln: die verkürzte Stammform (e-Tilgung) ist nur in der 1. Person Singular und im Imperativ Singular zulässig.","base":"ansäbeln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"ansäblet","description":"Ungültige Beugungsform von ansäbeln: die verkürzte Stammform (e-Tilgung) ist nur in der 1. Person Singular und im Imperativ Singular zulässig.","base":"ansäbeln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -4593,6 +4594,12 @@
 {"word":"gedoxt","description":"Partizip II von doxen — umgangssprachlich für private Daten einer Person online veröffentlichen","base":"doxen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gedätscht","description":"Partizip II von dätschen (ugs. für schlagen, hauen)","base":"dätschen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geechot","description":null,"base":"echo","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"geegt","description":"Part. II von eggen","base":null,"source":"community","verified_by":"moderator"}
+{"word":"geegte","description":"schwache Flexion von geegt (f./Sg. oder Pl.)","base":"geegt","source":"community","verified_by":"moderator"}
+{"word":"geegtem","description":"Flexion von geegt (Dat. m./n. Sg.)","base":"geegt","source":"community","verified_by":"moderator"}
+{"word":"geegten","description":"Flexion von geegt (Dat./Akk. oder Pl.)","base":"geegt","source":"community","verified_by":"moderator"}
+{"word":"geegter","description":"starke Flexion von geegt (m./Sg.)","base":"geegt","source":"community","verified_by":"moderator"}
+{"word":"geegtes","description":"starke Flexion von geegt (n./Sg.)","base":"geegt","source":"community","verified_by":"moderator"}
 {"word":"geeidet","description":"Partizip II von eiden (veraltet) — beeidigt, beschworen","base":"eiden","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geer","description":null,"base":"gier","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"geerd","description":null,"base":"gesine","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -13286,6 +13293,7 @@
 {"word":"velds","description":null,"base":"feld","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"vellen","description":"Verb (veraltet/landschaftl.) — fällen (Bäume)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"vellent","description":"3. Person Plural Konjunktiv I von vellen","base":"vellen","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"veloute","description":"Subst. (Kochkunst) — gebundene, meist helle Sauce","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"velten","description":null,"base":"valentin","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"veltin","description":null,"base":"valentin","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"velur","description":"Subst. — samtartiges Gewebe","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
