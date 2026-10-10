@@ -11037,6 +11037,7 @@
 {"word":"rosenhang","description":"Subst. (m.) — ein mit Rosen bewachsener Hang","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"rosenig","description":"Adj. — rosenartig, wie eine Rose; poetisch für rosig","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"rosens","description":"Subst. — Genitiv Singular von Rose","base":"rose","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"rosenwein","description":"Subst. — Wein, der aus Rosenblüten hergestellt wird oder nach Rosen duftet","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"rosete","description":"Subst. — kleine Rosette; auch veraltet für eine bestimmte Münze","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"rosi","description":null,"base":"rosa","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"rosien","description":null,"base":"rosin","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -11308,6 +11309,7 @@
 {"word":"sadel","description":"Subst. (veraltet) — Sattel","base":"sattel","corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sae","description":"Imperativ PS: Ich habe das in Wortopia vorgeschlagen; das scheint aber ignoriert zu werden – ist dieses Feature schon aktiv?","base":"säen","source":"community","verified_by":"moderator"}
 {"word":"saehle","description":null,"base":null,"source":"community","verified_by":"moderator"}
+{"word":"safar","description":"Subst. (arab.) — zweiter Monat im islamischen Mondkalender","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"safem","description":null,"base":"safe","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"saftarm","description":"Adj. — wenig Saft enthaltend","base":null,"corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sagerer","description":"Komparativ von sage (Adj.) — schlauer, klüger","base":"sage","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
