@@ -7834,6 +7834,7 @@
 {"word":"amaurose","description":"Subst. (Med.) — vollständige oder hochgradige Erblindung ohne organischen Befund","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"amaurosen","description":"Pl. von Amaurose","base":"amaurose","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"amaurosis","description":"Subst. (Med.) — vollständige Erblindung ohne sichtbare Augenveränderung","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"amause","description":"Subst., f. 1. Email 2. Schmuckstein aus Glas","base":null,"source":"community","verified_by":"moderator"}
 {"word":"amazon","description":"Subst. — (veraltet) Angehöriger eines mythischen Frauenvolks; auch: großer, kräftiger Mann","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"amazona","description":"Subst. — 1. weiblicher Krieger der Amazonen-Sage; 2. Papageien-Gattung (Amazonenpapageien)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"amazone","description":"Subst. — Kriegerin des mythischen Frauenvolks; auch: reitende Frau","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -12541,6 +12542,7 @@
 {"word":"antratest","description":"Präteritum (2. Person Singular) von antreten","base":"antreten","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"antratet","description":"Präteritum (2. Person Plural) von antreten","base":"antreten","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"antratst","description":"Präteritum (2. Person Singular) von antreten (verkürzte Form)","base":"antreten","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"antrau","description":"1. Pers. Sg. Präs. mit e- Tilgung von antrauen","base":"antrauen","source":"community","verified_by":"moderator"}
 {"word":"antraue","description":"1. Pers. Sg. Präs. von antrauen","base":"antrauen","source":"community","verified_by":"moderator"}
 {"word":"antrauen","description":"Verb — jemanden heiraten; sich mit jemandem verheiraten","base":null,"source":"community","verified_by":"moderator"}
 {"word":"antrauend","description":"Part. I von antrauen","base":"antrauen","source":"community","verified_by":"moderator"}
@@ -31776,6 +31778,7 @@
 {"word":"bort","description":"Subst., m./n. — minderwertiger Diamant; Schiffssrand, Bord","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"borte","description":"Subst. (veraltet) — Rand, Saum, Einfassung","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"borten","description":"Pl. von Borte","base":"borte","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"borusse","description":"Subst., m. — Preuße; auch Spieler oder Anhänger eines Vereins namens Borussia","base":null,"source":"community","verified_by":"moderator"}
 {"word":"borussia","description":"Subst. — lateinischer Name für Preußen; auch Vereinsname","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"borussias","description":"Genitiv Singular von Borussia","base":"borussia","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"bosch","description":null,"base":"busch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -44748,7 +44751,22 @@
 {"word":"ehrenden","description":"Deklinierte Form des Adjektivs/Partizips ehrend","base":"ehrend","corpus_sources":["wiktionary","hunspell","gutenberg","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ehrender","description":"Deklinierte Form des Adjektivs/Partizips ehrend","base":"ehrend","corpus_sources":["wiktionary","hunspell","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ehrendes","description":"Deklinierte Form des Adjektivs/Partizips ehrend","base":"ehrend","corpus_sources":["wiktionary","hunspell","gutenberg","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"ehrenfest","description":"Adj. — ehrenfest, ehrenhaft, anständig; hier: Grundform","base":null,"corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"ehrenfest","description":"Adj. — (veralt.) redlich, ehrbar","base":null,"corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"ehrenfeste","description":"Dekl. von ehrenfest","base":"ehrenfest","source":"community","verified_by":"moderator"}
+{"word":"ehrenfestem","description":"Dekl. von ehrenfest","base":"ehrenfest","source":"community","verified_by":"moderator"}
+{"word":"ehrenfesten","description":"Dekl. von ehrenfest","base":"ehrenfest","source":"community","verified_by":"moderator"}
+{"word":"ehrenfester","description":"Dekl. von ehrenfest","base":"ehrenfest","source":"community","verified_by":"moderator"}
+{"word":"ehrenfestere","description":"dekl. Komp. von ehrenfest","base":"ehrenfest","source":"community","verified_by":"moderator"}
+{"word":"ehrenfesterem","description":"dekl. Komp. von ehrenfest","base":"ehrenfest","source":"community","verified_by":"moderator"}
+{"word":"ehrenfesteren","description":"dekl. Komp. von ehrenfest","base":"ehrenfest","source":"community","verified_by":"moderator"}
+{"word":"ehrenfesteres","description":"dekl. Komp. von ehrenfest","base":"ehrenfest","source":"community","verified_by":"moderator"}
+{"word":"ehrenfestes","description":"Dekl. von ehrenfest","base":"ehrenfest","source":"community","verified_by":"moderator"}
+{"word":"ehrenfestest","description":"abs. Superl. (Elativ) von ehrenfest","base":"ehrenfest","source":"community","verified_by":"moderator"}
+{"word":"ehrenfesteste","description":"dekl. Superl. von ehrenfest","base":"ehrenfest","source":"community","verified_by":"moderator"}
+{"word":"ehrenfestestem","description":"dekl. Superl. von ehrenfest","base":"ehrenfest","source":"community","verified_by":"moderator"}
+{"word":"ehrenfestesten","description":"dekl. Superl. von ehrenfest","base":"ehrenfest","source":"community","verified_by":"moderator"}
+{"word":"ehrenfestester","description":"dekl. Superl. von ehrenfest","base":"ehrenfest","source":"community","verified_by":"moderator"}
+{"word":"ehrenfestestes","description":"dekl. Superl. von ehrenfest","base":"ehrenfest","source":"community","verified_by":"moderator"}
 {"word":"ehrenfrau","description":"Subst. — (veraltet/selten) ehrenwerte Frau, Ehefrau","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ehrengabe","description":"Subst. — eine Gabe zu Ehren einer Person","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ehrengang","description":"Subst. — ein feierlicher, ehrenvoller Gang","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -46608,7 +46626,7 @@
 {"word":"einrollst","description":"2. Person Singular Indikativ Präsens von einrollen","base":"einrollen","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"einrollt","description":"3. Person Singular Indikativ Präsens von einrollen","base":"einrollen","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"einrollte","description":"Präteritum (1./3. Person Singular) von einrollen","base":"einrollen","corpus_sources":["wiktionary","hunspell","gutenberg"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"einroste","description":"1./3. Person Singular Konjunktiv I Präsens von einrosten","base":"einrosten","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"einroste","description":"1. Pers. Sg. Präs. von einrosten","base":"einrosten","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"einrosten","description":"Verb — durch Rost fest werden oder rosten beginnen","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"einrostend","description":"Part. I von einrosten","base":"einrosten","source":"community","verified_by":"moderator"}
 {"word":"einrostende","description":"dekl. Part. I von einrosten","base":"einrosten","source":"community","verified_by":"moderator"}
@@ -46618,7 +46636,7 @@
 {"word":"einrostendes","description":"dekl. Part. I von einrosten","base":"einrosten","source":"community","verified_by":"moderator"}
 {"word":"einrostens","description":"Genitiv des substantivierten Infinitivs von einrosten","base":"einrosten","source":"community","verified_by":"moderator"}
 {"word":"einrostest","description":"2. Pers. Sg. Präs. von einrosten / Konj. I, 2. Pers. Sg. von einrosten","base":"einrosten","source":"community","verified_by":"moderator"}
-{"word":"einrostet","description":"3. Person Singular Indikativ Präsens von einrosten","base":"einrosten","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"einrostet","description":"3. Pers. Sg. Präs. & 2. Pers. Pl. Präs. von einrosten","base":"einrosten","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"einrostete","description":"Prät. von einrosten (Nebensatz)","base":"einrosten","source":"community","verified_by":"moderator"}
 {"word":"einrosteten","description":"Prät. Pl. von einrosten (Nebensatz)","base":"einrosten","source":"community","verified_by":"moderator"}
 {"word":"einrostetest","description":"2. Pers. Sg. Prät. von einrosten","base":"einrosten","source":"community","verified_by":"moderator"}
@@ -61435,10 +61453,21 @@
 {"word":"fortblies","description":"Präteritum von fortblasen","base":"fortblasen","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fortbläst","description":"3. Person Singular Indikativ Präsens von fortblasen","base":"fortblasen","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fortdauer","description":"Subst. — das Fortdauern, Fortbestand","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"fortdauere","description":"1. Pers. Sg. Präs. von fortdauern","base":"fortdauern","source":"community","verified_by":"moderator"}
 {"word":"fortdauern","description":"Verb — weiterhin bestehen, andauern, nicht aufhören","base":null,"source":"community","verified_by":"moderator"}
 {"word":"fortdauernd","description":"Part. I von fortdauern","base":"fortdauern","source":"community","verified_by":"moderator"}
+{"word":"fortdauernde","description":"dekl. Part. I von fortdauern","base":"fortdauern","source":"community","verified_by":"moderator"}
+{"word":"fortdauerndem","description":"dekl. Part. I von fortdauern","base":"fortdauern","source":"community","verified_by":"moderator"}
+{"word":"fortdauernden","description":"dekl. Part. I von fortdauern","base":"fortdauern","source":"community","verified_by":"moderator"}
 {"word":"fortdauernder","description":"dekl. Part. I von fortdauern","base":"fortdauern","source":"community","verified_by":"moderator"}
 {"word":"fortdauerndes","description":"dekl. Part. I von fortdauern","base":"fortdauern","source":"community","verified_by":"moderator"}
+{"word":"fortdauerns","description":"Genitiv des subst. Infinitivs von fortdauern","base":"fortdauern","source":"community","verified_by":"moderator"}
+{"word":"fortdauerst","description":"2. Pers. Sg. Präs. von fortdauern","base":"fortdauern","source":"community","verified_by":"moderator"}
+{"word":"fortdauert","description":"3. Pers. Sg. Präs. von fortdauern","base":"fortdauern","source":"community","verified_by":"moderator"}
+{"word":"fortdauerte","description":"1. & 3. Pers. Sg. Prät. von fortdauern","base":"fortdauern","source":"community","verified_by":"moderator"}
+{"word":"fortdauerten","description":"1. & 3. Pers. Pl. Prät. von fortdauern","base":"fortdauern","source":"community","verified_by":"moderator"}
+{"word":"fortdauertest","description":"2. Pers. Sg. Prät. von fortdauern","base":"fortdauern","source":"community","verified_by":"moderator"}
+{"word":"fortdauertet","description":"2. Pers. Pl. Prät. von fortdauern","base":"fortdauern","source":"community","verified_by":"moderator"}
 {"word":"fortdaure","description":"1./3. Person Singular Konjunktiv I von fortdauren (veraltet für fortdauern)","base":"fortdauern","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fortdenke","description":"1. Person Singular Konjunktiv I von fortdenken","base":"fortdenken","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fortdenkt","description":"3. Person Singular Indikativ Präsens von fortdenken","base":"fortdenken","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -61490,6 +61519,12 @@
 {"word":"fortgeben","description":"Verb — (veraltet/selten) weggeben, weitergeben","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fortgebet","description":"2. Person Plural Konjunktiv I von fortgeben","base":"fortgeben","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fortgebt","description":"2. Person Plural Imperativ/Präsens von fortgeben","base":"fortgeben","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"fortgedauert","description":"Part. II von fortdauern","base":"fortdauern","source":"community","verified_by":"moderator"}
+{"word":"fortgedauerte","description":"dekl. Part. II von fortdauern","base":"fortdauern","source":"community","verified_by":"moderator"}
+{"word":"fortgedauertem","description":"dekl. Part. II von fortdauern","base":"fortdauern","source":"community","verified_by":"moderator"}
+{"word":"fortgedauerten","description":"dekl. Part. II von fortdauern","base":"fortdauern","source":"community","verified_by":"moderator"}
+{"word":"fortgedauerter","description":"dekl. Part. II von fortdauern","base":"fortdauern","source":"community","verified_by":"moderator"}
+{"word":"fortgedauertes","description":"dekl. Part. II von fortdauern","base":"fortdauern","source":"community","verified_by":"moderator"}
 {"word":"fortgehe","description":"1./3. Person Singular Konjunktiv I von fortgehen","base":"fortgehen","corpus_sources":["wiktionary","hunspell","gutenberg"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fortgehen","description":"Verb — sich von einem Ort entfernen; stattfinden","base":null,"corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fortgehet","description":"2. Person Plural Konjunktiv I von fortgehen","base":"fortgehen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -61660,6 +61695,7 @@
 {"word":"fortzog","description":"1./3. Person Sg. Präteritum von fortziehen — zog weg/fort","base":"fortziehen","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fortzogen","description":"1./3. Person Pl. Präteritum von fortziehen — zogen weg/fort","base":"fortziehen","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fortzogst","description":"2. Person Sg. Präteritum von fortziehen — du zogst fort","base":"fortziehen","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"fortzudauern","description":"Inf. mit zu von fortdauern","base":"fortdauern","source":"community","verified_by":"moderator"}
 {"word":"fortzug","description":"Subst. (m.) — das Wegziehen, die Abreise","base":null,"corpus_sources":["hunspell","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fortzöge","description":"Konjunktiv II, 1./3. Person Singular von 'fortziehen'","base":"fortziehen","corpus_sources":["wiktionary","hunspell","gutenberg"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fortzögen","description":"Konjunktiv II, 1./3. Person Plural von 'fortziehen'","base":"fortziehen","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -71507,6 +71543,11 @@
 {"word":"gerathen","description":"Verb — veraltete Schreibweise des Partizips II von geraten","base":"geraten","corpus_sources":["wiktionary","gutenberg"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geratscht","description":"Partizip II von ratschen — sich unterhalten, plaudern","base":"ratschen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gerattert","description":"Partizip II von rattern — klappernd, rasselnd fahren oder laufen","base":"rattern","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"geratterte","description":"dekl. Part. II von rattern","base":"rattern","source":"community","verified_by":"moderator"}
+{"word":"gerattertem","description":"dekl. Part. II von rattern","base":"rattern","source":"community","verified_by":"moderator"}
+{"word":"geratterten","description":"dekl. Part. II von rattern","base":"rattern","source":"community","verified_by":"moderator"}
+{"word":"geratterter","description":"dekl. Part. II von rattern","base":"rattern","source":"community","verified_by":"moderator"}
+{"word":"gerattertes","description":"dekl. Part. II von rattern","base":"rattern","source":"community","verified_by":"moderator"}
 {"word":"geratzt","description":null,"base":"ratz","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"geraubt","description":"Partizip II von rauben","base":"rauben","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geraubte","description":"Partizip II von rauben, dekliniert (z.B. die geraubte Beute)","base":"rauben","corpus_sources":["wiktionary","hunspell","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -72117,6 +72158,12 @@
 {"word":"gesamten","description":"Deklinierte Form von gesamt","base":"gesamt","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gesamter","description":"Deklinierte Form von gesamt","base":"gesamt","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gesamtes","description":"Adjektiv — deklinierte Form von gesamt (Nominativ/Genitiv/Akkusativ Neutrum Singular)","base":"gesamt","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gesandelt","description":"Part. II von sandeln","base":"sandeln","source":"community","verified_by":"moderator"}
+{"word":"gesandelte","description":"dekl. Part. II von sandeln","base":"sandeln","source":"community","verified_by":"moderator"}
+{"word":"gesandeltem","description":"dekl. Part. II von sandeln","base":"sandeln","source":"community","verified_by":"moderator"}
+{"word":"gesandelten","description":"dekl. Part. II von sandeln","base":"sandeln","source":"community","verified_by":"moderator"}
+{"word":"gesandelter","description":"dekl. Part. II von sandeln","base":"sandeln","source":"community","verified_by":"moderator"}
+{"word":"gesandeltes","description":"dekl. Part. II von sandeln","base":"sandeln","source":"community","verified_by":"moderator"}
 {"word":"gesandet","description":"Partizip II von senden (regelmäßige Form)","base":"senden","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gesandete","description":"Deklinierte Form des Partizips II von 'senden' (als Adjektiv: 'gesandt')","base":"senden","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gesandt","description":"Partizip II von senden (unregelmäßige Form)","base":"senden","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -91112,7 +91159,6 @@
 {"word":"jako","description":"Subst. — Graupapagei (Psittacus erithacus)","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"jakob","description":null,"base":"jakobine","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"jakobi","description":"Subst. ohne Artikel — Jakobstag","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"jakobine","description":"Subst. — weibliche Form von Jakobiner; Anhängerin des Jakobinerklubs","base":null,"corpus_sources":["wikipedia","kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"jakobiner","description":"Subst., m. — Mitglied des radikalen Klubs in der Französischen Revolution","base":null,"corpus_sources":["hunspell","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"jakobinerin","description":"Subst., f. — Anhängerin des Jakobinerklubs während der Französischen Revolution","base":null,"source":"community","verified_by":"moderator"}
 {"word":"jakobinerinnen","description":"Pl. von Jakobinerin","base":"jakobinerin","source":"community","verified_by":"moderator"}
@@ -103758,7 +103804,7 @@
 {"word":"labest","description":"Verb — 2. Person Singular Präsens Konjunktiv I von laben","base":"laben","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"labet","description":"2. Person Plural Imperativ Präsens von laben","base":"laben","corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"labetrank","description":"Subst. (veraltet/poet.) — stärkendes, erquickendes Getränk","base":null,"corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"labia","description":"Subst. (Pl.) — Anat. Schamlippen","base":"labium","corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"labia","description":"Pl. von Labium","base":"labium","corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"labial","description":"Adj. — Anat./Sprachw. die Lippe(n) betreffend","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"labiale","description":"Subst. — Sprachw. Lippenlaut; auch dekl. Form von labial","base":"labial","corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"labialem","description":"Adjektiv — Dativ Singular Maskulinum/Neutrum von labial (die Lippen betreffend)","base":"labial","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -103785,7 +103831,7 @@
 {"word":"labilsten","description":"Superlativ von labil, deklinierte Form (versch. Kasus)","base":"labil","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"labilster","description":"Superlativ von labil, deklinierte Form (Genitiv/Dativ Fem., Genitiv Pl.)","base":"labil","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"labilstes","description":"Superlativ von labil, deklinierte Form (Nominativ/Akkusativ Singular Neut.)","base":"labil","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"labium","description":"Subst. (fachspr.) — Lippe, lippenartiger Rand","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"labium","description":"Subst., n. — 1. Lippe, lippenartiger Rand, z. B. Schmalippe 2. Teil von bestimmten Flöten 3. Unterlippe der Mundwerkzeuge von Insekten","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"labiums","description":"Gen. Sg. von Labium","base":"labium","source":"community","verified_by":"moderator"}
 {"word":"labkraut","description":"Subst. (Bot.) — Pflanzengattung (Galium)","base":null,"corpus_sources":["hunspell","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"labkrauts","description":"Genitiv Singular von Labkraut","base":"labkraut","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -106286,7 +106332,8 @@
 {"word":"leiberls","description":"Genitiv Singular von Leiberl","base":"leiberl","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"leibern","description":null,"base":"leib","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"leibes","description":"Genitiv Singular von Leib","base":"leib","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"leibfarbe","description":"Subst. (veraltet) — Leibfarbe, Wappenfarbe","base":null,"corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"leibfarbe","description":"Subst., f. — im 18. & 19. Jahrhundert die Farbe der Dienstkleidung der Bediensteten eines Herren","base":null,"corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"leibfarben","description":"Pl. von Leibfarbe","base":"leibfarbe","source":"community","verified_by":"moderator"}
 {"word":"leibgarde","description":"Subst. (f.) — persönliche Schutztruppe eines Herrschers","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"leibgurt","description":"Subst. — Gürtel, Leibgurt","base":null,"corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"leibhaft","description":"Adj. — leibhaftig, in Person anwesend","base":null,"corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -136219,6 +136266,7 @@
 {"word":"ratternde","description":"Deklinierte Form des Partizips I (ratternd)","base":"rattern","corpus_sources":["wiktionary","hunspell","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ratterndem","description":"Dat. Sg. m./n. von ratternd (Part. I von rattern)","base":"rattern","source":"community","verified_by":"moderator"}
 {"word":"ratternden","description":"flektierte Form von ratternd","base":"rattern","source":"community","verified_by":"moderator"}
+{"word":"ratternder","description":"dekl. Part. I von rattern","base":"rattern","source":"community","verified_by":"moderator"}
 {"word":"ratterndes","description":"flektierte Form von ratternd","base":"rattern","source":"community","verified_by":"moderator"}
 {"word":"ratterns","description":"Substantivierter Infinitiv von rattern im Genitiv","base":"rattern","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ratterst","description":"Verb — 2. Person Singular Indikativ Präsens von rattern","base":"rattern","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -143729,10 +143777,21 @@
 {"word":"sanddüne","description":"Subst. — aus Sand aufgewehte Erhebung in Wüsten oder an Küsten","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sanddünen","description":"Pl. von Sanddüne","base":"sanddüne","corpus_sources":["wiktionary","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sande","description":"Pl. von Sand; Dativ Singular von Sand","base":"sand","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"sandele","description":"1. Pers. Sg. Präs. von sandeln","base":"sandeln","source":"community","verified_by":"moderator"}
 {"word":"sandeln","description":"Verb — mit Sand bestreuen oder behandeln","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"sandelnd","description":"Part. I von sandeln","base":"sandeln","source":"community","verified_by":"moderator"}
+{"word":"sandelnde","description":"dekl. Part. I von sandeln","base":"sandeln","source":"community","verified_by":"moderator"}
+{"word":"sandelndem","description":"dekl. Part. I von sandeln","base":"sandeln","source":"community","verified_by":"moderator"}
+{"word":"sandelnden","description":"dekl. Part. I von sandeln","base":"sandeln","source":"community","verified_by":"moderator"}
+{"word":"sandelnder","description":"dekl. Part. I von sandeln","base":"sandeln","source":"community","verified_by":"moderator"}
+{"word":"sandelndes","description":"dekl. Part. I von sandeln","base":"sandeln","source":"community","verified_by":"moderator"}
+{"word":"sandelns","description":"Gen. Sg. des subst. Infinitivs von sandeln","base":"sandeln","source":"community","verified_by":"moderator"}
+{"word":"sandelst","description":"2. Pers. Sg. Präs. von sandeln","base":"sandeln","source":"community","verified_by":"moderator"}
 {"word":"sandelt","description":"3. Pers. Sg. / 2. Pers. Pl. Präs. von sandeln","base":"sandeln","source":"community","verified_by":"moderator"}
 {"word":"sandelte","description":"Prät. von sandeln","base":"sandeln","source":"community","verified_by":"moderator"}
 {"word":"sandelten","description":"Prät. Pl. von sandeln","base":"sandeln","source":"community","verified_by":"moderator"}
+{"word":"sandeltest","description":"2. Pers. Sg. Prät. von sandeln","base":"sandeln","source":"community","verified_by":"moderator"}
+{"word":"sandeltet","description":"2. Pers. Pl. Prät. von sandeln","base":"sandeln","source":"community","verified_by":"moderator"}
 {"word":"sanden","description":"Verb — mit Sand bestreuen; 1./3. Person Plural Präteritum oder Konjunktiv II von sanden","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sandend","description":"Partizip I von sanden","base":"sanden","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sandende","description":"Partizip I von sanden, dekliniert (z.B. die sandende Maschine)","base":"sanden","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -143803,6 +143862,7 @@
 {"word":"sandkönig","description":"Subst. (m.) — übertragen für einen Herrscher über ein wertloses Gebiet; auch Fischart (Crenilabrus melops)","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sandküste","description":"Subst. (f.) — Küstenabschnitt, der vorwiegend aus Sand besteht","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sandland","description":"Subst., Neutr. — sandiges, von Sand geprägtes Land oder Gebiet","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"sandle","description":"1. Pers. Sg. Präs. von sandeln","base":"sandeln","source":"community","verified_by":"moderator"}
 {"word":"sandling","description":"Subst. (regional) — kleiner Fisch, Grundel","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sandmalve","description":"Subst. — Pflanze der Gattung Alcea, die auf sandigen Böden wächst","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sandmann","description":"Subst. — Märchen- und Fernsehfigur, die Kindern Sand in die Augen streut","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -149811,6 +149871,8 @@
 {"word":"sellerie","description":"Subst. — Gemüsepflanze (auch Sellerie)","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sellerien","description":null,"base":"sellerie","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"selleries","description":null,"base":"sellerie","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"sellern","description":"Dat. Pl. von Seller","base":"seller","source":"community","verified_by":"moderator"}
+{"word":"sellers","description":"Gen. Sg. von Seller","base":"seller","source":"community","verified_by":"moderator"}
 {"word":"sellner","description":null,"base":"seltner","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"selten","description":"Adv. — nicht häufig, nur gelegentlich vorkommend","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"seltene","description":"Adjektiv — deklinierte Form von selten","base":"selten","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -172760,6 +172822,7 @@
 {"word":"urnenhain","description":"Subst. — Friedhof oder Gedenkstätte für Urnenbestattungen","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"urnenwahl","description":"Subst. — Wahl, bei der Stimmzettel in eine Urne geworfen werden","base":null,"corpus_sources":["hunspell","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"urnerin","description":"Subst. — weibliche Einwohnerin des Kantons Uri","base":"urner","corpus_sources":["wiktionary","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"urnerinnen","description":"Pl. von Urnerin","base":"urnerin","source":"community","verified_by":"moderator"}
 {"word":"urnern","description":"Dativ Plural von Urner","base":"urner","corpus_sources":["wiktionary","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"urners","description":"Genitiv Singular von Urner","base":"urner","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"urobilin","description":"Subst. (Biochemie) — gelber Gallenfarbstoff","base":null,"corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}

@@ -163,6 +163,7 @@
 {"word":"acmes","description":"Pl. von Acme","base":"acme","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"acne","description":"Subst. (f.) — Hautkrankheit mit Pickelbildung; Akne","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz","ne_contracted"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"acnen","description":null,"base":"acne","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"actinia","description":null,"base":null,"source":"community","verified_by":"moderator"}
 {"word":"actor","description":"Subst. (m.) — Schauspieler, Handelnder","base":null,"corpus_sources":["wiktionary","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"acumen","description":"Subst. (neut.) — Scharfsinn, geistige Wendigkeit","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"adage","description":"Subst. — Sprichwort, geflügeltes Wort","base":null,"corpus_sources":["wiktionary","gutenberg"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -6897,6 +6898,7 @@
 {"word":"jahweh","description":"Subst. (Theol.) — alternative Schreibweise von Jahwe","base":null,"corpus_sources":["wikipedia","kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"jain","description":"Subst. — Anhänger des Jainismus","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"jake","description":null,"base":"hanke","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"jakobine","description":"Subst. — weibliche Form von Jakobiner; Anhängerin des Jakobinerklubs","base":null,"corpus_sources":["wikipedia","kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"jakobus","description":null,"base":"jakobine","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"jakoby","description":null,"base":"jakobine","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"jakubus","description":null,"base":"jakobine","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
