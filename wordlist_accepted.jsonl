@@ -9734,7 +9734,10 @@
 {"word":"angibst","description":"Verb — 2. Person Singular Indikativ Präsens von angeben","base":"angeben","corpus_sources":["wiktionary","hunspell","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"angibt","description":"Verb — 3. Person Singular Indikativ Präsens von angeben","base":"angeben","corpus_sources":["wiktionary","hunspell","gutenberg","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"angiesse","description":"1. Pers. Sg. Präs. von angiessen","base":"angiessen","source":"community","verified_by":"moderator"}
-{"word":"angiessen","description":null,"base":"angossen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"angiessen","description":"Verb — eine Flüssigkeit hinzufügen","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"angiessend","description":"Part. I von angießen","base":"angiessen","source":"community","verified_by":"moderator"}
+{"word":"angiessende","description":"dekl. Part. I von angießen","base":"angiessen","source":"community","verified_by":"moderator"}
+{"word":"angiessest","description":"2. Pers. Sg. Konj. I von angiessen","base":"angiessen","source":"community","verified_by":"moderator"}
 {"word":"angießen","description":null,"base":"angossen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"angießend","description":null,"base":"angossen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"angiitis","description":"Subst. (Med.) — Entzündung eines Blutgefäßes","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -35242,7 +35245,7 @@
 {"word":"caesar","description":null,"base":"cäsar","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"caesium","description":null,"base":"cäsium","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"caesiums","description":null,"base":"cäsium","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"cafard","description":"Subst. (aus dem Franz.) — 1. Kakerlake; 2. (fig.) Schwermut, Trübsinn","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"cafard","description":"Subst., m. — 1. tiefe Depression 2. Unlust, Überdruss","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"cafards","description":"Pl. von Cafard","base":"cafard","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"cafe","description":null,"base":"kaffee","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"cafes","description":"Gen. Sg. & Pl. von Café","base":"café","source":"community","verified_by":"moderator"}
