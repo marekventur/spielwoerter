@@ -21449,6 +21449,8 @@
 {"word":"bausatz","description":"Subst. — Satz von Teilen zum Zusammenbauen","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"bausatze","description":"Dativ Singular von Bausatz","base":"bausatz","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"bausatzes","description":"Genitiv Singular von Bausatz","base":"bausatz","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"bausbacke","description":"Subst., f. — (landsch.) runde, rote Wange; Pausbacke","base":null,"source":"community","verified_by":"moderator"}
+{"word":"bausbacken","description":"Pl. von Bausbacke","base":"bausbacke","source":"community","verified_by":"moderator"}
 {"word":"bausch","description":"Subst. — weiche, lockere Masse; Klumpen","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"bauschaum","description":"Subst. — aufschäumbares Material zum Dämmen und Füllen","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"bausche","description":"Verb — 3. Person Sg. Konj. I von bauchen; oder Subst. (veraltet) — Bausch","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -79033,6 +79035,8 @@
 {"word":"günstiges","description":"Nominativ/Akkusativ Singular Neutrum von günstig","base":"günstig","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"günstigst","description":"Superlativ von günstig (prädikative/adv. Form)","base":"günstig","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"günstling","description":"Subst. (veraltet) — Günstling, bevorzugte Person","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"güpfe","description":"Pl. von Gupf","base":"gupf","source":"community","verified_by":"moderator"}
+{"word":"güpfen","description":"Dat. Pl. von Gupf","base":"gupf","source":"community","verified_by":"moderator"}
 {"word":"gürkchen","description":null,"base":"gurka","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gürt","description":null,"base":"gegürtet","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gürte","description":"Verb — 1./3. Person Sg. Konjunktiv II von gürten oder Imperativ Sg. (veraltet/landsch.)","base":"gürten","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -89152,14 +89156,16 @@
 {"word":"ikterus","description":"Subst. (med.) — Gelbsucht","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"iktus","description":"Subst., m. — 1. Versakzent 2. plötzlich auftretendes, starkes Symptom einer Krankheit 3. Stoß 4. Insektenstich","base":null,"source":"community","verified_by":"moderator"}
 {"word":"ilanzer","description":"Subst. — Einwohner von Ilanz","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"ilea","description":"Pl. von Ileum","base":"ileum","source":"community","verified_by":"moderator"}
 {"word":"ileen","description":"Plural von Ileus (Darmverschluss)","base":"ileus","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"ilei","description":null,"base":"ileus","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"ilei","description":"Pl. von Ileus (Darmverschluss)","base":"ileus","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"ileitis","description":"Subst. (med.) — Entzündung des Krummdarms (Ileum)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"iler","description":"Schabeisen der Kammmacher","base":null,"source":"community","verified_by":"moderator"}
+{"word":"iler","description":"Subst., m. — Schabeisen der Kammmacher","base":null,"source":"community","verified_by":"moderator"}
 {"word":"ilern","description":"Dat. Pl. von Iler","base":"iler","source":"community","verified_by":"moderator"}
 {"word":"ilers","description":"Gen. Sg. von Iler","base":"iler","source":"community","verified_by":"moderator"}
-{"word":"ileum","description":"Subst. (Med.) — Krummdarm, Teil des Dünndarms","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"ileus","description":"Subst. (Med.) — Darmverschluss","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"ileum","description":"Subst., n. — Krummdarm, Teil des Dünndarms","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"ileums","description":"Gen. Sg. von Ileum","base":"ileum","source":"community","verified_by":"moderator"}
+{"word":"ileus","description":"Subst., m. — Darmverschluss","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ilex","description":"Subst. (Bot.) — Stechpalme, Hülse","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"iliacus","description":"Subst. (Anat.) — Darmbeinmuskel","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"iliopsoas","description":"Subst. (Anat.) — Muskel aus Iliacus und Psoas major","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -127562,8 +127568,23 @@
 {"word":"paulsen","description":"Verb — laut rufen, schreien; auch Nachname","base":null,"corpus_sources":["wikipedia","gutenberg","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"pauper","description":"Subst. (veraltet) — Armer, Bettler","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"paus","description":null,"base":"gepaustes","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"pausback","description":"Adj. — mit dicken, runden Backen","base":null,"corpus_sources":["kaikki_forms","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"pausback","description":"Subst., m. — Person mit Pausbacken","base":null,"corpus_sources":["kaikki_forms","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"pausbacke","description":"Subst., f. — runde, rote Backe, besonders bei Kindern","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"pausbacken","description":"Dat. Pl. von Pausback; auch Pl. von Pausbacke","base":"pausback","source":"community","verified_by":"moderator"}
+{"word":"pausbackes","description":"Gen. Sg. von Pausback","base":"pausback","source":"community","verified_by":"moderator"}
+{"word":"pausbackig","description":"Adj. — mit runden, roten Wangen","base":null,"source":"community","verified_by":"moderator"}
+{"word":"pausbackige","description":"Dekl. von pausbackig","base":"pausbackig","source":"community","verified_by":"moderator"}
+{"word":"pausbackigem","description":"Dekl. von pausbackig","base":"pausbackig","source":"community","verified_by":"moderator"}
+{"word":"pausbackigen","description":"Dekl. von pausbackig","base":"pausbackig","source":"community","verified_by":"moderator"}
+{"word":"pausbackiger","description":"Dekl. von pausbackig","base":"pausbackig","source":"community","verified_by":"moderator"}
+{"word":"pausbackiges","description":"Dekl. von pausbackig","base":"pausbackig","source":"community","verified_by":"moderator"}
+{"word":"pausbacks","description":"Gen. Sg. von Pausback","base":"pausback","source":"community","verified_by":"moderator"}
+{"word":"pausbäckig","description":"Adj. — mit runden, roten Wangen","base":null,"source":"community","verified_by":"moderator"}
+{"word":"pausbäckige","description":"Dekl. von pausbäckig","base":"pausbäckig","source":"community","verified_by":"moderator"}
+{"word":"pausbäckigem","description":"Dekl. von pausbäckig","base":"pausbäckig","source":"community","verified_by":"moderator"}
+{"word":"pausbäckigen","description":"Dekl. von pausbäckig","base":"pausbäckig","source":"community","verified_by":"moderator"}
+{"word":"pausbäckiger","description":"Dekl. von pausbäckig","base":"pausbäckig","source":"community","verified_by":"moderator"}
+{"word":"pausbäckiges","description":"Dekl. von pausbäckig","base":"pausbäckig","source":"community","verified_by":"moderator"}
 {"word":"pauschal","description":"Adj. — insgesamt, in einem Betrag, ohne Einzelaufstellung","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"pauschale","description":"Subst., f. — ein fester, pauschaler Betrag","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"pausche","description":null,"base":"pauschen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -188102,7 +188123,7 @@
 {"word":"yeah","description":"Interjektion — umgangssprachlich für ja","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"yen","description":"Subst. — Währungseinheit Japans","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"yeniceri","description":"Subst. (hist.) — osmanischer Elitesoldat (Janitschar)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"yens","description":null,"base":"yen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"yens","description":"Pl. von Yen","base":"yen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"yerba","description":"Subst. (fachspr.) — südamerikanische Stechpalmenart (Mate-Strauch)","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"yeshiva","description":"Subst. (f.) — jüdische Hochschule für das Talmudstudium","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"yeti","description":"Subst. — sagenhaftes Schneemenschenwesen im Himalaya","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
