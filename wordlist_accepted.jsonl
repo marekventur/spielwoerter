@@ -94812,6 +94812,7 @@
 {"word":"kegle","description":"Verb — Kegel spielen; umgangssprachlich für Kegeln","base":"kegeln","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kegler","description":"Subst. — Person, die Kegel spielt","base":null,"corpus_sources":["hunspell","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"keglerin","description":"Subst. — weibliche Person, die kegelt","base":null,"corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"keglerinnen","description":"Pl. von Keglerin","base":"keglerin","source":"community","verified_by":"moderator"}
 {"word":"keglern","description":"Dativ Plural von Kegler","base":"kegler","corpus_sources":["hunspell","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"keglers","description":"Genitiv Singular von Kegler","base":"kegler","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kehl","description":"Verb aus dem Bauwesen","base":"kehlen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -94851,7 +94852,6 @@
 {"word":"kehlnähte","description":"Pl. von Kehlnaht","base":"kehlnaht","corpus_sources":["hunspell","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kehlraum","description":"Subst. (Anatomie/Phonetik) — Raum im Rachen","base":null,"corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kehlraums","description":"Genitiv Singular von Kehlraum","base":"kehlraum","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"kehls","description":null,"base":"kehle","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"kehlst","description":null,"base":"gekehlt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"kehlt","description":"Verb — 3. Person Singular Präsens von kehlen (mit Kehle singen)","base":"kehlen","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kehlte","description":"Präteritum von kehlen (Verb — mit einer Kehle versehen, auskehlen)","base":"kehlen","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -124301,7 +124301,6 @@
 {"word":"oheimen","description":"Dativ Pl. von Oheim","base":"oheim","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"oheims","description":"Genitiv Sg. von Oheim","base":"oheim","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ohlbrecht","description":null,"base":"abbrecht","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"ohler","description":"Subst. (regional, veraltet) — Aalfischer oder Aalhändler","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ohm","description":"Subst. — Maßeinheit für den elektrischen Widerstand","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ohme","description":"Nom. Pl. von Ohm (1. altes Flüssigkeitsmaß 2. Oheim, Onkel)","base":"ohm","source":"community","verified_by":"moderator"}
 {"word":"ohmen","description":"Dat. Pl. von Ohm (1. altes Flüssigkeitsmaß 2. Oheim, Onkel)","base":"ohm","source":"community","verified_by":"moderator"}
