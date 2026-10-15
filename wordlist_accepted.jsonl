@@ -47966,6 +47966,11 @@
 {"word":"ekelndes","description":"Deklinierte Form des Partizips I (ekelnd)","base":"ekeln","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ekels","description":"Genitiv Singular von Ekel","base":"ekel","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ekelst","description":"Verb — 2. Person Singular Präsens von ekeln","base":"ekeln","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"ekelste","description":"dekl. Superl. von ekel (Adjektiv)","base":"ekel","source":"community","verified_by":"moderator"}
+{"word":"ekelstem","description":"dekl. Superl. von ekel (Adjektiv)","base":"ekel","source":"community","verified_by":"moderator"}
+{"word":"ekelsten","description":"dekl. Superl. von ekel (Adjektiv)","base":"ekel","source":"community","verified_by":"moderator"}
+{"word":"ekelster","description":"dekl. Superl. von ekel (Adjektiv)","base":"ekel","source":"community","verified_by":"moderator"}
+{"word":"ekelstes","description":"dekl. Superl. von ekel (Adjektiv)","base":"ekel","source":"community","verified_by":"moderator"}
 {"word":"ekelt","description":"Verb — 3. Person Singular Präsens von ekeln","base":"ekeln","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ekelte","description":"Verb — 1./3. Person Singular Präteritum von ekeln","base":"ekeln","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ekelten","description":"Verb — 1./3. Person Plural Präteritum von ekeln","base":"ekeln","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -47976,12 +47981,17 @@
 {"word":"eklatant","description":"Adj. — auffallend, offensichtlich, skandalös","base":null,"corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"eklatante","description":"Deklinierte Form von eklatant","base":"eklatant","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"eklats","description":"Genitiv Singular von Eklat","base":"eklat","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"ekle","description":null,"base":"ekel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"ekle","description":"1. Pers. Sg. Präs. & Imper. Sg. von ekeln; auch Dekl. von ekel (Adjektiv)","base":"ekeln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"eklektik","description":"Subst. — Person, die aus verschiedenen Systemen auswählt","base":"eklektiker","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"eklem","description":"Dekl. von ekel (adjektiv)","base":"ekel","source":"community","verified_by":"moderator"}
+{"word":"eklen","description":"Dekl. von ekel (Adjektiv)","base":"ekel","source":"community","verified_by":"moderator"}
+{"word":"ekler","description":"Dekl. von ekel (Adjektiv)","base":"ekel","source":"community","verified_by":"moderator"}
 {"word":"eklere","description":"dekl. Komp. von ekel (Adjektiv)","base":"ekel","source":"community","verified_by":"moderator"}
 {"word":"eklerem","description":"dekl. Komp. von ekel (Adjektiv)","base":"ekel","source":"community","verified_by":"moderator"}
 {"word":"ekleren","description":"dekl. Komp. von ekel (Adjektiv)","base":"ekel","source":"community","verified_by":"moderator"}
 {"word":"eklerer","description":"dekl. Komp. von ekel (Adjektiv)","base":"ekel","source":"community","verified_by":"moderator"}
+{"word":"ekleres","description":"dekl. Komp. von ekel (Adjektiv)","base":"ekel","source":"community","verified_by":"moderator"}
+{"word":"ekles","description":"Dekl. von ekel (Adjektiv)","base":"ekel","source":"community","verified_by":"moderator"}
 {"word":"eklig","description":"Adjektiv — Ekel erregend, widerlich","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"eklige","description":"Deklinierte Form von eklig","base":"eklig","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ekligem","description":"Deklinierte Form von eklig (Dativ Singular maskulin/neutrum)","base":"eklig","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -59935,16 +59945,24 @@
 {"word":"flecktet","description":"Verb — 2. Person Plural Präteritum von flecken","base":"flecken","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fleckung","description":"Subst. — das Fleckigsein; Musterung aus Flecken","base":null,"corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fleckvieh","description":"Subst. (Landw.) — Rinderrasse mit geflecktem Fell (z.B. Fleckvieh)","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"fledder","description":null,"base":"fledderet","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"fleddere","description":null,"base":"fledderet","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"fledder","description":"1. Pers. Sg. Präs. mit e-Tilgung von fleddern","base":"fleddern","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"fleddere","description":"1. Pers. Sg. Präs. & Imper. Sg. von fleddern","base":"fleddern","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"fledderer","description":"Subst. — jemand, der fleddert (ausplündert, zerzaust)","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fledderin","description":null,"base":"fledderer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"fleddern","description":"Verb — (umgangssprachlich) durchsuchen, plündern, ausnehmen","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"fleddern","description":"Verb — ausrauben, durchsuchen, plündern, ausnehmen","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fleddernd","description":"Verb — Partizip I von fleddern, adjektivisch dekliniert","base":"fleddern","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"fleddernde","description":"dekl. Part. I von fleddern","base":"fleddern","source":"community","verified_by":"moderator"}
+{"word":"fledderndem","description":"dekl. Part. I von fleddern","base":"fleddern","source":"community","verified_by":"moderator"}
+{"word":"fleddernden","description":"dekl. Part. I von fleddern","base":"fleddern","source":"community","verified_by":"moderator"}
+{"word":"fleddernder","description":"dekl. Part. I von fleddern","base":"fleddern","source":"community","verified_by":"moderator"}
+{"word":"fledderndes","description":"dekl. Part. I von fleddern","base":"fleddern","source":"community","verified_by":"moderator"}
 {"word":"fledderns","description":"Genitiv Singular des substantivierten Infinitivs von fleddern","base":"fleddern","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fledderst","description":"Verb — 2. Person Sg. Indikativ Präsens von fleddern","base":"fleddern","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fleddert","description":"Verb — 3. Person Sg. Indikativ Präsens von fleddern","base":"fleddern","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fledderte","description":"Verb — 1./3. Person Sg. Präteritum von fleddern","base":"fleddern","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"fledderten","description":"1. & 3. Pers. Pl. Prät. von fleddern","base":"fleddern","source":"community","verified_by":"moderator"}
+{"word":"fleddertest","description":"2. Pers. Sg. Prät. von fleddern","base":"fleddern","source":"community","verified_by":"moderator"}
+{"word":"fleddertet","description":"2. Pers. Pl. Prät. von fleddern","base":"fleddern","source":"community","verified_by":"moderator"}
 {"word":"fleddre","description":"1. Person Singular Indikativ Präsens von fleddern (e-Tilgung)","base":"fleddern","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fleece","description":"Subst. — weicher, kuscheliger Kunststoffstoff","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fleet","description":"Subst., n. — 1. schiffbarer Kanal 2. Entwässerungsgraben","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -67109,6 +67127,12 @@
 {"word":"geflechts","description":"Genitiv Singular von Geflecht","base":"geflecht","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gefleckt","description":"Partizip II von flecken — mit Flecken versehen; adj. deklinierbar","base":"flecken","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gefleckte","description":"Deklinierte Form von gefleckt (z.B. die gefleckte Kuh)","base":"flecken","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gefleddert","description":"Part. II von fleddern","base":"fleddern","source":"community","verified_by":"moderator"}
+{"word":"gefledderte","description":"dekl. Part. II von fleddern","base":"fleddern","source":"community","verified_by":"moderator"}
+{"word":"gefleddertem","description":"dekl. Part. II von fleddern","base":"fleddern","source":"community","verified_by":"moderator"}
+{"word":"gefledderten","description":"dekl. Part. II von fleddern","base":"fleddern","source":"community","verified_by":"moderator"}
+{"word":"gefledderter","description":"dekl. Part. II von fleddern","base":"fleddern","source":"community","verified_by":"moderator"}
+{"word":"gefleddertes","description":"dekl. Part. II von fleddern","base":"fleddern","source":"community","verified_by":"moderator"}
 {"word":"geflegelt","description":null,"base":"flegel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"geflehmt","description":null,"base":"flehmen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gefleht","description":"Partizip II von flehen","base":"flehen","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -68548,7 +68572,7 @@
 {"word":"geizten","description":"Präteritum von geizen (1./3. Person Plural)","base":"geizen","corpus_sources":["wiktionary","hunspell","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geiztest","description":"Präteritum von geizen (2. Person Singular)","base":"geizen","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geiztet","description":"Präteritum von geizen (2. Person Plural)","base":"geizen","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"geiß","description":null,"base":"geiss","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"geiß","description":"Subst. f. — weibliches Tier bei Ziegen, Gams-, Stein- und Rehwild","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"geißbock","description":null,"base":"geissbock","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"geißbocke","description":null,"base":"geissbock","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"geißbocks","description":null,"base":"geissbock","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -68561,9 +68585,10 @@
 {"word":"geißelst","description":null,"base":"geisseln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"geißelt","description":null,"base":"geisseln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"geißelte","description":null,"base":"geisseln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"geißen","description":null,"base":"geiss","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"geißen","description":"Pl. von Geiß","base":"geiß","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"geißle","description":null,"base":"geissel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"geißlein","description":null,"base":"geiss","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"geißlein","description":"Subst., n. — kleine Geiß","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"geißleins","description":"Gen. Sg. von Geißlein","base":"geißlein","source":"community","verified_by":"moderator"}
 {"word":"geißler","description":null,"base":"geissler","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"geißlers","description":null,"base":"geissler","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"geißlest","description":null,"base":"geisselst","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -74826,23 +74851,24 @@
 {"word":"giesset","description":"2. Person Plural Konjunktiv I von gießen","base":"gießen","corpus_sources":["gutenberg","kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"giessform","description":"Subst. — Form zum Gießen von Metall","base":"gießform","corpus_sources":[],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"giesst","description":"3. Person Singular Indikativ Präsens von gießen","base":"gießen","corpus_sources":["gutenberg","kaikki_forms","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"gieß","description":null,"base":"gegossen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"gieße","description":null,"base":"gegossen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"gießen","description":null,"base":"gegossen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"gießend","description":null,"base":"gegossen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"gießende","description":null,"base":"giessende","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gieß","description":"1. Pers. Sg. Präs. mit e-Tilgung & Imper. Sg. von gießen","base":"gießen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gieße","description":"1. Pers. Sg. Präs. von gießen","base":"gießen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gießen","description":"Verb — 1. eine Flüssigkeit fließen lassen oder ausschütten 2. stark regnen 3. geschmolzenes Material in eine Form fließen lassen","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gießend","description":"Part. I von gießen","base":"gießen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gießende","description":"dekl. Part.I von gießen","base":"gießen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gießendem","description":"Dekl. Part. I von gießen","base":"gießen","source":"community","verified_by":"moderator"}
+{"word":"gießenden","description":"dekl. Part. I von gießen","base":"gießen","source":"community","verified_by":"moderator"}
 {"word":"gießender","description":"Dekl. Part. I von gießen","base":"gießen","source":"community","verified_by":"moderator"}
 {"word":"gießendes","description":"Dekl. Part. I von gießen","base":"gießen","source":"community","verified_by":"moderator"}
-{"word":"gießens","description":null,"base":"gegossen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gießens","description":"Gen. Sg. des subst. Infinitivs von gießen","base":"gießen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gießer","description":null,"base":"giesser","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gießerei","description":null,"base":"giesserei","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gießerin","description":null,"base":"giesser","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gießern","description":null,"base":"giesser","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gießers","description":null,"base":"giesser","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"gießest","description":null,"base":"giessest","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"gießet","description":null,"base":"giesset","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"gießt","description":null,"base":"gegossen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gießest","description":"2. Pers. Sg. Konj. I von gießen","base":"gießen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gießet","description":"2. Pers. Pl. Konj. I von gießen","base":"gießen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gießt","description":"2. & 3. Pers. Sg. Präs. & 2. Pers. Pl. Präs. von gießen","base":"gießen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gifft","description":"Verb — 2. Person Singular Indikativ Präsens von giften (veraltet für giftig machen/vergiften)","base":"giften","corpus_sources":["gutenberg","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gifften","description":"Verb — 1./3. Person Plural Präteritum von giften","base":"giften","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gifst","description":"2. Person Singular Präsens von gifen (umgangssprachlich für ein GIF erstellen/versenden)","base":"gifen","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -99247,11 +99273,16 @@
 {"word":"kompilat","description":"Subst. (n.) — Sammlung, Zusammenstellung (z.B. von Texten)","base":null,"corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kompilate","description":"Pl. von Kompilat","base":"kompilat","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kompilier","description":"Verb — 1. Person Sg. Indikativ Präsens von kompilieren","base":"kompilieren","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"komplet","description":"Adj. — vollständig, ganz; auch Subst. (veraltet) — vollständiger Satz","base":"komplett","corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"komplete","description":null,"base":"komplet","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"kompleten","description":"Deklinierte Form von 'komplett' (Adjektiv)","base":"komplett","corpus_sources":["wiktionary","gutenberg","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"komplet","description":"1. Subst., n. — Bekleidung 2. Subst, f. — Gebet","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"komplete","description":"Nom. Pl. von Komplet (Gebet)","base":"komplet","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"kompleten","description":"Dat. Pl. von Komplet (Gebet)","base":"komplet","corpus_sources":["wiktionary","gutenberg","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"komplets","description":"Gen. Sg. und Pl. von Komplet (Bekleidung)","base":"komplet","source":"community","verified_by":"moderator"}
 {"word":"komplett","description":"Adjektiv — vollständig, ganz, lückenlos","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"komplette","description":"Deklinierte Form von 'komplett' (Adjektiv)","base":"komplett","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"komplettem","description":"Dekl. von komplett","base":"komplett","source":"community","verified_by":"moderator"}
+{"word":"kompletten","description":"Dekl. von komplett","base":"komplett","source":"community","verified_by":"moderator"}
+{"word":"kompletter","description":"Dekl. von komplett","base":"komplett","source":"community","verified_by":"moderator"}
+{"word":"komplettes","description":"Dekl. von komplett","base":"komplett","source":"community","verified_by":"moderator"}
 {"word":"komplex","description":"Adjektiv — vielschichtig, verwickelt, zusammengesetzt","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"komplexe","description":"Deklinierte Form von 'komplex' (Adjektiv)","base":"komplex","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"komplexem","description":"Deklinierte Form des Adjektivs komplex (Dativ Singular Maskulinum/Neutrum)","base":"komplex","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -105836,7 +105867,7 @@
 {"word":"lederband","description":"Subst. — Band aus Leder; auch: Lederriemen","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ledere","description":null,"base":"geledert","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"lederer","description":"Subst. — Berufsbezeichnung; Gerber oder Lederarbeiter","base":null,"corpus_sources":["wikipedia","gutenberg","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"lederetui","description":"Subst. (Neutr.) — Etui aus Leder","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"lederetui","description":"Subst., n. — Etui aus Leder","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"lederfett","description":"Subst. (Neutr.) — Fett zur Pflege von Leder","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"lederhart","description":"Adj. — so hart wie Leder; sehr zäh","base":null,"corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"lederhaut","description":"Subst. (Fem.) — 1. Haut, die zu Leder gegerbt wird. 2. (Anat.) Lederhaut (Corium)","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
