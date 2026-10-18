@@ -160490,6 +160490,9 @@
 {"word":"tagen","description":"Verb — eine Sitzung, Versammlung abhalten; auch: zum Tag werden, hell werden","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"tagend","description":null,"base":"getagt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"tagende","description":"Subst. — Ende eines Tages; auch: Ende einer Tagung","base":null,"corpus_sources":["wiktionary","hunspell","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"tagendem","description":"dekl. Part. I von tagen","base":"tagen","source":"community","verified_by":"moderator"}
+{"word":"tagenden","description":"flektierte Form von tagend (Part. I von tagen)","base":"tagen","source":"community","verified_by":"moderator"}
+{"word":"tagender","description":"flektierte Form von tagend (Part. I von tagen)","base":"tagen","source":"community","verified_by":"moderator"}
 {"word":"tagendes","description":"Partizip I von tagen (Verb — eine Tagung abhalten)","base":"tagen","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"tagens","description":"Gen. v. substantivierten Verb TAGEN (wie Tagung)","base":"tag","source":"community","verified_by":"moderator"}
 {"word":"tages","description":"Genitiv Singular von Tag","base":"tag","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -160519,6 +160522,7 @@
 {"word":"tagessatz","description":"Subst. — Geldbetrag, der als Strafe für einen Tag festgesetzt wird","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"tagessieg","description":"Subst. — Sieg an einem bestimmten Tag (z.B. bei Etappenrennen)","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"tagessoll","description":"Subst. (neut.) — Tagesleistung, die zu erbringen ist","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"tagest","description":"Konj. I, 2. Pers. Sg. von tagen","base":"tagen","source":"community","verified_by":"moderator"}
 {"word":"tagestest","description":"Subst. (masc.) — Test, der an einem Tag durchgeführt wird","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"tagestief","description":"Subst. (neut.) — niedrigster Punkt/Tiefstand eines Tages (z.B. Börse)","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"tagestipp","description":"Subst. — Tipp des Tages (z.B. bei Wetten, Aktien)","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
