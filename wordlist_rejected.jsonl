@@ -459,6 +459,8 @@
 {"word":"alett","description":null,"base":"alette","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"aletta","description":null,"base":"alette","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"alette","description":"Subst. (Architektur) — seitliche Verstärkungspfeiler an Türmen oder Portalen","base":null,"corpus_sources":["wikipedia","kaikki_forms"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"aleute","description":"Subst. — Angehöriger des gleichnamigen nordpazifischen Volkes","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"aleutin","description":null,"base":"aleute","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"alex","description":null,"base":"alexia","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"alexa","description":null,"base":"alexia","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"alexander","description":null,"base":"alexin","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -14921,6 +14923,7 @@
 {"word":"zelg","description":"Subst. (schweiz., süddt.) — Brachland, unbestelltes Feld","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"zender","description":"Subst. (m.) — Sender, Gerät zur Aussendung von Signalen","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"zenders","description":"Genitiv Singular oder Nominativ Plural von Zender","base":"zender","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"zentil","description":"Subst., n. — (Statistik) Perzentil; Wert, der eine nach Größe geordnete Verteilung in hundert gleich große Teile gliedert","base":null,"source":"community","verified_by":"moderator"}
 {"word":"zenzi","description":null,"base":"francisca","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"zer","description":"Verb — Imperativ von zerren (veraltete Kurzform; auch: Präfix-Fragment)","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"curated","verified_by":"manual"}
 {"word":"zerbeiss","description":"Schweizer Schreibweise von zerbeiß; in der Liste gilt die Schreibung mit ß","base":"zerbeißen","corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"community","verified_by":"moderator"}
