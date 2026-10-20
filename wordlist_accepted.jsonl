@@ -73048,6 +73048,11 @@
 {"word":"getarntes","description":"Partizip II von tarnen, dekliniert (neutr. Nom./Akk. Sg.)","base":"tarnen","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"getas","description":"Pl. von Geta","base":"geta","source":"community","verified_by":"moderator"}
 {"word":"getasert","description":"Partizip II von tasern (mit Elektroschockpistole schießen)","base":"tasern","corpus_sources":["hunspell","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"getaserte","description":"dekl. Part. II von tasern","base":"tasern","source":"community","verified_by":"moderator"}
+{"word":"getasertem","description":"dekl. Part. II von tasern","base":"tasern","source":"community","verified_by":"moderator"}
+{"word":"getaserten","description":"dekl. Part. II von tasern","base":"tasern","source":"community","verified_by":"moderator"}
+{"word":"getaserter","description":"dekl. Part. II von tasern","base":"tasern","source":"community","verified_by":"moderator"}
+{"word":"getasertes","description":"dekl. Part. II von tasern","base":"tasern","source":"community","verified_by":"moderator"}
 {"word":"getastet","description":"Partizip II von tasten (suchen, fühlen)","base":"tasten","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"getastete","description":"Partizip II von tasten, dekliniert (fem. Nom./Akk. Sg. oder alle Nom./Akk. Pl.)","base":"tasten","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"getatscht","description":"Partizip II von tatscheln/tatschen (ugs. — tätscheln, unsauber spielen)","base":"tatscheln","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -161378,18 +161383,28 @@
 {"word":"taschen","description":"Verb — in die Tasche stecken; auch: Pl. von Tasche","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"taschner","description":"Subst. (veraltet/landschaftl.) — Taschenmacher, Täschner","base":null,"corpus_sources":["wikipedia","gutenberg","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"taser","description":"Subst. (Anglizismus) — Elektroschockpistole, Elektroschocker","base":null,"corpus_sources":["hunspell","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"tasere","description":"1. Pers. Sg. Präs. von tasern","base":"tasern","source":"community","verified_by":"moderator"}
+{"word":"tasern","description":"Verb — mit einem Taser (Elektroschockpistole) außer Gefecht setzen; auch Dat. Pl. von Taser","base":null,"source":"community","verified_by":"moderator"}
+{"word":"tasernd","description":"Part. I von tasern","base":"tasern","source":"community","verified_by":"moderator"}
+{"word":"tasernde","description":"dekl. Part. I von tasern","base":"tasern","source":"community","verified_by":"moderator"}
+{"word":"taserndem","description":"dekl. Part. I von tasern","base":"tasern","source":"community","verified_by":"moderator"}
+{"word":"tasernden","description":"dekl. Part. I von tasern","base":"tasern","source":"community","verified_by":"moderator"}
 {"word":"tasernder","description":"Partizip I von tasern, dekliniert (z.B. ein tasernder Polizist)","base":"tasern","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"taserndes","description":"Partizip I von tasern, dekliniert (z.B. ein taserndes Gerät)","base":"tasern","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"taserns","description":"Genitiv des substantivierten Infinitivs von tasern","base":"tasern","source":"community","verified_by":"moderator"}
 {"word":"tasers","description":"Pl. von Taser (Elektroschockpistolen)","base":"taser","corpus_sources":["wiktionary","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"taserst","description":"2. Person Singular Indikativ Präsens von tasern","base":"tasern","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"tasert","description":"3. Person Singular Indikativ Präsens von tasern","base":"tasern","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"taserte","description":"Präteritum (1./3. Person Singular) von tasern","base":"tasern","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"taserten","description":"Präteritum (1./3. Person Plural) von tasern","base":"tasern","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"tasertest","description":"2. Pers. Sg. Prät. von tasern","base":"tasern","source":"community","verified_by":"moderator"}
+{"word":"tasertet","description":"2. Pers. Pl. Prät. von tasern","base":"tasern","source":"community","verified_by":"moderator"}
 {"word":"task","description":"Subst. (ugs., Kurzwort) — Aufgabe, Auftrag","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"taskbar","description":"Subst. (f., EDV) — Leiste am Bildschirmrand zur Anzeige laufender Programme","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"taskforce","description":"Subst. (f.) — Sondereinheit, Arbeitsgruppe für eine spezielle Aufgabe","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"tasks","description":"Pl. von Task","base":"task","source":"community","verified_by":"moderator"}
 {"word":"tasmanier","description":"Subst. — Einwohner von Tasmanien","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"tasre","description":"1. Pers. Sg. Präs. von tasern (e-Tilgung)","base":"tasern","source":"community","verified_by":"moderator"}
 {"word":"tasse","description":"Subst. (f.) — Trinkgefäß mit Henkel","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"tassen","description":"Pl. von Tasse","base":"tasse","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"tast","description":"Subst. (f.) — Taste, Knopf an einem Gerät","base":"taste","corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
