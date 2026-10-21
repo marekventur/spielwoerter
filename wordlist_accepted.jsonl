@@ -40660,7 +40660,10 @@
 {"word":"distelöl","description":"Subst. — aus Disteln gewonnenes Öl","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"distelöle","description":"Pl. von Distelöl","base":"distelöl","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"distelöls","description":"Genitiv Sg. von Distelöl","base":"distelöl","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"disthen","description":"Subst. (Mineralogie) — veralteter Name für den Mineral Andalusit","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"disthen","description":"Subst., m. — zumeist blaues Mineral","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"disthene","description":"Nom. Pl. von Disthen (ein Mineral)","base":"disthen","source":"community","verified_by":"moderator"}
+{"word":"disthenen","description":"Dat. Pl. von Disthen (ein Mineral)","base":"disthen","source":"community","verified_by":"moderator"}
+{"word":"disthens","description":"Gen. Sg. von Disthen (ein Mineral)","base":"disthen","source":"community","verified_by":"moderator"}
 {"word":"distich","description":"Subst. (Literatur) — aus zwei Verszeilen bestehende Gedichtform","base":"distichon","corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"disticha","description":"Pl. von Distichon","base":"distichon","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"distiche","description":null,"base":"distich","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -75867,6 +75870,9 @@
 {"word":"gogol","description":"Subst. — veraltete Maßeinheit (10^100)","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"goi","description":"Subst. (jidd./hebr.) — Nichtjude, Fremder","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gois","description":null,"base":"goi","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"goiserer","description":"Subst., m. — (österr.) schwerer, genagelter Berg- und Wanderschuh, benannt nach Bad Goisern","base":null,"source":"community","verified_by":"moderator"}
+{"word":"goiserern","description":"Dat. Pl. von Goiserer","base":"goiserer","source":"community","verified_by":"moderator"}
+{"word":"goiserers","description":"Gen. Sg. von Goiserer","base":"goiserer","source":"community","verified_by":"moderator"}
 {"word":"gojibeere","description":"Subst. — Frucht des Gemeinen Bocksdorns","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gojim","description":null,"base":"goi","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gokart","description":"Subst. — kleines, motorbetriebenes Rennfahrzeug","base":null,"corpus_sources":["hunspell","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
