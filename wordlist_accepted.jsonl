@@ -68665,7 +68665,12 @@
 {"word":"geklemmte","description":"Deklinierte Form von geklemmt (Partizip II von klemmen)","base":"klemmen","corpus_sources":["wiktionary","hunspell","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geklickt","description":"Partizip II von klicken — mit der Maus anklicken; ein Geräusch machen","base":"klicken","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geklickte","description":"Partizip II von klicken, adjektivisch dekliniert","base":"klicken","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"gekliebt","description":null,"base":"cloven","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gekliebt","description":"Part. II von klieben (spalten)","base":"klieben","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gekliebte","description":"dekl. Part. II von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
+{"word":"gekliebtem","description":"dekl. Part. II von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
+{"word":"gekliebten","description":"dekl. Part. II von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
+{"word":"gekliebter","description":"dekl. Part. II von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
+{"word":"gekliebtes","description":"dekl. Part. II von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
 {"word":"gekliert","description":"Part. II von klieren","base":"klieren","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"geklierte","description":"Dekl. Part. II von klieren","base":"klieren","source":"community","verified_by":"moderator"}
 {"word":"gekliertem","description":"dekl. Part. II von klieren","base":"klieren","source":"community","verified_by":"moderator"}
@@ -68678,7 +68683,17 @@
 {"word":"geklinkt","description":"Partizip II von klinken","base":"klinken","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geklirr","description":"Substantiviertes Partizip I von klirren — Geklirr","base":"klirren","corpus_sources":["hunspell","gutenberg"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geklirrt","description":"Partizip II von klirren","base":"klirren","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"gekloben","description":null,"base":"cloven","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gekloben","description":"Part. II von klieben (spalten)","base":"klieben","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"geklobene","description":"Dekl. Part. II von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
+{"word":"geklobenem","description":"Dekl. Part. II von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
+{"word":"geklobenen","description":"Dekl. Part. II von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
+{"word":"geklobener","description":"Dekl. Part. II von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
+{"word":"geklobenes","description":"Dekl. Part. II von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
+{"word":"geklobne","description":"dekl. Part. II mit e-Tilgung von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
+{"word":"geklobnem","description":"dekl. Part. II mit e-Tilgung von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
+{"word":"geklobnen","description":"dekl. Part. II mit e-Tilgung von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
+{"word":"geklobner","description":"dekl. Part. II mit e-Tilgung von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
+{"word":"geklobnes","description":"dekl. Part. II mit e-Tilgung von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
 {"word":"geklommen","description":"Partizip II von klimmen (veraltet für klettern)","base":"klimmen","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geklommne","description":"Partizip II von klimmen (veraltet für klettern) mit e-Tilgung","base":"klimmen","corpus_sources":["ne_contracted"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geklont","description":"Partizip II von klonen","base":"klonen","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -96791,13 +96806,24 @@
 {"word":"klickten","description":"Verb — 1./3. Person Plural Präteritum von klicken","base":"klicken","corpus_sources":["wiktionary","hunspell","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"klicktest","description":"Verb — 2. Person Singular Präteritum von klicken","base":"klicken","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"klicktet","description":"Präteritum 2. Person Plural von klicken","base":"klicken","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"klieb","description":null,"base":"cloven","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"kliebe","description":null,"base":"cloven","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"klieben","description":null,"base":"cloven","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"kliebend","description":null,"base":"cloven","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"kliebst","description":null,"base":"cloven","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"klieb","description":"Imper. Sg. & 1. Pers. Sg. Präs. mit e-Tilgung von klieben (spalten)","base":"klieben","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"kliebe","description":"1. Pers. Sg. Präs. von klieben (spalten)","base":"klieben","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"klieben","description":"Verb — (südd., österr.) spalten","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"kliebend","description":"Part. I von klieben (spalten)","base":"klieben","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"kliebende","description":"dekl. Part. I von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
+{"word":"kliebendem","description":"dekl. Part. I von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
+{"word":"kliebenden","description":"dekl. Part. I von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
+{"word":"kliebender","description":"dekl. Part. I von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
+{"word":"kliebendes","description":"dekl. Part. I von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
+{"word":"kliebens","description":"Gen. Sg. des subst. Infinitivs von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
+{"word":"kliebest","description":"2. Pers. Sg. Konj. I von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
+{"word":"kliebet","description":"2. Pers. Pl. Konj. I von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
+{"word":"kliebst","description":"2. Pers. Sg. Präs. von klieben (spalten)","base":"klieben","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"kliebt","description":null,"base":"cloven","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"kliebte","description":null,"base":"cloven","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"kliebten","description":"1. & 3. P ers. Pl. Prät. von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
+{"word":"kliebtest","description":"2. Pers. Sg. Prät. von klieben","base":"klieben","source":"community","verified_by":"moderator"}
+{"word":"kliebtet","description":"2. Pers. Pl. Prät. von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
 {"word":"klient","description":"Subst., mask. — Mandant, Auftraggeber (bes. eines Rechtsanwalts)","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"klientel","description":"Subst., fem. — Gesamtheit der Klienten; Kundschaft","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"klientele","description":"Subst., fem. — alternative Schreibweise von Klientel","base":null,"corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -96996,7 +97022,7 @@
 {"word":"klo","description":"Subst. (ugs.) — Toilette","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kloake","description":"Subst., f. — 1. Abwasserkanal; 2. (Zool.) gemeinsame Körperöffnung für Darm, Harn- und Geschlechtswege","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kloaken","description":"Pl. von Kloake","base":"kloake","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"klob","description":null,"base":"cloven","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"klob","description":"1. & 3. Pers. Sg. Prät. von klieben (spalten)","base":"klieben","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"kloben","description":"Subst. — großer, schwerer Holzblock; auch: Hebel, Knebel","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"klobens","description":"Genitiv Singular von Kloben","base":"kloben","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"klobig","description":"Adj. — klotzig, ungeschlacht, plump","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -97008,6 +97034,8 @@
 {"word":"klobiges","description":"Adjektiv — dekliniert: neutraler Nominativ/Akkusativ Singular von klobig","base":"klobig","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"klobigste","description":"Adjektiv — Superlativ, dekliniert: weiblicher Nominativ/Akkusativ Singular oder Nominativ/Akkusativ Plural von klobigst","base":"klobig","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"klobrille","description":null,"base":"brille","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"klobst","description":"2. Pers. Sg. Prät. von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
+{"word":"klobt","description":"2. Pers. Pl. Prät. von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
 {"word":"klock","description":null,"base":"glocke","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"klocke","description":null,"base":"glocke","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"klocker","description":null,"base":"glocke","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -97264,12 +97292,13 @@
 {"word":"kläulein","description":null,"base":"klau","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"kläuschen","description":"Subst. (ugs., regional) — Diminutiv von Klaus (Klaue)","base":"klaus","corpus_sources":["wikipedia","kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kläusner","description":null,"base":"klausner","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"klöbe","description":"Konjunktiv II (1./3. Person Singular) von kleben","base":"kleben","corpus_sources":["wiktionary","gutenberg","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"klöben","description":"Konjunktiv II (1./3. Person Plural) von kleben","base":"kleben","corpus_sources":["wiktionary","wikipedia","gutenberg"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"klöbest","description":"Konjunktiv II (2. Person Singular) von kleben","base":"kleben","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"klöbet","description":"Konjunktiv II (2. Person Plural) von kleben","base":"kleben","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"klöbst","description":null,"base":"klöbest","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"klöbt","description":null,"base":"klöbet","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"klöb","description":"1. Pers. Sg. Konj. II mit e-Tilgung von klieben (spalten)","base":"klieben","source":"community","verified_by":"moderator"}
+{"word":"klöbe","description":"1. & 3. Pers. Sg. Konj. II von klieben (spalten)","base":"klieben","corpus_sources":["wiktionary","gutenberg","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"klöben","description":"1. & 3. Pers. Pl. Konj. II von klieben (spalten)","base":"klieben","corpus_sources":["wiktionary","wikipedia","gutenberg"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"klöbest","description":"2. Pers. Sg. Konj. II von klieben (spalten)","base":"klieben","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"klöbet","description":"2. Pers. Pl. Konj. II von klieben (spalten)","base":"klieben","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"klöbst","description":"2. Pers. Sg. Konj. II mit e-Tilgung von klieben (spalten)","base":"klieben","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"klöbt","description":"2. Pers. Pl. Konj. II mit e-Tilgung von klieben (spalten)","base":"klieben","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"klöcker","description":null,"base":"glocke","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"klöckler","description":null,"base":"glöckner","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"klöckner","description":null,"base":"glocke","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -152814,7 +152843,6 @@
 {"word":"sorbe","description":"Subst. — Angehöriger des westslawischen Volkes der Sorben","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sorben","description":"Pl. von Sorbe","base":"sorbe","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sorbens","description":"Subst. (Chemie) — ein Stoff, der andere Stoffe aufnimmt (Adsorbens, Absorbens)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"sorber","description":"Subst. — Angehöriger des westslawischen Volkes der Sorben","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sorbet","description":"Subst. — halbgefrorene, fruchtige Nachspeise","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sorbets","description":"Pl. von Sorbet","base":"sorbet","corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sorbett","description":"Subst. — halbgefrorene, fruchtige Süßspeise","base":null,"corpus_sources":["hunspell","wikipedia","gutenberg","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
