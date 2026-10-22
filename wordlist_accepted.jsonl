@@ -35242,8 +35242,9 @@
 {"word":"cancelst","description":null,"base":"canceln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"cancelt","description":null,"base":"canceln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"cancelte","description":null,"base":"canceln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"cancer","description":"Subst. (med., lat.) — Krebs, bösartige Geschwulst","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"cancers","description":"Genitiv - https://www.duden.de/rechtschreibung/Cancer","base":"cancer","source":"community","verified_by":"moderator"}
+{"word":"cancer","description":"Subst., m. — Karzinom","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"cancern","description":"Dat. Pl. von Cancer (Karzinom)","base":"cancer","source":"community","verified_by":"moderator"}
+{"word":"cancers","description":"Gen. Sg. von Cancer (Karzinom)","base":"cancer","source":"community","verified_by":"moderator"}
 {"word":"cancle","description":null,"base":"canceln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"candela","description":"Subst. (Physik) — SI-Basiseinheit der Lichtstärke","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"candelas","description":"Pl. von Candela — Maßeinheit der Lichtstärke","base":"candela","corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
