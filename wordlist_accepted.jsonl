@@ -38544,6 +38544,10 @@
 {"word":"davosers","description":"Genitiv Singular von Davoser","base":"davoser","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"daweil","description":null,"base":"derweil","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"dax","description":"Subst. — Deutscher Aktienindex","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"dazit","description":"Subst., m. — Quarzgestein","base":null,"source":"community","verified_by":"moderator"}
+{"word":"dazite","description":"Nom. Pl. von Dazit (Quarzgestein)","base":"dazit","source":"community","verified_by":"moderator"}
+{"word":"daziten","description":"Dat. Pl. von Dazit (Quarzgestein)","base":"dazit","source":"community","verified_by":"moderator"}
+{"word":"dazits","description":"Gen. Sg. von Dazit (Quarzgestein)","base":"dazit","source":"community","verified_by":"moderator"}
 {"word":"dazomet","description":"Subst. — chemisches Mittel zur Bodenentseuchung","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"dazu","description":"Adv. — zu dieser Sache; außerdem","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"dazubekam","description":"Präteritum von dazubekommen","base":"dazubekommen","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -139138,7 +139142,9 @@
 {"word":"ridotto","description":"Subst. (veraltet) — öffentlicher Vergnügungsort, Spielsalon","base":null,"corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"rieb","description":"Präteritum von reiben","base":"reiben","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"riebe","description":"1./3. Person Sg. Konj. Prät. von reiben","base":"reiben","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"riebel","description":"Subst. (südd., österr., schweiz.) — grob gemahlenes Getreide, speziell Maisgrieß","base":null,"corpus_sources":["wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"riebel","description":"Subst., m. — (südd., österr., schweiz.) Gericht aus Grieß","base":null,"corpus_sources":["wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"riebeln","description":"Pl. von Riebel (Grießgericht)","base":"riebel","source":"community","verified_by":"moderator"}
+{"word":"riebels","description":"Gen. Sg. von Riebel (Grießgericht)","base":"riebel","source":"community","verified_by":"moderator"}
 {"word":"rieben","description":"1./3. Person Plural Präteritum von reiben","base":"reiben","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"riebest","description":"2. Person Singular Konjunktiv I von reiben","base":"reiben","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"riebet","description":"Verb — 2. Person Plural Konjunktiv II von reiben","base":"reiben","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
