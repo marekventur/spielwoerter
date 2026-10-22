@@ -13374,7 +13374,6 @@
 {"word":"arachide","description":"Subst. (fachspr., veraltet) — Erdnuss","base":null,"corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"arachis","description":"Subst. (bot.) — Gattungsname der Erdnuss","base":null,"corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"arachnide","description":"Subst. (fachspr.) — Spinnentier","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"arack","description":"Subst. — (auch Arrak) alkoholisches Getränk aus Reis oder Palmwein","base":null,"corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"aragonier","description":"Subst. — Einwohner oder Ritter aus der Region Aragonien","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"aragonit","description":"Subst. (Mineral.) — Mineral, Calciumcarbonat","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"aragonite","description":"Pl. von Aragonit","base":"aragonit","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -15063,6 +15062,11 @@
 {"word":"aufgeilst","description":"2. Person Singular Indikativ Präsens von aufgeilen","base":"aufgeilen","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"aufgeilt","description":"3. Person Singular Indikativ Präsens von aufgeilen","base":"aufgeilen","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"aufgejagt","description":"Adjektiv — Partizip II von aufjagen, dekliniert (z.B. das aufgejagte Wild)","base":"aufjagen","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"aufgejagte","description":"dekl. Part. II von aufjagen","base":"aufjagen","source":"community","verified_by":"moderator"}
+{"word":"aufgejagtem","description":"dekl. Part. II von aufjagen","base":"aufjagen","source":"community","verified_by":"moderator"}
+{"word":"aufgejagten","description":"dekl. Part. II von aufjagen","base":"aufjagen","source":"community","verified_by":"moderator"}
+{"word":"aufgejagter","description":"dekl. Part. II von aufjagen","base":"aufjagen","source":"community","verified_by":"moderator"}
+{"word":"aufgejagtes","description":"dekl. Part. II von aufjagen","base":"aufjagen","source":"community","verified_by":"moderator"}
 {"word":"aufgeld","description":"Subst. (Finanzw.) — Aufschlag, Agio","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"aufgelde","description":null,"base":"aufgeld","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"aufgelder","description":null,"base":"aufgeld","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -15332,8 +15336,23 @@
 {"word":"aufhülfst","description":"Konjunktiv II, 2. Person Singular von aufhelfen","base":"aufhelfen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"aufhülft","description":"Konjunktiv II, 3. Person Plural von aufhelfen","base":"aufhelfen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"aufisst","description":"3. Person Singular Indikativ Präsens von aufessen","base":"aufessen","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"aufjage","description":"1. Pers. Sg. Präs. (im Nebensatz) bzw. Konj. I von aufjagen","base":"aufjagen","source":"community","verified_by":"moderator"}
 {"word":"aufjagen","description":"Verb — (ein Tier) aufscheuchen, hochjagen","base":null,"corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"aufjagend","description":"Part. I von aufjagen","base":"aufjagen","source":"community","verified_by":"moderator"}
+{"word":"aufjagende","description":"dekl. Part. I von aufjagen","base":"aufjagen","source":"community","verified_by":"moderator"}
+{"word":"aufjagendem","description":"dekl. Part. I von aufjagen","base":"aufjagen","source":"community","verified_by":"moderator"}
+{"word":"aufjagenden","description":"dekl. Part. I von aufjagen","base":"aufjagen","source":"community","verified_by":"moderator"}
+{"word":"aufjagender","description":"dekl. Part. I von aufjagen","base":"aufjagen","source":"community","verified_by":"moderator"}
+{"word":"aufjagendes","description":"dekl. Part. I von aufjagen","base":"aufjagen","source":"community","verified_by":"moderator"}
+{"word":"aufjagens","description":"Genitiv des substantivierten Infinitivs von aufjagen","base":"aufjagen","source":"community","verified_by":"moderator"}
+{"word":"aufjagest","description":"Konj. I, 2. Pers. Sg. von aufjagen","base":"aufjagen","source":"community","verified_by":"moderator"}
+{"word":"aufjaget","description":"Konj. I, 2. Pers. Pl. von aufjagen","base":"aufjagen","source":"community","verified_by":"moderator"}
+{"word":"aufjagst","description":"2. Pers. Sg. Präs. (im Nebensatz) von aufjagen","base":"aufjagen","source":"community","verified_by":"moderator"}
 {"word":"aufjagt","description":"3. Person Singular Präsens von aufjagen","base":"aufjagen","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"aufjagte","description":"Prät. (im Nebensatz) von aufjagen","base":"aufjagen","source":"community","verified_by":"moderator"}
+{"word":"aufjagten","description":"Prät. Pl. (im Nebensatz) von aufjagen","base":"aufjagen","source":"community","verified_by":"moderator"}
+{"word":"aufjagtest","description":"2. Pers. Sg. Prät. von aufjagen","base":"aufjagen","source":"community","verified_by":"moderator"}
+{"word":"aufjagtet","description":"2. Pers. Pl. Prät. von aufjagen","base":"aufjagen","source":"community","verified_by":"moderator"}
 {"word":"aufjubele","description":"1. Person Singular Konjunktiv I von aufjubeln","base":"aufjubeln","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"aufjubeln","description":"Verb — (veraltet) laut jubelnd begrüßen, bejubeln","base":null,"corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"aufjubelt","description":"3. Person Singular Indikativ Präsens von aufjubeln","base":"aufjubeln","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -16442,6 +16461,7 @@
 {"word":"aufzuhuckenden","description":"Dekl. Part. I mit zu von aufhucken","base":"aufhucken","source":"community","verified_by":"moderator"}
 {"word":"aufzuhuckender","description":"Dekl. Part. I. mit zu von aufhucken","base":"aufhucken","source":"community","verified_by":"moderator"}
 {"word":"aufzuhuckendes","description":"Dekl. Part. I mit zu von aufhucken","base":"aufhucken","source":"community","verified_by":"moderator"}
+{"word":"aufzujagen","description":"Inf. mit zu von aufjagen","base":"aufjagen","source":"community","verified_by":"moderator"}
 {"word":"aufzumuntern","description":"Inf. mit zu von aufmuntern","base":"aufmuntern","source":"community","verified_by":"moderator"}
 {"word":"aufzumunternd","description":"Part. I mit zu von aufmuntern","base":"aufmuntern","source":"community","verified_by":"moderator"}
 {"word":"aufzumunternde","description":"dekl. Part. I des Infinitivs mit zu von aufmuntern","base":"aufmuntern","source":"community","verified_by":"moderator"}
