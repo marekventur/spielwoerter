@@ -680,6 +680,11 @@
 {"word":"abcashe","description":"1. Pers. Sg. Präs. von abcashen","base":"abcashen","source":"community","verified_by":"moderator"}
 {"word":"abcashen","description":"Verb — (ugs., österr.) auf fragwürdige Weise abkassieren","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"abcashend","description":"Part. I von abcashen","base":"abcashen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"abcashende","description":"Dekl. Part. I von abcashen","base":"abcashen","source":"community","verified_by":"moderator"}
+{"word":"abcashenden","description":"Dekl. Part. I von abcashen","base":"abcashen","source":"community","verified_by":"moderator"}
+{"word":"abcashender","description":"Dekl. Part. I von abcashen","base":"abcashen","source":"community","verified_by":"moderator"}
+{"word":"abcashendes","description":"Dekl. Part. I von abcashen","base":"abcashen","source":"community","verified_by":"moderator"}
+{"word":"abcashens","description":"Gen. Sg. des subst. Infinitivs von abcashen","base":"abcashen","source":"community","verified_by":"moderator"}
 {"word":"abcashst","description":"2. Pers. Sg. Präs. von abcashen","base":"abcashen","source":"community","verified_by":"moderator"}
 {"word":"abcasht","description":"3. Pers. Sg. Präs. von abcashen","base":"abcashen","source":"community","verified_by":"moderator"}
 {"word":"abcashte","description":"1. & 3. Pers. Sg. Prät. von abcashen","base":"abcashen","source":"community","verified_by":"moderator"}
@@ -20225,6 +20230,11 @@
 {"word":"banen","description":"Dat. Pl. von Ban (Stadthalter in Ungarn und Kroatien)","base":"ban","source":"community","verified_by":"moderator"}
 {"word":"banes","description":null,"base":"bahne","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"bang","description":"Adj. — lautmalerisch für Knall; umg. für beeindruckend, toll","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"bangbuxe","description":"Subst., f. — (norddt. ugs.) ängstlicher Mensch, Angsthase","base":null,"source":"community","verified_by":"moderator"}
+{"word":"bangbuxen","description":"Pl. von Bangbuxe","base":"bangbuxe","source":"community","verified_by":"moderator"}
+{"word":"bangbüx","description":"Subst., f. — (norddt., umgangssprachlich) ängstlicher Mensch, Angsthase","base":null,"source":"community","verified_by":"moderator"}
+{"word":"bangbüxe","description":"Subst., f. — (norddt., ugs., scherzh.) ängstlicher Mensch, Angsthase","base":null,"source":"community","verified_by":"moderator"}
+{"word":"bangbüxen","description":"Pl. von Bangbüx","base":"bangbüx","source":"community","verified_by":"moderator"}
 {"word":"bange","description":"Adj. — ängstlich, besorgt; auch als Verb (jemandem bange machen)","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"bangem","description":"Deklinierte Form von bange (mask./neutr. Dat. Sg.)","base":"bange","corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"bangen","description":"Verb — mit Angst, Sorge erfüllt sein; sich fürchten","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -34358,17 +34368,18 @@
 {"word":"bändsel","description":"Subst. (Nautik) — kurzes Tau, dünne Leine","base":null,"corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"bändseln","description":"Verb — mit Bändseln versehen oder arbeiten","base":null,"corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"bäng","description":"Adj. (ugs.) — unheimlich, beängstigend","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"bänger","description":"Komparativ von bäng","base":"bäng","corpus_sources":["wiktionary","gutenberg","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"bängere","description":"Adj. — Komparativ von bäng, deklinierte Form","base":"bäng","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"bängerem","description":"Adj. — Dativ Singular Maskulinum/Neutrum Komparativ von bäng","base":"bäng","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"bängeren","description":"Adj. — Dativ Plural/Gentiv Maskulinum/Femininum/Neutrum Komparativ von bäng","base":"bäng","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"bängerer","description":"Adj. — Genitiv/Dativ Femininum/Nominativ Plural Komparativ von bäng","base":"bäng","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"bängeres","description":null,"base":"bang","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"bängste","description":null,"base":"bang","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"bängstem","description":null,"base":"bang","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"bängsten","description":"Superlativ von bäng, deklinierte Form (Dativ/Genitiv)","base":"bäng","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"bängster","description":"Superlativ von bäng, deklinierte Form (Genitiv)","base":"bäng","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"bängstes","description":"Superlativ von bäng, deklinierte Form","base":"bäng","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"bänger","description":"Komparativ von bang","base":"bang","corpus_sources":["wiktionary","gutenberg","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"bängere","description":"Dekl. Komp. von bang","base":"bang","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"bängerem","description":"Dekl. Komp. von bang","base":"bang","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"bängeren","description":"Dekl. Komp. von bang","base":"bang","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"bängerer","description":"Dekl. Komp. von bang","base":"bang","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"bängeres","description":"Dekl. Komp. von bang","base":"bang","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"bängst","description":"Abs. Superl. (Elativ) von bang","base":"bang","source":"community","verified_by":"moderator"}
+{"word":"bängste","description":"Dekl. Superl. von bang","base":"bang","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"bängstem","description":"Dekl. Superl. von bang","base":"bang","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"bängsten","description":"Dekl. Superl. von bang","base":"bang","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"bängster","description":"Dekl. Superl. von bang","base":"bang","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"bängstes","description":"Dekl. Superl. von bang","base":"bang","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"bänkchen","description":"Subst. (ugs.) — Diminutiv von Bank; kleines Sitzmöbel","base":"bank","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"bänkchens","description":"Genitiv Singular von Bänkchen","base":"bänkchen","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"bänke","description":"Plural von Bank","base":"bank","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -35022,7 +35033,7 @@
 {"word":"büßten","description":null,"base":"büssten","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"büßtest","description":null,"base":"büsstest","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"büßtet","description":null,"base":"büsstet","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"cab","description":"Subst. — Führerhaus eines Lastwagens; historisch: Droschke (Anglizismus)","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"curated","verified_by":"manual"}
+{"word":"cab","description":"Subst., n. — 1. einspännige Droschke 2. amerik. Bezeichnung für Taxi","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"curated","verified_by":"manual"}
 {"word":"cabal","description":"Subst. — (gehoben) geheime Verschwörung, Intrige","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"cabala","description":"Subst. (f.) — Kabbala, jüdische Mystik","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"cabaletta","description":"Subst. (Musik) — schneller, brillanter Schlusssatz einer Arie","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -35042,7 +35053,7 @@
 {"word":"cabrio","description":"Subst., kurz für Cabriolet — offenes Automobil","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"cabriolet","description":"Subst. — offenes, meist zweisitziges Automobil mit faltbarem Verdeck","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"cabrios","description":"Pl. von Cabrio","base":"cabrio","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"cabs","description":"Pl. von Cab","base":"cab","source":"community","verified_by":"moderator"}
+{"word":"cabs","description":"Gen. Sg. & Pl. von Cab","base":"cab","source":"community","verified_by":"moderator"}
 {"word":"cacatua","description":"Subst. — Kakadu (Papageienart)","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"cachalot","description":"Subst. (m.) — Pottwal","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"cache","description":"Subst. (EDV) — Zwischenspeicher für Daten","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -35436,6 +35447,7 @@
 {"word":"caserne","description":"Subst. (veraltet, schweiz.) — Kaserne, Unterkunft für Soldaten","base":null,"corpus_sources":["wiktionary","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"cash","description":"Subst. (ugs.) — Bargeld","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"cashe","description":"1. Pers. Sg. Präs. des trennbaren Verbbestandteils von abcashen","base":"abcashen","source":"community","verified_by":"moderator"}
+{"word":"cashen","description":"1. & 3. Pers. Pl. Präs. des trennbaren Verbbestandteils von abcashen","base":"abcashen","source":"community","verified_by":"moderator"}
 {"word":"cashest","description":"2. Pers. Sg. Konj. I des trennbaren Verbbestandteils von abcashen","base":"cashen","source":"community","verified_by":"moderator"}
 {"word":"cashet","description":"2. Pers. Pl. Konj. I des trennbaren Verbbestandteils von abcashen","base":"abcashen","source":"community","verified_by":"moderator"}
 {"word":"cashew","description":"Subst. — Cashewnuss, Frucht des Cashewbaums","base":null,"corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -36668,7 +36680,7 @@
 {"word":"coautorin","description":null,"base":"koautor","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"coautors","description":null,"base":"koautor","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"coaxial","description":"Adj. (Technik) — mit gemeinsamer Achse, koaxial","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"cob","description":"Subst., m. — kräftiges, stämmiges Pony; auch: männlicher Schwan","base":null,"source":"community","verified_by":"moderator"}
+{"word":"cob","description":"Subst., m. — kleines, kräftiges, stämmiges Gebrauchspferd","base":null,"source":"community","verified_by":"moderator"}
 {"word":"cobalamin","description":"Subst. — Vitamin B12, eine organische Cobaltverbindung","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"cobalt","description":"Subst. — chemisches Element (Co), Metall","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"cobalterz","description":"Subst. — Erz, aus dem Cobalt gewonnen wird","base":null,"corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -69849,6 +69861,12 @@
 {"word":"gemauster","description":"Deklinierte Form des Partizips II von mausen (Nominativ Singular Femininum)","base":"mausen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gemaustes","description":"Deklinierte Form des Partizips II von mausen (Nomin./Akk. Sg. Neut.)","base":"mausen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gemauzt","description":"Part. II von mauzen","base":"mauzen","source":"community","verified_by":"moderator"}
+{"word":"gemecht","description":"Part. II von mèchen","base":"mechen","source":"community","verified_by":"moderator"}
+{"word":"gemechte","description":"dekl. Part. II von mèchen","base":"mechen","source":"community","verified_by":"moderator"}
+{"word":"gemechtem","description":"dekl. Part. II von mèchen","base":"mechen","source":"community","verified_by":"moderator"}
+{"word":"gemechten","description":"dekl. Part. II von mèchen","base":"mechen","source":"community","verified_by":"moderator"}
+{"word":"gemechter","description":"dekl. Part. II von mechen","base":"mechen","source":"community","verified_by":"moderator"}
+{"word":"gemechtes","description":"dekl. Part. II von mèchen","base":"mechen","source":"community","verified_by":"moderator"}
 {"word":"gemecker","description":"Subst. (ugs.) — anhaltendes, nörgelndes Kritisieren","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gemeckere","description":"Subst. (ugs.) — anhaltendes, nörgelndes Kritisieren","base":"gemecker","corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gemeckers","description":"Genitiv Singular von Gemecker","base":"gemecker","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -69922,6 +69940,12 @@
 {"word":"gemerzten","description":"dekl. Part. II von merzen","base":"merzen","source":"community","verified_by":"moderator"}
 {"word":"gemerzter","description":"dekl. Part. II von merzen","base":"merzen","source":"community","verified_by":"moderator"}
 {"word":"gemerztes","description":"dekl. Part. II von merzen","base":"merzen","source":"community","verified_by":"moderator"}
+{"word":"gemescht","description":"Part. II von meschen","base":"meschen","source":"community","verified_by":"moderator"}
+{"word":"gemeschte","description":"dekl. Part. II von meschen","base":"meschen","source":"community","verified_by":"moderator"}
+{"word":"gemeschtem","description":"dekl. Part. II von meschen","base":"meschen","source":"community","verified_by":"moderator"}
+{"word":"gemeschten","description":"dekl. Part. II von meschen","base":"meschen","source":"community","verified_by":"moderator"}
+{"word":"gemeschter","description":"dekl. Part. II von meschen","base":"meschen","source":"community","verified_by":"moderator"}
+{"word":"gemeschtes","description":"dekl. Part. II von meschen","base":"meschen","source":"community","verified_by":"moderator"}
 {"word":"gemessen","description":"Partizip II von messen","base":"messen","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gemessene","description":"Deklinierte Form des Partizips II von messen","base":"messen","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gemessert","description":null,"base":"messer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -102483,8 +102507,8 @@
 {"word":"kuvert","description":"Subst. (österr., schweiz.) — Briefumschlag","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kuverts","description":"Pl. von Kuvert","base":"kuvert","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kuvertüre","description":"Subst. (veraltet/schweiz.) — Kuvertüre, Überzugschokolade","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"kux","description":"Subst. (veraltet) — Bergwerksanteil, Aktie","base":null,"corpus_sources":["hunspell","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"kuxe","description":"Pl. von Kux","base":"kux","corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"kux","description":"Subst., m. — Wertpapier über den Anteil an einem Bergwerk","base":null,"corpus_sources":["hunspell","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"kuxe","description":"Subst., f. — Anteil an einem Bergwerk; auch Pl. von Kux (Wertpapier über den Anteil an einem Bergwerk)","base":null,"corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kuxen","description":"Dativ Pl. von Kux","base":"kux","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kuxes","description":"Genitiv Sg. von Kux","base":"kux","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kuxschein","description":"Subst. (hist.) — Urkunde über einen Kux","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -112296,7 +112320,7 @@
 {"word":"masculin","description":"Adj. (veraltet/fachspr.) — männlich, maskulin","base":null,"corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"masel","description":"Subst., m. (österr.) — unverdientes oder unerwartetes Glück, günstiger Zufall","base":"masseln","source":"community","verified_by":"moderator"}
 {"word":"masels","description":"Gen. Sg. von Masel","base":"masel","source":"community","verified_by":"moderator"}
-{"word":"masen","description":"Subs. - Massel/ unerwartetes Glück","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"masen","description":"Subs., f. — unerwartetes Glück; Massel","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"maser","description":"Subst. — 1. Gerät zur Erzeugung kohärenter Mikrowellenstrahlung; 2. (veraltet) Narben nach Pockenerkrankung","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"maserholz","description":"Subst. — Holz mit Maserung, gemasertes Holz","base":null,"corpus_sources":["hunspell","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"maserig","description":"Adj. — mit Maserung versehen, gemasert","base":null,"corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -112899,7 +112923,25 @@
 {"word":"mcguffin","description":"Subst. (Film) — Handlungselement, das die Handlung antreibt, ohne selbst wichtig zu sein","base":null,"corpus_sources":["wikipedia","kaikki_forms"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mebibyte","description":"Subst. (EDV) — Maßeinheit für Datenmenge (2^20 Byte)","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mebibytes","description":"Pl. von Mebibyte","base":"mebibyte","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"mech","description":"1. Pers. Sg. Präs. mit e-Tilgung & Imper. Sg. von mèchen","base":"mechen","source":"community","verified_by":"moderator"}
 {"word":"mechanik","description":"Subst., f. — Lehre von den Bewegungen und Kräften; Technik, Funktionsweise","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"meche","description":"1. Pers. Sg. Präs. von mèchen","base":"mechen","source":"community","verified_by":"moderator"}
+{"word":"mechen","description":"Verb — einzelne Haarsträhnen färben","base":null,"source":"community","verified_by":"moderator"}
+{"word":"mechend","description":"Part. I von mèchen","base":"mechen","source":"community","verified_by":"moderator"}
+{"word":"mechende","description":"dekl. Part. I von mèchen","base":"mechen","source":"community","verified_by":"moderator"}
+{"word":"mechendem","description":"dekl. Part. I von mèchen","base":"mechen","source":"community","verified_by":"moderator"}
+{"word":"mechenden","description":"dekl. Part. I von mèchen","base":"mechen","source":"community","verified_by":"moderator"}
+{"word":"mechender","description":"dekl. Part. I von mèchen","base":"mechen","source":"community","verified_by":"moderator"}
+{"word":"mechendes","description":"dekl. Part. I von mèchen","base":"mechen","source":"community","verified_by":"moderator"}
+{"word":"mechens","description":"Gen. Sg. des subst. Infinitivs von mèchen","base":"mechen","source":"community","verified_by":"moderator"}
+{"word":"mechest","description":"2. Pers. Sg. Konj. I von mèchen","base":"mechen","source":"community","verified_by":"moderator"}
+{"word":"mechet","description":"2. Pers. Pl. Präs. Konj. I von mèchen","base":"mechen","source":"community","verified_by":"moderator"}
+{"word":"mechst","description":"2. Pers. Sg. Präs. von mèchen","base":"mechen","source":"community","verified_by":"moderator"}
+{"word":"mecht","description":"3. Pers. Sg. / 2. Pers. Pl. Präs. von mèchen","base":"mechen","source":"community","verified_by":"moderator"}
+{"word":"mechte","description":"1. & 3. Pers. Sg. Prät. von mèchen","base":"mechen","source":"community","verified_by":"moderator"}
+{"word":"mechten","description":"1. & 3. Pers. Pl. Prät. von mèchen","base":"mechen","source":"community","verified_by":"moderator"}
+{"word":"mechtest","description":"2. Pers. Sg. Prät. von mèchen","base":"mechen","source":"community","verified_by":"moderator"}
+{"word":"mechtet","description":"2. Pers. Pl. Prät. von mèchen","base":"mechen","source":"community","verified_by":"moderator"}
 {"word":"meck","description":"Lautmalend das Meckern einer Ziege","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"mecker","description":"Subst. (ugs.) — Nörgler; oder Imperativ von meckern","base":"meckern","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"meckere","description":"1./3. Person Sg. Konj. I oder Imperativ Sg. von meckern","base":"meckern","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -113848,13 +113890,31 @@
 {"word":"mescal","description":"Subst. — mexikanischer Agavenschnaps","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mescalin","description":"Subst. (n.) — halluzinogener Wirkstoff aus Peyote-Kakteen","base":null,"corpus_sources":["hunspell","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mescalins","description":"Genitiv Singular von Mescalin","base":"mescalin","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"mesch","description":"1. Pers. Sg. Präs. mit e-Tilgung & Imperativ Sg. von meschen","base":"meschen","source":"community","verified_by":"moderator"}
+{"word":"mesche","description":"1. Pers. Sg. Präs. von meschen","base":"meschen","source":"community","verified_by":"moderator"}
+{"word":"meschen","description":"Verb — (österr.) einzelne Haarsträhnen färben","base":null,"source":"community","verified_by":"moderator"}
+{"word":"meschend","description":"Part. I von meschen","base":"meschen","source":"community","verified_by":"moderator"}
+{"word":"meschende","description":"dekl. Part. I von meschen","base":"meschen","source":"community","verified_by":"moderator"}
+{"word":"meschendem","description":"dekl. Part. I von meschen","base":"meschen","source":"community","verified_by":"moderator"}
+{"word":"meschenden","description":"dekl. Part. I von meschen","base":"meschen","source":"community","verified_by":"moderator"}
+{"word":"meschender","description":"dekl. Part. I von meschen","base":"meschen","source":"community","verified_by":"moderator"}
+{"word":"meschendes","description":"dekl. Part. I von meschen","base":"meschen","source":"community","verified_by":"moderator"}
+{"word":"meschens","description":"Genitiv des substantivierten Infinitivs von meschen","base":"meschen","source":"community","verified_by":"moderator"}
+{"word":"meschest","description":"2. Pers. Sg. Präs. Konj. I von meschen","base":"meschen","source":"community","verified_by":"moderator"}
+{"word":"meschet","description":"2. Pers. Pl. Präs. Konj. I von meschen","base":"meschen","source":"community","verified_by":"moderator"}
+{"word":"meschst","description":"2. Pers. Sg. Präs. von meschen","base":"meschen","source":"community","verified_by":"moderator"}
+{"word":"mescht","description":"3. Pers. Sg. / 2. Pers. Pl. Präs. von meschen","base":"meschen","source":"community","verified_by":"moderator"}
+{"word":"meschte","description":"1. & 3. Pers. Sg. Prät. von meschen","base":"meschen","source":"community","verified_by":"moderator"}
+{"word":"meschten","description":"1. & 3. Pers. Pl. Prät. von meschen","base":"meschen","source":"community","verified_by":"moderator"}
+{"word":"meschtest","description":"2. Pers. Sg. Prät. von meschen","base":"meschen","source":"community","verified_by":"moderator"}
+{"word":"meschtet","description":"2. Pers. Pl. Prät. von meschen","base":"meschen","source":"community","verified_by":"moderator"}
 {"word":"meschugge","description":"Adj. (ugs., aus dem Jidd.) — verrückt, übergeschnappt","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mesclun","description":"Subst. (kulin.) — französische Salatmischung aus verschiedenen Blattsalaten","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mesdames","description":"Pl. von Madame — Anrede für mehrere Damen","base":"madame","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mesenchym","description":"Subst. (Med., Biol.) — embryonales Bindegewebe","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"meseta","description":"Subst., f. — Hochebene, insbesondere in Spanien","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"meseten","description":"Pl. von Meseta (Hochebene)","base":"meseta","source":"community","verified_by":"moderator"}
-{"word":"mesh","description":"Subst., n. — Netz, Maschenwerk (aus dem Englischen übernommen)","base":null,"source":"community","verified_by":"moderator"}
+{"word":"mesh","description":"Subst., n. — netzförmiges Material, besonders für Textilien","base":null,"source":"community","verified_by":"moderator"}
 {"word":"meshs","description":"Gen. Sg. von Mesh","base":"mesh","source":"community","verified_by":"moderator"}
 {"word":"meskalin","description":"Subst. — halluzinogenes Alkaloid aus bestimmten Kakteen","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"meskalins","description":null,"base":"mescalin","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -122662,7 +122722,7 @@
 {"word":"novolak","description":"Subst. (Chem.) — Kunstharz auf Phenol-Formaldehyd-Basis","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"novum","description":"Subst. (Neut.) — Neuheit, neue Erscheinung","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"novums","description":"Pl. von Novum","base":"novum","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"noxe","description":"Subst. (fachspr., veraltet) — schädlicher Einfluss, Schadstoff","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"noxe","description":"Subst., f. — für einen Organismus schädlicher Stoff oder Umstand","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"noxen","description":"Pl. von Noxe","base":"noxe","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nu","description":"Subst., m. od. n. — Augenblick, Moment","base":null,"source":"community","verified_by":"moderator"}
 {"word":"nuance","description":"Subst. (f.) — feiner Unterschied, Abstufung","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -193544,13 +193604,14 @@
 {"word":"zwitters","description":"Genitiv Singular von Zwitter","base":"zwitter","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"zwittrig","description":"Adj. — zwitterhaft, zwittrig (seltener als 'zwitterig')","base":null,"corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"zwittrige","description":"Deklinierte Form von zwittrig (z.B. nominativ/akkusativ feminin singular)","base":"zwittrig","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"zwo","description":"Zahlwort (veraltet, regional) — zwei","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"zwote","description":null,"base":"zwotens","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"zwotem","description":null,"base":"zwotens","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"zwoten","description":null,"base":"zwotens","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"zwo","description":"Zahlwort, Kardinalzahl — (ugs.) zwei","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"zwot","description":"Zahlwort — zweit, zu zweit","base":"zwote","source":"community","verified_by":"moderator"}
+{"word":"zwote","description":"Zahlwort — zweite","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"zwotem","description":"Dekl. von zwote (Zahlwort)","base":"zwote","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"zwoten","description":"Dekl. von zwote (Zahlwort)","base":"zwote","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"zwotens","description":"Adverb — zweitens, an zweiter Stelle","base":"zwote","corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"zwoter","description":"Deklinierte Form von zwote (zweiter)","base":"zwote","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"zwotes","description":"Deklinierte Form von zwote (zweiter)","base":"zwote","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"zwoter","description":"Dekl. von zwote (Zahlwort)","base":"zwote","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"zwotes","description":"Dekl. von zwote (zweite)","base":"zwote","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"zwyrner","description":null,"base":"zwirn","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"zwäng","description":null,"base":"gezwängt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"zwänge","description":"Verb — 1./3. Person Sg. Konj. II von zwingen; auch Pl. von Zwang","base":"zwingen","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
