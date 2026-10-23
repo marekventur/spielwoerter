@@ -36,7 +36,8 @@ import tqdm
 
 KAIKKI_DEFAULT = Path("scripts/sourcing/raw/wiktionary/raw-wiktextract-data.jsonl.gz")
 VALID_RE = re.compile(r"^[a-zäöüß]+$")
-MIN_LEN, MAX_LEN = 2, 9
+# No upper limit since 2026-10 (was 9, the Scrabble limit); see scripts/expand_long_forms.py.
+MIN_LEN = 2
 
 # Tags that indicate the form entry is metadata, not an actual word form
 SKIP_TAGS = {"auxiliary", "romanization", "obsolete"}
@@ -46,7 +47,7 @@ AUXILIARY_WORDS = {"haben", "sein", "werden"}
 
 
 def is_valid_form(s: str) -> bool:
-    return MIN_LEN <= len(s) <= MAX_LEN and bool(VALID_RE.match(s))
+    return MIN_LEN <= len(s) and bool(VALID_RE.match(s))
 
 
 def clean_form(s: str) -> str:
