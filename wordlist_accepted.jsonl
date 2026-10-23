@@ -53263,8 +53263,13 @@
 {"word":"ersehnem","description":"Partizip II, dekliniert (mit e-Tilgung) von ersehen","base":"ersehen","corpus_sources":["ne_contracted"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ersehnen","description":"Verb — sich nach etwas sehnen, herbeiwünschen","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz","ne_contracted"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ersehnend","description":"Partizip I von ersehnen","base":"ersehnen","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"ersehnende","description":"dekl. Part. I von ersehnen","base":"ersehnen","source":"community","verified_by":"moderator"}
+{"word":"ersehnendem","description":"dekl. Part. I von ersehnen","base":"ersehnen","source":"community","verified_by":"moderator"}
+{"word":"ersehnenden","description":"dekl. Part. I von ersehnen","base":"ersehnen","source":"community","verified_by":"moderator"}
+{"word":"ersehnender","description":"dekl. Part. I von ersehnen","base":"ersehnen","source":"community","verified_by":"moderator"}
+{"word":"ersehnendes","description":"dekl. Part. I von ersehnen","base":"ersehnen","source":"community","verified_by":"moderator"}
 {"word":"ersehnens","description":"Genitiv Sg. des substantivierten Infinitivs von ersehnen","base":"ersehnen","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"ersehner","description":"Subst. — jemand, der etwas ersehnt","base":null,"corpus_sources":["ne_contracted"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"ersehner","description":"Dekl. Part. II mit e-Tilgung von ersehen","base":"ersehen","corpus_sources":["ne_contracted"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ersehnes","description":"Partizip II, dekliniert (mit e-Tilgung) von ersehen","base":"ersehen","source":"morphology","verified_by":"rule:sehen-saeen"}
 {"word":"ersehnest","description":"2. Person Sg. Konjunktiv I Präsens von ersehnen","base":"ersehnen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ersehnet","description":"Verb — 2. Person Plural Konjunktiv I von ersehnen","base":"ersehnen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -53275,6 +53280,8 @@
 {"word":"ersehnten","description":"Verb — Partizip II, dekliniert (Gen./Dat./Akk. Singular oder Plural)","base":"ersehnen","corpus_sources":["wiktionary","hunspell","gutenberg","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ersehnter","description":"Verb — Partizip II, dekliniert (Genitiv/Dativ Fem. oder Genitiv Plural)","base":"ersehnen","corpus_sources":["wiktionary","hunspell","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ersehntes","description":"Verb — Partizip II, dekliniert (Nominativ/Akkusativ Singular Neut.)","base":"ersehnen","corpus_sources":["wiktionary","hunspell","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"ersehntest","description":"2. Pers. Sg. Prät. von ersehnen","base":"ersehnen","source":"community","verified_by":"moderator"}
+{"word":"ersehntet","description":"2. Pers. Pl. Prät. von ersehnen","base":"ersehnen","source":"community","verified_by":"moderator"}
 {"word":"erseht","description":"Verb — 2. Person Plural Präsens von ersehen","base":"ersehen","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ersessen","description":null,"base":"ersitz","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"ersetz","description":"Verb — 2. Person Singular Imperativ von ersetzen","base":"ersetzen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -72949,6 +72956,11 @@
 {"word":"gesudels","description":"Genitiv Singular von Gesudel","base":"gesudel","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gesudelt","description":"Partizip Perfekt von sudeln (schmieren, klecksen; ugs. auch: schwatzen)","base":"sudeln","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gesudelte","description":"Deklinierte Form des Partizips Perfekt von sudeln (z.B. 'die gesudelte Schrift')","base":"sudeln","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gesuderte","description":"dekl. Part. II von sudern","base":"sudern","source":"community","verified_by":"moderator"}
+{"word":"gesudertem","description":"dekl. Part. II von sudern","base":"sudern","source":"community","verified_by":"moderator"}
+{"word":"gesuderten","description":"dekl. Part. II von sudern","base":"sudern","source":"community","verified_by":"moderator"}
+{"word":"gesuderter","description":"dekl. Part. II von sudern","base":"sudern","source":"community","verified_by":"moderator"}
+{"word":"gesudertes","description":"dekl. Part. II von sudern","base":"sudern","source":"community","verified_by":"moderator"}
 {"word":"gesuhlt","description":"Partizip II von suhlen — sich wälzen, im Schmutz spielen","base":"suhlen","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gesuhlte","description":"Deklinierte Form des Partizips II von suhlen","base":"suhlen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gesuhltem","description":"Deklinierte Form des Partizips II von suhlen (Dativ Mask./Neut. Sg.)","base":"suhlen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -73060,6 +73072,12 @@
 {"word":"gesöffen","description":"Pl. von Gesöff","base":"gesöff","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gesöffes","description":"Genitiv Singular von Gesöff","base":"gesöff","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gesöffs","description":"Genitiv Singular von Gesöff (alternative Form zu Gesöffes)","base":"gesöff","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gesöhrt","description":"Part. II von söhren","base":"söhren","source":"community","verified_by":"moderator"}
+{"word":"gesöhrte","description":"dekl. Part. II von söhren","base":"söhren","source":"community","verified_by":"moderator"}
+{"word":"gesöhrtem","description":"dekl. Part. II von söhren","base":"söhren","source":"community","verified_by":"moderator"}
+{"word":"gesöhrten","description":"dekl. Part. II von söhren","base":"söhren","source":"community","verified_by":"moderator"}
+{"word":"gesöhrter","description":"dekl. Part. II von söhren","base":"söhren","source":"community","verified_by":"moderator"}
+{"word":"gesöhrtes","description":"dekl. Part. II von söhren","base":"söhren","source":"community","verified_by":"moderator"}
 {"word":"gesömmert","description":"Partizip II von sömmern — im Sommer weiden lassen","base":"sömmern","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gesüffelt","description":"Partizip II von süffeln — in kleinen Schlucken trinken, oft alkoholische Getränke","base":"süffeln","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gesühnt","description":"Partizip II von sühnen — eine Schuld büßen, wiedergutmachen","base":"sühnen","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -111488,8 +111506,6 @@
 {"word":"malierinnen","description":"Pl. von Malierin (Einwohnerin von Mali)","base":"malierin","source":"community","verified_by":"moderator"}
 {"word":"maliern","description":"Dativ Plural von Malier (Einwohner von Mali)","base":"malier","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"maliers","description":"Genitiv Singular von Malier (Einwohner Malis)","base":"malier","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"malige","description":"Adj. — ehemalig, früher","base":"malig","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"maliger","description":"Adj. — ehemalig, früher; deklinierte Form von malig","base":"malig","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"maligne","description":"Adj. (Med.) — bösartig, übelartig; indeklinabel","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"malignem","description":"Adj. — deklinierte Form von malign (bösartig)","base":"malign","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"malignen","description":"Adj. — deklinierte Form von malign (bösartig)","base":"malign","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -158933,6 +158949,7 @@
 {"word":"sudernden","description":"Partizip I (dekliniert) von sudern — sich beklagen, nörgeln","base":"sudern","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sudernder","description":"Partizip I (dekliniert) von sudern — sich beklagen, nörgeln","base":"sudern","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"suderndes","description":"Partizip I (dekliniert) von sudern — sich beklagen, nörgeln","base":"sudern","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"suderns","description":"Genitiv des substantivierten Infinitivs von sudern","base":"sudern","source":"community","verified_by":"moderator"}
 {"word":"suderst","description":"2. Person Singular Indikativ Präsens von sudern — du beklagst dich, nörgelst","base":"sudern","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sudert","description":"3. Person Singular Indikativ Präsens von sudern — er/sie/es beklagt sich, nörgelt","base":"sudern","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"suderte","description":"Präteritum (1./3. Person Singular) von sudern — beklagte sich, nörgelte","base":"sudern","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -158954,6 +158971,7 @@
 {"word":"sudoku","description":"Subst. (n.) — Zahlenrätsel japanischen Ursprungs","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sudokus","description":"Pl. von Sudoku","base":"sudoku","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sudpfanne","description":"Subst. (fachspr., veraltet) — Pfanne zum Ablassen von Sud in der Brauerei oder Brennerei","base":null,"corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"sudre","description":"1. Pers. Sg. Präs. bzw. Imp. Sg. von sudern","base":"sudern","source":"community","verified_by":"moderator"}
 {"word":"suds","description":"Subst. (ugs.) — Schaum, Seifenschaum","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sudwesten","description":"Subst. — veraltete/landschaftliche Schreibweise von Südwesten; Himmelsrichtung","base":null,"corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"suebe","description":"Subst., m. — Angehöriger einer Gruppe germanischer Stämme","base":null,"source":"community","verified_by":"moderator"}
@@ -160098,6 +160116,24 @@
 {"word":"söhne","description":"Pl. von Sohn","base":"sohn","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"söhnen","description":"Dativ Pl. von Sohn","base":"sohn","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"söhnlein","description":null,"base":"sohn","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"söhr","description":"Imperativ Sg. von söhren","base":"söhren","source":"community","verified_by":"moderator"}
+{"word":"söhre","description":"1. Pers. Sg. Präs. von söhren","base":"söhren","source":"community","verified_by":"moderator"}
+{"word":"söhren","description":"Verb — (nordd.) austrocknen, welken","base":"sohr","source":"community","verified_by":"moderator"}
+{"word":"söhrend","description":"Part. I von söhren","base":"söhren","source":"community","verified_by":"moderator"}
+{"word":"söhrende","description":"dekl. Part. I von söhren","base":"söhren","source":"community","verified_by":"moderator"}
+{"word":"söhrendem","description":"dekl. Part. I von söhren","base":"söhren","source":"community","verified_by":"moderator"}
+{"word":"söhrenden","description":"dekl. Part. I von söhren","base":"söhren","source":"community","verified_by":"moderator"}
+{"word":"söhrender","description":"dekl. Part. I von söhren","base":"söhren","source":"community","verified_by":"moderator"}
+{"word":"söhrendes","description":"dekl. Part. I von söhren","base":"söhren","source":"community","verified_by":"moderator"}
+{"word":"söhrens","description":"Genitiv des substantivierten Infinitivs von söhren","base":"söhren","source":"community","verified_by":"moderator"}
+{"word":"söhrest","description":"Konj. I, 2. Pers. Sg. von söhren","base":"söhren","source":"community","verified_by":"moderator"}
+{"word":"söhret","description":"Konj. I, 2. Pers. Pl. von söhren","base":"söhren","source":"community","verified_by":"moderator"}
+{"word":"söhrst","description":"2. Pers. Sg. Präs. von söhren","base":"söhren","source":"community","verified_by":"moderator"}
+{"word":"söhrt","description":"3. Pers. Sg. / 2. Pers. Pl. Präs. von söhren","base":"söhren","source":"community","verified_by":"moderator"}
+{"word":"söhrte","description":"1. & 3. Pers. Sg. Prät. von söhren","base":"söhren","source":"community","verified_by":"moderator"}
+{"word":"söhrten","description":"1. & 3. Pers. Pl. Prät. von söhren","base":"söhren","source":"community","verified_by":"moderator"}
+{"word":"söhrtest","description":"2. Pers. Sg. Prät. von söhren","base":"söhren","source":"community","verified_by":"moderator"}
+{"word":"söhrtet","description":"2. Pers. Pl. Prät. von söhren","base":"söhren","source":"community","verified_by":"moderator"}
 {"word":"söldner","description":"Subst. (veraltet) — Söldner, bezahlter Krieger","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz","ne_contracted"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"söldnerin","description":"Subst. — weibliche Form von Söldner; käufliche Soldatin","base":"söldner","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"söldnern","description":"Verb — als Söldner dienen; umgangssprachlich für gelegentliche Arbeit","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
