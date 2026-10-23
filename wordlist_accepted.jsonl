@@ -84954,6 +84954,11 @@
 {"word":"gemeckere","description":"Subst. (ugs.) — anhaltendes, nörgelndes Kritisieren","base":"gemecker","corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gemeckers","description":"Genitiv Singular von Gemecker","base":"gemecker","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gemeckert","description":"Partizip II von meckern","base":"meckern","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gemeckerte","description":"dekl. Part. II von meckern","base":"meckern","source":"community","verified_by":"moderator"}
+{"word":"gemeckertem","description":"dekl. Part. II von meckern","base":"meckern","source":"community","verified_by":"moderator"}
+{"word":"gemeckerten","description":"dekl. Part. II von meckern","base":"meckern","source":"community","verified_by":"moderator"}
+{"word":"gemeckerter","description":"dekl. Part. II von meckern","base":"meckern","source":"community","verified_by":"moderator"}
+{"word":"gemeckertes","description":"dekl. Part. II von meckern","base":"meckern","source":"community","verified_by":"moderator"}
 {"word":"gemeckre","description":null,"base":"gemecker","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gemehlt","description":null,"base":"mehl","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gemehrt","description":"Partizip II von mehren — vermehrt, vergrößert","base":"mehren","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -85370,7 +85375,16 @@
 {"word":"genanten","description":"Dekl. von genant (unangenehm)","base":"genant","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"genanter","description":"Dekl. von genant (unangenehm)","base":"genant","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"genantere","description":"Dekl. Komparativ von genant (unangenehm)","base":"genant","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"genanterem","description":"Dekl. Komparativ von genant (unangenehm)","base":"genant","source":"community","verified_by":"moderator"}
+{"word":"genanteren","description":"Dekl. Komparativ von genant (unangenehm)","base":"genant","source":"community","verified_by":"moderator"}
+{"word":"genanterer","description":"Dekl. Komp. von genant (unangenehm)","base":"genant","source":"community","verified_by":"moderator"}
 {"word":"genantes","description":"Dekl. von genant (unangenehm)","base":"genant","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"genantest","description":"Abs. Superl. (Elativ) von genant (unangenehm)","base":"genant","source":"community","verified_by":"moderator"}
+{"word":"genanteste","description":"Dekl. Superl. von genant (unangenehm)","base":"genant","source":"community","verified_by":"moderator"}
+{"word":"genantestem","description":"Dekl. Superl. von genant (unangenehm)","base":"genant","source":"community","verified_by":"moderator"}
+{"word":"genantesten","description":"Dekl. Superl. von genant (unangenehm)","base":"genant","source":"community","verified_by":"moderator"}
+{"word":"genantester","description":"Dekl. Superl. von genant (unangenehm)","base":"genant","source":"community","verified_by":"moderator"}
+{"word":"genantestes","description":"Dekl. Superl. von genant (unangenehm)","base":"genant","source":"community","verified_by":"moderator"}
 {"word":"genarbt","description":"Partizip II von narren (veraltet für genarrt) oder Adjektiv — mit Narben versehen","base":"narren","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"genarbte","description":"Deklinierte Form von genarbt","base":"narren","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"genarbtem","description":"Deklinierte Form von genarbt (Dativ Mask./Neutr. Sg.)","base":"narren","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -97603,14 +97617,35 @@
 {"word":"hanseat","description":"Subst. — Angehöriger der Hanse","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hanseaten","description":"Pl. von Hanseat","base":"hanseat","corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hanseatin","description":null,"base":"hanseat","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"hanseatisch","description":"Adj. — 1. die Hanse betreffend 2. die Hansestädte betreffend 3. für Hanseaten typisch","base":null,"source":"community","verified_by":"moderator"}
+{"word":"hanseatische","description":"Dekl. von hanseatisch","base":"hanseatisch","source":"community","verified_by":"moderator"}
+{"word":"hanseatischem","description":"Dekl. von hanseatisch","base":"hanseatisch","source":"community","verified_by":"moderator"}
+{"word":"hanseatischen","description":"Dekl. von hanseatisch","base":"hanseatisch","source":"community","verified_by":"moderator"}
+{"word":"hanseatischer","description":"Dekl. von hanseatisch","base":"hanseatisch","source":"community","verified_by":"moderator"}
+{"word":"hanseatischere","description":"Dekl. Komp. von hanseatisch","base":"hanseatisch","source":"community","verified_by":"moderator"}
+{"word":"hanseatischerem","description":"Dekl. Komp. von hanseatisch","base":"hanseatisch","source":"community","verified_by":"moderator"}
+{"word":"hanseatischeren","description":"Dekl. Komp. von hanseatisch","base":"hanseatisch","source":"community","verified_by":"moderator"}
+{"word":"hanseatischerer","description":"Dekl. Komp. von hanseatisch","base":"hanseatisch","source":"community","verified_by":"moderator"}
+{"word":"hanseatischeres","description":"Dekl. Komp. von hanseatisch","base":"hanseatisch","source":"community","verified_by":"moderator"}
+{"word":"hanseatisches","description":"Dekl. von hanseatisch","base":"hanseatisch","source":"community","verified_by":"moderator"}
+{"word":"hanseatischst","description":"Abs. Superl. (Elativ) von hanseatisch","base":"hanseatisch","source":"community","verified_by":"moderator"}
+{"word":"hanseatischste","description":"Dekl. Superl. von hanseatisch","base":"hanseatisch","source":"community","verified_by":"moderator"}
+{"word":"hanseatischstem","description":"Dekl. Superl. von hanseatisch","base":"hanseatisch","source":"community","verified_by":"moderator"}
+{"word":"hanseatischsten","description":"Dekl. Superl. von hanseatisch","base":"hanseatisch","source":"community","verified_by":"moderator"}
+{"word":"hanseatischster","description":"Dekl. Superl. von hanseatisch","base":"hanseatisch","source":"community","verified_by":"moderator"}
+{"word":"hanseatischstes","description":"Dekl. Superl. von hanseatisch","base":"hanseatisch","source":"community","verified_by":"moderator"}
 {"word":"hansebund","description":"Subst. — historischer Städtebund (die Hanse)","base":null,"corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hansel","description":null,"base":"hänsel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hanseln","description":"Pl. von Hansel","base":"hansel","source":"community","verified_by":"moderator"}
 {"word":"hansels","description":"Gen. Sg. von Hansel","base":"hansel","source":"community","verified_by":"moderator"}
 {"word":"hansens","description":null,"base":"hanse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hansezeit","description":"Subst. — historische Epoche der Hanse","base":null,"corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"hansisch","description":"Adj. — die Hanse betreffend, zur Hanse gehörend","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"hansische","description":"Deklinierte Form von hansisch","base":"hansisch","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"hansisch","description":"Adj. — zur Hanse oder Hansestadt gehörend","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"hansische","description":"Dekl. von hansisch (zur Hanse oder Hansestadt gehörend)","base":"hansisch","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"hansischem","description":"Dekl. von hansisch (zur Hanse oder Hansestadt gehörend)","base":"hansisch","source":"community","verified_by":"moderator"}
+{"word":"hansischen","description":"Dekl. von hansisch (zur Hanse oder Hansestadt gehörend)","base":"hansisch","source":"community","verified_by":"moderator"}
+{"word":"hansischer","description":"Dekl. von hansisch (zur Hanse oder Hansestadt gehörend)","base":"hansisch","source":"community","verified_by":"moderator"}
+{"word":"hansisches","description":"Dekl. von hansisch (zur Hanse oder Hansestadt gehörend)","base":"hansisch","source":"community","verified_by":"moderator"}
 {"word":"hansom","description":"Subst. — leichter, zweirädriger Einspänner (historische Fahrzeugart)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hanswurst","description":"Subst. — Possenreißer, komische Figur im alten Theater","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hanswurste","description":"Nominativ/Genitiv/Akkusativ Plural von Hanswurst","base":"hanswurst","source":"morphology","verified_by":"wiktionary-de"}
@@ -118255,6 +118290,10 @@
 {"word":"klugheiten","description":"Plural von Klugheit","base":"klugheit","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"klugreden","description":"Verb — sich klug oder besserwisserisch äußern","base":null,"corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"klump","description":null,"base":"geklumpt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"klumpatsch","description":"Subst., m. — wertloses Zeug, Kram, Plunder","base":null,"source":"community","verified_by":"moderator"}
+{"word":"klumpatsche","description":"Dat. Sg. von Klumpatsch","base":"klumpatsch","source":"community","verified_by":"moderator"}
+{"word":"klumpatsches","description":"Gen. Sg. von Klumpatsch","base":"klumpatsch","source":"community","verified_by":"moderator"}
+{"word":"klumpatschs","description":"Gen. Sg. von Klumpatsch","base":"klumpatsch","source":"community","verified_by":"moderator"}
 {"word":"klumpe","description":"Verb — 1. Person Sg. Konj. I von klumpen; Imperativ Sg. von klumpen","base":"klumpen","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"klumpen","description":"Verb — sich zu einem Klumpen zusammenballen; Subst. — kompakte Masse","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"klumpend","description":"Partizip I von klumpen","base":"klumpen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -137234,19 +137273,24 @@
 {"word":"mechten","description":"1. & 3. Pers. Pl. Prät. von mèchen","base":"mechen","source":"community","verified_by":"moderator"}
 {"word":"mechtest","description":"2. Pers. Sg. Prät. von mèchen","base":"mechen","source":"community","verified_by":"moderator"}
 {"word":"mechtet","description":"2. Pers. Pl. Prät. von mèchen","base":"mechen","source":"community","verified_by":"moderator"}
-{"word":"meck","description":"Lautmalend das Meckern einer Ziege","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"mecker","description":"Subst. (ugs.) — Nörgler; oder Imperativ von meckern","base":"meckern","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"meck","description":"Interj. — Lautmalerisch für das Meckern einer Ziege","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"mecker","description":"1. Pers. Sg. Präs. mit e-Tilgung & Imper. Sg. von meckern","base":"meckern","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"meckere","description":"1./3. Person Sg. Konj. I oder Imperativ Sg. von meckern","base":"meckern","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"meckerei","description":"Subst. (ugs.) — ständiges Nörgeln, Gezänk","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"meckerer","description":"Subst. — jemand, der meckert, Nörgler","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"meckern","description":"Verb — nörgeln, sich beschweren","base":null,"corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"meckern","description":"Verb — 1. Lautäußerung von Ziegen 2. hell, kurz und abgehackt lachen 3. nörgeln","base":null,"corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"meckernd","description":"Partizip I von meckern, adjektivisch verwendbar","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"meckernde","description":"Deklinierte Form des Partizips I (meckern)","base":"meckern","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"meckerns","description":"Substantivierter Infinitiv von meckern mit Genitiv-s","base":"meckern","corpus_sources":["hunspell","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"meckerndem","description":"dekl. Part. I von meckern","base":"meckern","source":"community","verified_by":"moderator"}
+{"word":"meckernden","description":"dekl. Part. I von meckern","base":"meckern","source":"community","verified_by":"moderator"}
+{"word":"meckernder","description":"dekl. Part. I von meckern","base":"meckern","source":"community","verified_by":"moderator"}
+{"word":"meckerndes","description":"dekl. Part. I von meckern","base":"meckern","source":"community","verified_by":"moderator"}
+{"word":"meckerns","description":"Gen. Sg. des subst. Infinitivs von meckern","base":"meckern","corpus_sources":["hunspell","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"meckerst","description":"Verb — 2. Person Sg. Indikativ Präsens von meckern","base":"meckern","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"meckert","description":"Verb — 3. Person Sg. Indikativ Präsens von meckern","base":"meckern","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"meckerte","description":"Verb — 1./3. Person Sg. Präteritum von meckern","base":"meckern","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"meckerten","description":"Präteritum 1./3. Person Plural von meckern","base":"meckern","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"meckertest","description":"2. Pers. Sg. Prät. von meckern","base":"meckern","source":"community","verified_by":"moderator"}
 {"word":"meckertet","description":"Präteritum 2. Person Plural von meckern","base":"meckern","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mecking","description":"Partizip I von mecken — nörgelnd","base":"mecken","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"meckre","description":null,"base":"gemeckert","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -156310,7 +156354,7 @@
 {"word":"pfiffigsten","description":"Superlativ, dekliniert von pfiffig","base":"pfiffig","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"pfiffigster","description":"Superlativ, dekliniert von pfiffig","base":"pfiffig","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"pfiffigstes","description":"Superlativ, dekliniert von pfiffig","base":"pfiffig","source":"morphology","verified_by":"wiktionary-de"}
-{"word":"pfiffikus","description":"Subst. (ugs.) — schlauer, pfiffiger Mensch","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"pfiffikus","description":"Subst., m. — schlauer, pfiffiger Mensch","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"pfiffikusse","description":"Nominativ/Genitiv/Akkusativ Plural von Pfiffikus","base":"pfiffikus","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"pfiffikussen","description":"Dativ Plural von Pfiffikus","base":"pfiffikus","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"pfiffikusses","description":"Genitiv Singular von Pfiffikus","base":"pfiffikus","source":"morphology","verified_by":"wiktionary-de"}
