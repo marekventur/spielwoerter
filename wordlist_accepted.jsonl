@@ -108220,6 +108220,7 @@
 {"word":"ihriger","description":"Deklinierte Form von 'ihrig' (Genitiv/Pl. oder Nom. Mask. Sing.)","base":"ihrig","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ihriges","description":"Deklinierte Form von 'ihrig' (z.B. ihriges)","base":"ihrig","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ihro","description":"Pron. (veraltet) — Possessivpronomen der 3. Person Plural (Ihro Majestät)","base":null,"corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"ihrs","description":"Pronomen — kurz für ihres","base":"ihr","source":"community","verified_by":"moderator"}
 {"word":"ihrz","description":null,"base":"ihrzen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"ihrze","description":null,"base":"ihrzen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"ihrzen","description":"Verb — jemanden mit 'Ihr' anreden (veraltet/höflich)","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
