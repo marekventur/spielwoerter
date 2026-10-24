@@ -1,26 +1,26 @@
 {
   "generated": "2026-10-24",
   "accepted": {
-    "total": 238900,
+    "total": 238890,
     "by_source": {
-      "community": 7613,
+      "community": 7614,
       "curated": 102,
-      "llm": 167981,
-      "morphology": 63204
+      "llm": 167975,
+      "morphology": 63199
     },
     "by_classification_pass": {
-      "double-pass-agree": 134814,
-      "tiebreaker": 33167
+      "double-pass-agree": 134811,
+      "tiebreaker": 33164
     },
     "length_distribution": {
       "2": 74,
       "3": 704,
-      "4": 3358,
-      "5": 9326,
-      "6": 19375,
-      "7": 32903,
-      "8": 51430,
-      "9": 75367,
+      "4": 3356,
+      "5": 9325,
+      "6": 19371,
+      "7": 32902,
+      "8": 51429,
+      "9": 75366,
       "10": 26892,
       "11": 16827,
       "12": 1952,
@@ -39,10 +39,10 @@
   },
   "oracle": {
     "reference_total": 184243,
-    "precision_pct": 72.419,
+    "precision_pct": 72.4228,
     "recall_pct": 75.3304,
     "true_positives": 138791,
-    "false_positives": 52859,
+    "false_positives": 52849,
     "false_negatives": 45452
   }
 }
