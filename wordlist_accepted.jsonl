@@ -73067,6 +73067,8 @@
 {"word":"flicken","description":"Verb — etwas Ausgebessertes reparieren, stopfen","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"flickend","description":"Partizip I von flicken","base":"flicken","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"flickende","description":"Dekliniertes Partizip I von flicken","base":"flicken","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"flickenden","description":"Dekl. Part. I von flicken","base":"flicken","source":"community","verified_by":"moderator"}
+{"word":"flickendes","description":"Dekl. Part. I von flicken","base":"flicken","source":"community","verified_by":"moderator"}
 {"word":"flickens","description":null,"base":"flicke","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"flicker","description":"Subst. — jmd., der flickt; oder Flackerlicht","base":null,"corpus_sources":["hunspell","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"flickerei","description":"Subst. — andauerndes, unbedeutendes Flicken","base":null,"corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -208107,7 +208109,7 @@
 {"word":"unfreister","description":"Superlativ, dekliniert von unfrei","base":"unfrei","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"unfreistes","description":"Superlativ, dekliniert von unfrei","base":"unfrei","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"unfried","description":"Adj. — nicht friedlich, zerstritten; Subst. (veraltet) — Unfrieden","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"unfriede","description":"Dativ Singular von Unfried (selten)","base":"unfried","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"unfriede","description":"Subst., m. — spannungsgeladener Zustand zwischen Menschen","base":"unfried","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"unfrieden","description":"Subst. — Zustand des Streits, der Zwietracht","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"unfriedens","description":"Genitiv Singular von Unfriede","base":"unfriede","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"unfroh","description":"Adj. — nicht froh, traurig","base":null,"corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -210909,10 +210911,23 @@
 {"word":"variiere","description":"Verb — 1. Person Sg. Konjunktiv I / Imperativ Sg. von variieren","base":"variieren","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"variieren","description":"Verb — in bestimmten Grenzen verändern, abwandeln","base":null,"corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"variierend","description":"Partizip I von variieren","base":"variieren","source":"morphology","verified_by":"wiktionary-de"}
+{"word":"variierende","description":"dekl. Part. I von variieren","base":"variieren","source":"community","verified_by":"moderator"}
+{"word":"variierendem","description":"dekl. Part. I von variieren","base":"variieren","source":"community","verified_by":"moderator"}
+{"word":"variierenden","description":"dekl. Part. I von variieren","base":"variieren","source":"community","verified_by":"moderator"}
+{"word":"variierender","description":"dekl. Part. I von variieren","base":"variieren","source":"community","verified_by":"moderator"}
+{"word":"variierendes","description":"dekl. Part. I von variieren","base":"variieren","source":"community","verified_by":"moderator"}
+{"word":"variierens","description":"Genitiv des substantivierten Infinitivs von variieren","base":"variieren","source":"community","verified_by":"moderator"}
+{"word":"variierest","description":"Konj. I, 2. Pers. Sg. von variieren","base":"variieren","source":"community","verified_by":"moderator"}
 {"word":"variieret","description":"Verb — 2. Person Plural Konjunktiv I von variieren","base":"variieren","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"variierst","description":"Verb — 2. Person Singular Indikativ Präsens von variieren","base":"variieren","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"variiert","description":"Verb — 3. Person Singular Indikativ Präsens oder Partizip II von variieren","base":"variieren","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"variierte","description":"Verb — Präteritum (1./3. Person Singular) oder dekliniertes Partizip II von variieren","base":"variieren","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"variiertem","description":"dekl. Part. II von variieren","base":"variieren","source":"community","verified_by":"moderator"}
+{"word":"variierten","description":"Prät. Pl. von variieren","base":"variieren","source":"community","verified_by":"moderator"}
+{"word":"variierter","description":"dekl. Part. II von variieren","base":"variieren","source":"community","verified_by":"moderator"}
+{"word":"variiertes","description":"dekl. Part. II von variieren","base":"variieren","source":"community","verified_by":"moderator"}
+{"word":"variiertest","description":"2. Pers. Sg. Prät. von variieren","base":"variieren","source":"community","verified_by":"moderator"}
+{"word":"variiertet","description":"2. Pers. Pl. Prät. von variieren","base":"variieren","source":"community","verified_by":"moderator"}
 {"word":"varikose","description":"Subst., f. — Krampfaderleiden","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"varikös","description":"Adj. — krampfaderartig, von Krampfadern betroffen","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"variköse","description":"Deklinierte Form von varikös (z.B. Nom./Akk. Sg. Fem., Nom./Akk. Pl.)","base":"varikös","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
