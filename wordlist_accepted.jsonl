@@ -82186,7 +82186,7 @@
 {"word":"gegreint","description":"Partizip II von greinen (weinen, wimmern)","base":"greinen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gegrenzt","description":"Partizip II von grenzen","base":"grenzen","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gegrenzte","description":"Partizip II von grenzen, adjektivisch dekliniert","base":"grenzen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"gegrient","description":null,"base":"grien","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gegrient","description":"Part. II von grienen","base":"grienen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gegriente","description":"dekl. Part. II von grienen","base":"grienen","source":"community","verified_by":"moderator"}
 {"word":"gegrientem","description":"dekl. Part. II von grienen","base":"grienen","source":"community","verified_by":"moderator"}
 {"word":"gegrienten","description":"dekl. Part. II von grienen","base":"grienen","source":"community","verified_by":"moderator"}
@@ -93775,10 +93775,10 @@
 {"word":"griechin","description":"Subst. — weibliche Einwohnerin oder Staatsangehörige von Griechenland","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"griechinnen","description":"Plural von Griechin","base":"griechin","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"griegel","description":"Subst. (landsch., veraltet) — Riegel, Sperre, Türriegel","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"grien","description":"Verb - schmunzeln, grinsen","base":"grienen","corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"grien","description":"Subst., n. — Kies; auch Imper. Sg. von grienen","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"griene","description":"Verb (landsch., nordd.) — grünen; grün werden oder sein","base":"grienen","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"grienen","description":"Verb (landsch., nordd.) — 1. grünen; 2. (bes. nordd.) grinsen, lächeln","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"grienend","description":null,"base":"grien","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"grienend","description":"Part. I von grienen","base":"grienen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"grienende","description":"flekt. Form von grienend (Part. I von grienen)","base":"grienen","source":"community","verified_by":"moderator"}
 {"word":"grienendem","description":"dekl. Part. I von grienen","base":"grienen","source":"community","verified_by":"moderator"}
 {"word":"grienenden","description":"dekl. Part. I von grienen","base":"grienen","source":"community","verified_by":"moderator"}
@@ -93787,9 +93787,10 @@
 {"word":"grienens","description":"Genitiv des substantivierten Infinitivs von grienen","base":"grienen","source":"community","verified_by":"moderator"}
 {"word":"grienest","description":"Konj. I, 2. Pers. Sg. von grienen","base":"grienen","source":"community","verified_by":"moderator"}
 {"word":"grienet","description":"Verb, Konj. von grienen","base":"grienen","source":"community","verified_by":"moderator"}
-{"word":"grienst","description":null,"base":"grien","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"grient","description":null,"base":"grien","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"griente","description":null,"base":"grien","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"griens","description":"Gen. Sg. von Grien (Kies)","base":"grien","source":"community","verified_by":"moderator"}
+{"word":"grienst","description":"2. Pers. Sg. Präs. von grienen","base":"grienen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"grient","description":"3. Pers. Sg. & 2. Pers. Pl. Präs. von grienen","base":"grienen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"griente","description":"1. & 3. Pers. Sg. Prät. von grienen","base":"grienen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"grienten","description":"Prät. Pl. von grienen","base":"grienen","source":"community","verified_by":"moderator"}
 {"word":"grientest","description":"2. Pers. Sg. Prät. von grienen","base":"grienen","source":"community","verified_by":"moderator"}
 {"word":"grientet","description":"2. Pers. Pl. Prät. von grienen","base":"grienen","source":"community","verified_by":"moderator"}
