@@ -7146,7 +7146,6 @@
 {"word":"adrenalin","description":"Subst. — Hormon der Nebenniere","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"adrenalins","description":"Genitiv Singular von Adrenalin","base":"adrenalin","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"adrenerg","description":"Adj. — durch Adrenalin bewirkt; auf Adrenalin ansprechend","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"adresat","description":"Subst. (veraltet/fachspr.) — Empfänger, Adressat","base":null,"corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"adressant","description":"Subst. (veraltet) — Absender, Adressant","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"adressanten","description":"Genitiv/Dativ/Akkusativ Singular, Plural von Adressant","base":"adressant","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"adressat","description":"Subst. — Empfänger, Person/Instanz, an die etwas gerichtet ist","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -30780,6 +30779,8 @@
 {"word":"benamsen","description":null,"base":"benamtest","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"benamsend","description":null,"base":"benamtest","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"benamste","description":null,"base":"benamtest","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"benamsung","description":"Subst., f. — ugs., scherzhaft: Benennung, Namensgebung","base":null,"source":"community","verified_by":"moderator"}
+{"word":"benamsungen","description":"Pl. von Benamsung","base":"benamsung","source":"community","verified_by":"moderator"}
 {"word":"benamte","description":"Partizip II von benamen (veraltet) — benannt, bezeichnet","base":"benamen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"benamtem","description":"Dativ Singular Mask./Neut. des Partizips II von benamen","base":"benamen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"benamten","description":"Deklinierte Form des Partizips II von benamen","base":"benamen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -73067,7 +73068,9 @@
 {"word":"flicken","description":"Verb — etwas Ausgebessertes reparieren, stopfen","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"flickend","description":"Partizip I von flicken","base":"flicken","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"flickende","description":"Dekliniertes Partizip I von flicken","base":"flicken","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"flickendem","description":"Dekl. Part. I von flicken","base":"flicken","source":"community","verified_by":"moderator"}
 {"word":"flickenden","description":"Dekl. Part. I von flicken","base":"flicken","source":"community","verified_by":"moderator"}
+{"word":"flickender","description":"Dekl. Part. I von flicken","base":"flicken","source":"community","verified_by":"moderator"}
 {"word":"flickendes","description":"Dekl. Part. I von flicken","base":"flicken","source":"community","verified_by":"moderator"}
 {"word":"flickens","description":null,"base":"flicke","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"flicker","description":"Subst. — jmd., der flickt; oder Flackerlicht","base":null,"corpus_sources":["hunspell","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -81455,6 +81458,10 @@
 {"word":"geflextes","description":"Partizip II von flexen, adjektivisch dekliniert (Nominativ/Akkusativ Singular neutrum)","base":"flexen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geflickt","description":"Partizip II von flicken — ausgebessert, repariert","base":"flicken","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geflickte","description":"Partizip II von flicken, adjektivisch dekliniert — ausgebessert, repariert","base":"flicken","corpus_sources":["wiktionary","hunspell","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"geflicktem","description":"dekl. Part. II von flicken","base":"flicken","source":"community","verified_by":"moderator"}
+{"word":"geflickten","description":"dekl. Part. II von flicken","base":"flicken","source":"community","verified_by":"moderator"}
+{"word":"geflickter","description":"dekl. Part. II von flicken","base":"flicken","source":"community","verified_by":"moderator"}
+{"word":"geflicktes","description":"dekl. Part. II von flicken","base":"flicken","source":"community","verified_by":"moderator"}
 {"word":"gefliest","description":"Partizip II von fliesen — mit Fliesen belegen","base":"fliesen","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geflieste","description":"Deklinierte Form von gefliest (Partizip II von fliesen)","base":"fliesen","corpus_sources":["wiktionary","hunspell","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geflimmer","description":"Substantiviertes Partizip I von flimmern — flackerndes Licht","base":"flimmern","corpus_sources":["hunspell","gutenberg"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -82180,6 +82187,11 @@
 {"word":"gegrenzt","description":"Partizip II von grenzen","base":"grenzen","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gegrenzte","description":"Partizip II von grenzen, adjektivisch dekliniert","base":"grenzen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gegrient","description":null,"base":"grien","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gegriente","description":"dekl. Part. II von grienen","base":"grienen","source":"community","verified_by":"moderator"}
+{"word":"gegrientem","description":"dekl. Part. II von grienen","base":"grienen","source":"community","verified_by":"moderator"}
+{"word":"gegrienten","description":"dekl. Part. II von grienen","base":"grienen","source":"community","verified_by":"moderator"}
+{"word":"gegrienter","description":"dekl. Part. II von grienen","base":"grienen","source":"community","verified_by":"moderator"}
+{"word":"gegrientes","description":"dekl. Part. II von grienen","base":"grienen","source":"community","verified_by":"moderator"}
 {"word":"gegriffen","description":"Partizip II von greifen","base":"greifen","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gegriffne","description":"Partizip II von greifen, mit e-Tilgung","base":"greifen","corpus_sources":["ne_contracted"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gegrillt","description":"Partizip II von grillen","base":"grillen","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -93767,10 +93779,20 @@
 {"word":"griene","description":"Verb (landsch., nordd.) — grünen; grün werden oder sein","base":"grienen","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"grienen","description":"Verb (landsch., nordd.) — 1. grünen; 2. (bes. nordd.) grinsen, lächeln","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"grienend","description":null,"base":"grien","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"grienende","description":"flekt. Form von grienend (Part. I von grienen)","base":"grienen","source":"community","verified_by":"moderator"}
+{"word":"grienendem","description":"dekl. Part. I von grienen","base":"grienen","source":"community","verified_by":"moderator"}
+{"word":"grienenden","description":"dekl. Part. I von grienen","base":"grienen","source":"community","verified_by":"moderator"}
+{"word":"grienender","description":"dekl. Part. I von grienen","base":"grienen","source":"community","verified_by":"moderator"}
+{"word":"grienendes","description":"dekl. Part. I von grienen","base":"grienen","source":"community","verified_by":"moderator"}
+{"word":"grienens","description":"Genitiv des substantivierten Infinitivs von grienen","base":"grienen","source":"community","verified_by":"moderator"}
+{"word":"grienest","description":"Konj. I, 2. Pers. Sg. von grienen","base":"grienen","source":"community","verified_by":"moderator"}
 {"word":"grienet","description":"Verb, Konj. von grienen","base":"grienen","source":"community","verified_by":"moderator"}
 {"word":"grienst","description":null,"base":"grien","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"grient","description":null,"base":"grien","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"griente","description":null,"base":"grien","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"grienten","description":"Prät. Pl. von grienen","base":"grienen","source":"community","verified_by":"moderator"}
+{"word":"grientest","description":"2. Pers. Sg. Prät. von grienen","base":"grienen","source":"community","verified_by":"moderator"}
+{"word":"grientet","description":"2. Pers. Pl. Prät. von grienen","base":"grienen","source":"community","verified_by":"moderator"}
 {"word":"gries","description":"Adj. — (lansch.) grau","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"griesbrei","description":"Subst. — Brei aus Grieß","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"griesche","description":"Subst. (veraltet/landschaftl.) — Griechin; auch für eine Art Birne","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -208108,7 +208130,6 @@
 {"word":"unfreisten","description":"Superlativ, dekliniert von unfrei","base":"unfrei","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"unfreister","description":"Superlativ, dekliniert von unfrei","base":"unfrei","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"unfreistes","description":"Superlativ, dekliniert von unfrei","base":"unfrei","source":"morphology","verified_by":"wiktionary-de"}
-{"word":"unfried","description":"Adj. — nicht friedlich, zerstritten; Subst. (veraltet) — Unfrieden","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"unfriede","description":"Subst., m. — spannungsgeladener Zustand zwischen Menschen","base":"unfried","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"unfrieden","description":"Subst. — Zustand des Streits, der Zwietracht","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"unfriedens","description":"Genitiv Singular von Unfriede","base":"unfriede","source":"morphology","verified_by":"wiktionary-de"}
