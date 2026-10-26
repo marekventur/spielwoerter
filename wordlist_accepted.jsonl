@@ -58558,6 +58558,9 @@
 {"word":"elastane","description":"Subst. — synthetische, elastische Chemiefaser (z.B. Spandex)","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"elastase","description":"Subst. (fachspr.) — Enzym, das Elastin abbaut","base":null,"corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"elastasen","description":"Pl. von Elastase","base":"elastase","corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"elaste","description":"Nom. Pl. von Elast","base":"elast","source":"community","verified_by":"moderator"}
+{"word":"elasten","description":"Dat. Pl. von Elast","base":"elast","source":"community","verified_by":"moderator"}
+{"word":"elastes","description":"Gen. Sg. von Elast","base":"elast","source":"community","verified_by":"moderator"}
 {"word":"elastica","description":"Subst. — veraltet für 'Gummiband'; auch mathematische Kurve","base":null,"corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"elastin","description":"Subst. (Biochemie) — Strukturprotein des Bindegewebes","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"elastisch","description":"Adj. — dehnbar, federnd, formbar","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -58570,6 +58573,7 @@
 {"word":"elastomere","description":"Nominativ/Genitiv/Akkusativ Plural von Elastomer","base":"elastomer","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"elastomeren","description":"Dativ Plural von Elastomer","base":"elastomer","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"elastomers","description":"Genitiv Singular von Elastomer","base":"elastomer","source":"morphology","verified_by":"wiktionary-de"}
+{"word":"elasts","description":"Gen. Sg. von Elast","base":"elast","source":"community","verified_by":"moderator"}
 {"word":"elater","description":"Subst. — 1. Botanik: Schleudervorrichtung bei Farnsporen. 2. Zoologie: Springkäfer","base":null,"corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"elativ","description":"Subst. (Sprachw.) — Steigerungsstufe, die einen sehr hohen Grad ausdrückt","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"elative","description":null,"base":"elativ","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -210855,7 +210859,6 @@
 {"word":"vanadinit","description":"Subst. (Mineralogie) — Vanadiummineral","base":null,"corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"vanadium","description":"Subst., Neutr. — chemisches Element (V)","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"vanadiums","description":"Genitiv Singular von Vanadium","base":"vanadium","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"vanda","description":"Subst. — Gattung tropischer Orchideen","base":null,"corpus_sources":["wikipedia","gutenberg","kaikki_forms"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"vandale","description":"Subst. — Angehöriger des germanischen Volksstamms der Vandalen; übertragen: Zerstörer, Kulturfeind","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"vandalen","description":"Pl. von Vandale; Genitiv Singular von Vandale","base":"vandale","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"vandalin","description":null,"base":"vandale","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
