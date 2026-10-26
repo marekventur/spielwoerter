@@ -47009,7 +47009,6 @@
 {"word":"dau","description":"Subst. — arabisches einmastiges Segelschiff (auch: Dhau)","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"curated","verified_by":"manual"}
 {"word":"daube","description":"Subst. (veraltet/landschaftl.) — Fassdaube, hölzerne Wand eines Fasses","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"dauben","description":"Pl. von Daube","base":"daube","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"daubs","description":"Verb — 3. Person Singular Präsens von dauben (mit Farbe/Lehm verschmieren)","base":"dauben","corpus_sources":["wiktionary","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"daue","description":"1. Pers. Sg. Präs. des trennbaren Verbbestandteils von andauen","base":"andauen","source":"community","verified_by":"moderator"}
 {"word":"dauen","description":"Plural von Dau (Schiffstyp)","base":null,"source":"community","verified_by":"moderator"}
 {"word":"dauer","description":"Subst., f. — Zeitraum, während dessen etwas anhält; Beständigkeit","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -58554,7 +58553,7 @@
 {"word":"elamiter","description":"Subst. — Angehöriger des altorientalischen Volkes der Elamiter","base":null,"corpus_sources":["hunspell","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"elan","description":"Subst. — Schwung, Begeisterung, Tatkraft","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"elans","description":"Pl. von Elan","base":"elan","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"elast","description":"Adj. — veraltet für 'elastisch'","base":null,"corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"elast","description":"Subst., m. — fester, verformbarer Kunststoff","base":null,"corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"elastan","description":"Subst. — synthetische Chemiefaser (Elasthan)","base":null,"corpus_sources":["hunspell","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"elastane","description":"Subst. — synthetische, elastische Chemiefaser (z.B. Spandex)","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"elastase","description":"Subst. (fachspr.) — Enzym, das Elastin abbaut","base":null,"corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -95435,9 +95434,6 @@
 {"word":"gynaeceums","description":"Gen. Sg. von Gynaeceum","base":"gynaeceum","source":"community","verified_by":"moderator"}
 {"word":"gynandrie","description":"Subst. (Bot.) — Zustand, bei dem männliche und weibliche Blütenorgane in einer Blüte vereint sind","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gynarchie","description":"Subst. — Herrschaft der Frauen","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"gynoeceen","description":null,"base":"gynäzeum","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"gynoeceum","description":null,"base":"gynäzeen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"gynäceums","description":"Pl. von Gynäceum (1. Frauengemach; 2. Bot. Gesamtheit der weiblichen Blütenorgane)","base":"gynäceum","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gynäkeien","description":"Pl. von Gynäkeion","base":"gynäkeion","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gynäkeion","description":"Subst., n. — altgriechisches Frauengemach","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gynäkeions","description":"Gen. Sg. von Gynäkeion","base":"gynäkeion","source":"community","verified_by":"moderator"}
@@ -216091,8 +216087,17 @@
 {"word":"vertraulichem","description":"Dekl. von vertraulich","base":"vertraulich","source":"community","verified_by":"moderator"}
 {"word":"vertraulichen","description":"Dekl. von vertraulich","base":"vertraulich","source":"community","verified_by":"moderator"}
 {"word":"vertraulicher","description":"Dekl. von vertraulich","base":"vertraulich","source":"community","verified_by":"moderator"}
+{"word":"vertraulichere","description":"Dekl. Komp. von vertraulich","base":"vertraulich","source":"community","verified_by":"moderator"}
+{"word":"vertraulicherem","description":"Dekl. Komp. von vertraulich","base":"vertraulich","source":"community","verified_by":"moderator"}
+{"word":"vertraulicheren","description":"Dekl. Komp. von vertraulich","base":"vertraulich","source":"community","verified_by":"moderator"}
+{"word":"vertraulicheres","description":"Dekl. Komp. von vertraulich","base":"vertraulich","source":"community","verified_by":"moderator"}
 {"word":"vertrauliches","description":"Dekl. von vertraulich","base":"vertraulich","source":"community","verified_by":"moderator"}
+{"word":"vertraulichst","description":"Absl. Superl. (Elativ) von vertraulich","base":"vertraulich","source":"community","verified_by":"moderator"}
 {"word":"vertraulichste","description":"Dekl. Superl. von vertraulich","base":"vertraulich","source":"community","verified_by":"moderator"}
+{"word":"vertraulichstem","description":"Dekl. Superl. von vertraulich","base":"vertraulich","source":"community","verified_by":"moderator"}
+{"word":"vertraulichsten","description":"Dekl. Superl. von vertraulich","base":"vertraulich","source":"community","verified_by":"moderator"}
+{"word":"vertraulichster","description":"Dekl. Superl. von vertraulich","base":"vertraulich","source":"community","verified_by":"moderator"}
+{"word":"vertraulichstes","description":"Dekl. Superl. von vertraulich","base":"vertraulich","source":"community","verified_by":"moderator"}
 {"word":"vertraun","description":"Verb — 1. Person Plural Indikativ Präsens von vertrauen (verkürzte Form)","base":"vertrauen","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"vertraust","description":"Verb — 2. Person Singular Indikativ Präsens von vertrauen","base":"vertrauen","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"vertraut","description":"Verb — 3. Person Singular Indikativ Präsens von vertrauen","base":"vertrauen","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
