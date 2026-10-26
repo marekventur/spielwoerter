@@ -72169,6 +72169,7 @@
 {"word":"firnissten","description":"Prät. Pl. von firnissen","base":"firnissen","source":"community","verified_by":"moderator"}
 {"word":"firnisstest","description":"2. Pers. Sg. Prät. von firnissen","base":"firnissen","source":"community","verified_by":"moderator"}
 {"word":"firnisstet","description":"2. Pers. Pl. Prät. von firnissen","base":"firnissen","source":"community","verified_by":"moderator"}
+{"word":"firns","description":"Gen. Sg. von Firn","base":"firn","source":"community","verified_by":"moderator"}
 {"word":"firnst","description":"2. Person Singular Präsens von firnen (Firn bilden)","base":"firnen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"firnt","description":"Verb — 3. Person Singular Präsens von firnen","base":"firnen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"firnte","description":"Verb — Präteritum (1./3. Person Singular) von firnen","base":"firnen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -95846,7 +95847,7 @@
 {"word":"güpfe","description":"Pl. von Gupf","base":"gupf","source":"community","verified_by":"moderator"}
 {"word":"güpfen","description":"Dat. Pl. von Gupf","base":"gupf","source":"community","verified_by":"moderator"}
 {"word":"gürkchen","description":null,"base":"gurka","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"gürt","description":null,"base":"gegürtet","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gürt","description":"1. Pers. Sg. Präs. mit e-Tlgung & Imper. Sg. von gürten","base":"gürten","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gürte","description":"Verb — 1./3. Person Sg. Konjunktiv II von gürten oder Imperativ Sg. (veraltet/landsch.)","base":"gürten","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gürtel","description":"Subst. — Band oder Riemen zum Festhalten der Kleidung um die Taille","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gürtellos","description":"Adj. — ohne Gürtel; übertragen: zügellos, schamlos","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -97987,7 +97988,6 @@
 {"word":"hartholzes","description":"Genitiv Singular von Hartholz","base":"hartholz","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"harthölzer","description":"Nominativ/Genitiv/Akkusativ Plural von Hartholz","base":"hartholz","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"harthölzern","description":"Dativ Plural von Hartholz","base":"hartholz","source":"morphology","verified_by":"wiktionary-de"}
-{"word":"hartje","description":"Interjektion — Ausruf des Bedauerns, der Verzweiflung (ach, herzje, hartje)","base":null,"corpus_sources":["wikipedia","gutenberg","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hartkeks","description":"Subst. — trockener, harter Keks","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hartkeksen","description":"Dativ Plural von Hartkeks","base":"hartkeks","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"hartkocht","description":"Verb — 3. Person Sg. Präsens von hartkochen (Eier fest kochen)","base":"hartkochen","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -98187,7 +98187,6 @@
 {"word":"hashwerten","description":"Dativ Plural von Hashwert","base":"hashwert","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"hashwertes","description":"Genitiv Singular von Hashwert","base":"hashwert","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"hashwerts","description":null,"base":"hashwert","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"hasidim","description":"Pl. von Chassid — Angehöriger einer jüdischen mystischen Bewegung","base":"chassid","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hasidäer","description":"Subst. — Angehöriger einer jüdischen mystischen Bewegung (Chassidismus)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"haskala","description":"Subst. (f.) — jüdische Aufklärungsbewegung im 18./19. Jh","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"haskalah","description":"Subst. — jüdische Aufklärungsbewegung im 18./19. Jahrhundert","base":null,"corpus_sources":["wikipedia","kaikki_forms"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -106216,7 +106215,7 @@
 {"word":"huptet","description":"Verb — 2. Person Plural Präteritum von hupen","base":"hupen","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hur","description":null,"base":"gehurt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hurde","description":"Laut Duden: geflochtene Wand zum Bekleiden von Böschungen","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"hurden","description":"Pl. von Hürde (Sportgerät, Hindernis)","base":"hürde","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"hurden","description":"Plural von Hurde\n1. geflochtene Wand (zum Bekleiden von Böschungen)\n2. Synonym zu Horde","base":"hurde","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hure","description":"Subst. (veraltet, derb) — Prostituierte","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"huren","description":"Verb — der Prostitution nachgehen; umgangssprachlich auch für betrügen, schinden","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hurenbock","description":"Subst. (derb) — Freier, Kunde einer Prostituierten","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -134680,7 +134679,6 @@
 {"word":"maestri","description":"Pl. von Maestro — Meister, große Künstler (bes. Dirigenten)","base":"maestro","corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"maestro","description":"Subst. — Meister, großer Künstler (bes. Dirigent, Komponist)","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"maestros","description":"Pl. von Maestro — Dirigent, Meister","base":"maestro","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"maff","description":"Verb (ugs., regional) — schmecken, gut munden","base":"maffen","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"maffia","description":"Subst. — Geheimbund, kriminelle Organisation","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"maffias","description":"Pl. von Maffia","base":"maffia","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mafia","description":"Subst. — kriminelle Geheimorganisation","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -152642,7 +152640,6 @@
 {"word":"outposts","description":"Pl. von Outpost","base":"outpost","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"output","description":"Subst. — Ausgabe, Ausstoß, Leistung (EDV/Technik)","base":null,"corpus_sources":["hunspell","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"outputs","description":"Pl. von Output","base":"output","corpus_sources":["hunspell","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"outrage","description":"Subst. (Fremdwort) — Empörung, Skandal; Frevel","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"outrier","description":"Verb - übertrieben, aufgebauscht","base":"outrieren","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"outriere","description":"1. Person Sg. Konjunktiv I von outrieren","base":"outrieren","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"outrieren","description":"Verb — übertreiben, überspitzen","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -178370,8 +178367,6 @@
 {"word":"schobers","description":"Genitiv Singular von Schober","base":"schober","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"schobst","description":"Verb — 2. Person Singular Präteritum von schieben","base":"schieben","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"schobt","description":"Präteritum von schieben (3. Person Singular)","base":"schieben","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"schoch","description":null,"base":"schock","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"schochs","description":null,"base":"schock","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"schock","description":"Subst. (m.) — 1. plötzliche, heftige seelische Erschütterung; 2. veraltetes Zählmaß (60 Stück)","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"schockbar","description":"Adj. — in der Lage, einen Schock zu erleiden; leicht zu schockieren","base":null,"corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"schocke","description":"Verb — 1. Person Sg. Konjunktiv I von schocken; 2. Imperativ Sg. von schocken","base":"schocken","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -208936,7 +208931,6 @@
 {"word":"unlegiert","description":"Adj. — nicht legiert, rein (z.B. von Metallen)","base":null,"corpus_sources":["hunspell","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"unleidig","description":"Adj. (veraltet/landschaftl.) — unerträglich, lästig","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"unleidige","description":"Adjektiv — deklinierte Form von unleidig; unangenehm, mürrisch","base":"unleidig","corpus_sources":["wiktionary","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"unleise","description":"Adjektiv — nicht leise, laut","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"unlenkbar","description":"Adjektiv — nicht lenkbar, nicht steuerbar","base":null,"corpus_sources":["hunspell","gutenberg"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"unlernbar","description":"Adjektiv — nicht lernbar, nicht erlernbar","base":null,"corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"unlesbar","description":"Adjektiv — nicht lesbar, unentzifferbar","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -228878,6 +228872,12 @@
 {"word":"xenismus","description":"Subst. (Sprachw.) — Fremdwort, das als fremd empfunden wird","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"xenium","description":"Subst. (veraltet) — Gastgeschenk","base":null,"corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"xenoblast","description":"Subst. (Mineral.) — Kristall mit untypischer, fremdartiger Form","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"xenoblastisch","description":"Adj. — (Geol.) von Mineralen in metamorphen Gesteinen: ohne eigene Kristallflächen ausgebildet","base":null,"source":"community","verified_by":"moderator"}
+{"word":"xenoblastische","description":"flekt. Form von xenoblastisch","base":"xenoblastisch","source":"community","verified_by":"moderator"}
+{"word":"xenoblastischem","description":"flekt. Form von xenoblastisch","base":"xenoblastisch","source":"community","verified_by":"moderator"}
+{"word":"xenoblastischen","description":"flekt. Form von xenoblastisch","base":"xenoblastisch","source":"community","verified_by":"moderator"}
+{"word":"xenoblastischer","description":"flekt. Form von xenoblastisch","base":"xenoblastisch","source":"community","verified_by":"moderator"}
+{"word":"xenoblastisches","description":"flekt. Form von xenoblastisch","base":"xenoblastisch","source":"community","verified_by":"moderator"}
 {"word":"xenogamie","description":"Subst. (Bot.) — Fremdbestäubung","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"xenogamien","description":"Plural von Xenogamie","base":"xenogamie","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"xenolith","description":"Subst. (Geol.) — Fremdgesteinseinschluss","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -229076,7 +229076,6 @@
 {"word":"youngster","description":"Subst. (engl. Lehnwort) — junger Mensch, Jugendlicher","base":null,"corpus_sources":["wiktionary","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"youngstern","description":"Dativ Plural von Youngster","base":"youngster","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"youngsters","description":"Genitiv Singular, Plural von Youngster","base":"youngster","source":"morphology","verified_by":"wiktionary-de"}
-{"word":"yourte","description":"Subst. (f.) — Zelt der Nomaden in Zentralasien (Jurte)","base":"jurte","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"youtub","description":null,"base":"youtuben","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"youtube","description":null,"base":"youtuben","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"youtubend","description":null,"base":"youtuben","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
