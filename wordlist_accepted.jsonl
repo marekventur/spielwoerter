@@ -8723,10 +8723,12 @@
 {"word":"allergoid","description":"Subst. (Medizin) — modifiziertes Allergen zur Hyposensibilisierung","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"allergose","description":"Subst. (Medizin) — Sammelbegriff für allergische Erkrankungen","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"allerhand","description":"Adv. — allerlei, sehr viel; ziemlich, recht","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"allerheiligen","description":"Subst. ohne Artikel — katholisches Fest zu Ehren aller Heiligen am 1. November","base":null,"source":"community","verified_by":"moderator"}
 {"word":"allerlei","description":"Pron./Adj. — allerhand, verschiedenes, vielerlei","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"allerleis","description":null,"base":"allerlei","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"allerley","description":"Adj. (veraltet) — Schreibvariante von allerlei","base":null,"corpus_sources":["gutenberg","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"allerorts","description":"Adv. — überall, an allen Orten","base":null,"corpus_sources":["hunspell","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"allerseelen","description":"Subst. ohne Artikel — katholischer Gedenktag für die Verstorbenen am 2. November","base":null,"source":"community","verified_by":"moderator"}
 {"word":"allerste","description":"Adj. — Superlativ von allererste; erste von allen","base":"allererste","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"allerwege","description":"Adv. (veraltet) — überall, auf allen Wegen","base":null,"corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"allerweil","description":"Adv. (veraltet/landschaftl.) — immer, fortwährend","base":null,"corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -23260,7 +23262,6 @@
 {"word":"autostopp","description":"Subst. — alternative Schreibweise von Autostop","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"autostopps","description":"Genitiv Singular, Plural von Autostopp","base":"autostopp","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"autosuche","description":"Subst. — die Suche nach einem Auto","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"autotank","description":"Subst. — Tankstelle mit Selbstbedienung","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"autotaxi","description":"Subst. — selbstfahrendes Taxi oder (veraltet) Taxi mit Selbstfahreroption","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"autoteile","description":"Pl. von Autoteil — Ersatz- oder Bauteile für Kraftfahrzeuge","base":"autoteil","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"autotext","description":"Subst. — Funktion zur automatischen Texteingabe (z.B. in Textverarbeitung)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -44877,12 +44878,6 @@
 {"word":"clevner","description":null,"base":"klevner","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"clevnern","description":null,"base":"klevner","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"clevners","description":null,"base":"klevner","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"clevrer","description":null,"base":"clever","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"clevrere","description":null,"base":"clever","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"clevrerem","description":null,"base":"clever","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"clevreren","description":null,"base":"clever","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"clevrerer","description":null,"base":"clever","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"clevreres","description":null,"base":"clever","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"cliche","description":"Subst. (frz. Lehnwort) — abgedroschene Redewendung, Gemeinplatz","base":"cliché","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"click","description":"Subst. (Anglizismus) — kurzes, knackendes Geräusch; Mausklick","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"clickbait","description":"Subst. (Anglizismus) — reißerischer Inhalt zum Anklicken","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -78683,7 +78678,6 @@
 {"word":"galeristen","description":"Genitiv/Dativ/Akkusativ Singular, Plural von Galerist","base":"galerist","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"galgant","description":"Subst. — Gewürz- und Heilpflanze (Alpinia officinarum)","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"galgants","description":"Pl. von Galgant — asiatische Gewürzpflanze","base":"galgant","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"galge","description":"Subst. (veraltet, landschaftl.) — Galgen","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"galgen","description":"Pl. von Galge oder Singular Galgen (Vorrichtung zur Hinrichtung)","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"galgenau","description":"Adj. — äußerst genau, peinlich genau","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"galgens","description":"Genitiv Singular von Galgen","base":"galgen","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -116551,6 +116545,13 @@
 {"word":"kinderehe","description":"Subst. — Ehe, bei der mindestens ein Partner minderjährig ist","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kinderehen","description":"Plural von Kinderehe","base":"kinderehe","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"kinderei","description":"Subst. — kindliches, albernes Tun; Kinderspiel","base":null,"corpus_sources":["hunspell","gutenberg"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"kinderlieb","description":"Adj. — Kinder gernhabend, liebevoll im Umgang mit Kindern","base":null,"source":"community","verified_by":"moderator"}
+{"word":"kinderliebe","description":"flekt. Form von kinderlieb","base":"kinderlieb","source":"community","verified_by":"moderator"}
+{"word":"kinderliebem","description":"flekt. Form von kinderlieb","base":"kinderlieb","source":"community","verified_by":"moderator"}
+{"word":"kinderlieben","description":"flekt. Form von kinderlieb","base":"kinderlieb","source":"community","verified_by":"moderator"}
+{"word":"kinderlieber","description":"Komp. von kinderlieb","base":"kinderlieb","source":"community","verified_by":"moderator"}
+{"word":"kinderliebes","description":"flekt. Form von kinderlieb","base":"kinderlieb","source":"community","verified_by":"moderator"}
+{"word":"kinderliebste","description":"Superl. von kinderlieb","base":"kinderlieb","source":"community","verified_by":"moderator"}
 {"word":"kinderlos","description":"Adj. — ohne Kinder","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kinderlose","description":"deklinierte Form von kinderlos","base":"kinderlos","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"kinderlosem","description":"deklinierte Form von kinderlos","base":"kinderlos","source":"morphology","verified_by":"wiktionary-de"}
@@ -124406,7 +124407,6 @@
 {"word":"kurender","description":"Dekliniertes Partizip I von kuren (z.B. ein kurender Gast)","base":"kuren","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kurendes","description":"Dekliniertes Partizip I von kuren (z.B. ein kurendes Kind)","base":"kuren","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kurens","description":"Gen. Sg. des subst. Infinitivs von kuren","base":"kuren","source":"community","verified_by":"moderator"}
-{"word":"kurent","description":"Verb — 3. Person Plural Konjunktiv I von küren","base":"küren","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kurer","description":"Subst. — Komparativ von kur (kurz) oder (selten) jemand, der eine Kur macht","base":"kur","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kurest","description":"2. Pers. Sg. Konjunktiv I Präs. von kuren","base":"kuren","source":"community","verified_by":"moderator"}
 {"word":"kuret","description":"Konj. I, 2. Pers. Pl. von kuren","base":"kuren","source":"community","verified_by":"moderator"}
@@ -134668,6 +134668,7 @@
 {"word":"madrilenen","description":"Genitiv/Dativ/Akkusativ Singular, Plural von Madrilene","base":"madrilene","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"maelstrom","description":"Subst. (m.) — mächtiger, gefährlicher Strudel","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"maelström","description":"Subst. (m.) — alternative Schreibweise von Maelstrom","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"maennin","description":"Subst., f. — (veralt.) 1. (bibl.) Frau 2. männlich wirkende, heldenhafte Frau","base":null,"source":"community","verified_by":"moderator"}
 {"word":"maestoso","description":"Adv. (Musik) — majestätisch, erhaben vorzutragen","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"maestra","description":null,"base":"maestri","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"maestral","description":"Subst. (Meteorologie) — ein nordwestlicher Wind im Mittelmeerraum","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -165906,6 +165907,8 @@
 {"word":"rayonchefin","description":"Subst., f. — ( österr., schweiz.) Leiterin einer Abteilung in einem Warenhaus oder eines Bezirks","base":null,"source":"community","verified_by":"moderator"}
 {"word":"rayonchefinnen","description":"Pl. von Rayonchefin","base":"rayonchefin","source":"community","verified_by":"moderator"}
 {"word":"rayonchefs","description":"Pl. und Gen. Sg. von Rayonchef","base":"rayonchef","source":"community","verified_by":"moderator"}
+{"word":"rayone","description":"Nom. Pl. von Rayon","base":"rayon","source":"community","verified_by":"moderator"}
+{"word":"rayonen","description":"Dat. Pl. von Rayon","base":"rayon","source":"community","verified_by":"moderator"}
 {"word":"rayonier","description":"Imperativ Sg. von rayonieren","base":"rayonieren","source":"community","verified_by":"moderator"}
 {"word":"rayoniere","description":"1. Pers. Sg. Präs. von rayonieren","base":"rayonieren","source":"community","verified_by":"moderator"}
 {"word":"rayonieren","description":"Verb — jemanden einem Rayon zuteilen","base":null,"source":"community","verified_by":"moderator"}
@@ -165929,6 +165932,11 @@
 {"word":"rayoniertet","description":"2. Pers. Pl. Prät. von rayonieren","base":"rayonieren","source":"community","verified_by":"moderator"}
 {"word":"rayonierung","description":"Subst., f. — Einteilung in Rayons, Bezirke oder Zonen (bes. österr., schweiz.)","base":null,"source":"community","verified_by":"moderator"}
 {"word":"rayonierungen","description":"Pl. von Rayonierung","base":"rayonierung","source":"community","verified_by":"moderator"}
+{"word":"rayoninspektor","description":"Subst., m. — (österr.) Polizeibeamter, der für einen bestimmten Bezirk (Rayon) zuständig ist","base":null,"source":"community","verified_by":"moderator"}
+{"word":"rayoninspektoren","description":"Pl. von Rayoninspektor","base":"rayoninspektor","source":"community","verified_by":"moderator"}
+{"word":"rayoninspektorin","description":"Subst. f. — weibl. Form von Rayoninspektor","base":null,"source":"community","verified_by":"moderator"}
+{"word":"rayoninspektorinnen","description":"Pl. von Rayoninspektorin","base":"rayoninspektorin","source":"community","verified_by":"moderator"}
+{"word":"rayoninspektors","description":"Gen. Sg. von Rayoninspektor","base":"rayoninspektor","source":"community","verified_by":"moderator"}
 {"word":"rayonne","description":"Subst., f. — Viskose","base":null,"source":"community","verified_by":"moderator"}
 {"word":"rayons","description":"Pl. und Gen. Sg. von Rayon","base":"rayon","source":"community","verified_by":"moderator"}
 {"word":"rayonsgrenze","description":"Subst., f. — (österr.) Grenze eines Rayons (Bezirk oder Zuständigkeitsbereich)","base":null,"source":"community","verified_by":"moderator"}
@@ -183059,7 +183067,6 @@
 {"word":"shreddern","description":"Verb — mit einem Shredder zerkleinern; Infinitiv von shredder","base":null,"corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"shrimp","description":"Subst. — Garnele, Krevette","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"shrimps","description":null,"base":"shrimp","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"shtetl","description":"Subst. (jidd.) — kleines jüdisches Dorf in Osteuropa","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"shuffeln","description":"Verb (ugs.) — langsam oder schlurfend gehen, mischen (Karten)","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"shunt","description":"Subst. (Mediz./Techn.) — Nebenschluss, Bypass","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"shunts","description":null,"base":"shunt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -189470,7 +189477,6 @@
 {"word":"steelband","description":"Subst. — Musikensemble mit Stahltrommeln (Steelpans)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"steenbock","description":"Subst. — Steinbock (Tier oder Sternzeichen)","base":null,"corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"steenern","description":"Adj. — aus Stein, steinern","base":null,"corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"steenige","description":"Adj. — Deklinierte Form von steinig (steinreich, voller Steine)","base":"steinig","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"steenigen","description":"Verb — mit Steinen bewerfen, steinigen","base":null,"corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"steenweg","description":null,"base":"steinweg","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"steg","description":"Subst. — schmaler Übergang, z.B. über Wasser oder eine Schlucht","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -197414,7 +197420,6 @@
 {"word":"tefsir","description":"Subst., m. — islamische Koranexegese, Kommentar zum Koran","base":null,"source":"community","verified_by":"moderator"}
 {"word":"tefsirs","description":"Gen. Sg. von Tefsir","base":"tefsir","source":"community","verified_by":"moderator"}
 {"word":"tegel","description":"Subst. — (meist rechteckige) Platte aus gebranntem Ton, Beton o. Ä., zum Belegen von Böden, Wänden, Dächern","base":null,"corpus_sources":["hunspell","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"tegelen","description":"Verb — (regional, veraltet) Fliesen, Kacheln verlegen oder herstellen","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"tegenaria","description":"Subst. (Zool.) — Gattung der Trichterspinnen","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"teheraner","description":"Subst. — Einwohner von Teheran","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"teheranern","description":"Dativ Plural von Teheraner","base":"teheraner","source":"morphology","verified_by":"wiktionary-de"}
@@ -197831,7 +197836,6 @@
 {"word":"teppichen","description":"Dativ Pl. von Teppich","base":"teppich","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"teppiches","description":"Genitiv Sg. von Teppich","base":"teppich","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"teppichs","description":"Genitiv Sg. von Teppich","base":"teppich","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"tepuis","description":"Pl. von Tepui","base":"tepui","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"tequila","description":"Subst. (m.) — mexikanischer Schnaps aus Agave","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"tequilas","description":"Pl. von Tequila","base":"tequila","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"terabit","description":"Subst. (EDV) — Maßeinheit der Datenmenge (1 Billion Bit)","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -199156,6 +199160,7 @@
 {"word":"timst","description":null,"base":"getimed","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"timt","description":null,"base":"getimed","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"timte","description":null,"base":"getimed","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"timten","description":"1. & 3. Pers. Pl. Prät. von timen","base":"timen","source":"community","verified_by":"moderator"}
 {"word":"tinder","description":"Subst. (engl. Lehnwort) — Zunder; Dating-App-Name","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"tindere","description":"Verb — 1. Person Sg. Konjunktiv I von tindern (selten)","base":"tindern","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"tindern","description":"Verb (ugs.) — die Dating-App Tinder nutzen","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -200811,6 +200816,8 @@
 {"word":"tradendes","description":"dekl. Part. I von traden","base":"traden","source":"community","verified_by":"moderator"}
 {"word":"tradens","description":"Gen. Sg. des substantivierten Verbs traden","base":"traden","source":"community","verified_by":"moderator"}
 {"word":"trader","description":"Subst. (engl. Lehnwort) — Börsenhändler, Wertpapierhändler","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"traderin","description":"Subst., f. — Händlerin, die an der Börse mit Wertpapieren, Devisen o. Ä. handelt","base":null,"source":"community","verified_by":"moderator"}
+{"word":"traderinnen","description":"Pl. von Traderin","base":"traderin","source":"community","verified_by":"moderator"}
 {"word":"tradern","description":"Dativ Plural von Trader","base":"trader","corpus_sources":["hunspell","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"tradest","description":"2. Pers. Sg. Präs. von traden","base":"traden","source":"community","verified_by":"moderator"}
 {"word":"tradet","description":"3. Pers. Sg. / 2. Pers. Pl. Präs. von traden / Konj. I, 2. Pers. Pl. von traden","base":"traden","source":"community","verified_by":"moderator"}
@@ -224403,7 +224410,6 @@
 {"word":"wellblechs","description":"Genitiv Singular von Wellblech","base":"wellblech","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"welldeck","description":"Subst. (naut.) — tief liegendes Deck zwischen erhöhten Aufbauten auf Schiffen","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"welle","description":"Subst. — 1. sich wellenförmig bewegende Wasseroberfläche; 2. rotierendes Maschinenteil","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"wellem","description":"Dativ Plural von Welle","base":"welle","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"wellen","description":"Verb — sich in Wellen bewegen; auch Pl. von Welle","base":"welle","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"wellenbad","description":"Subst. — Schwimmbad mit künstlich erzeugten Wellen","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"wellenbades","description":"Genitiv Singular von Wellenbad","base":"wellenbad","source":"morphology","verified_by":"wiktionary-de"}
@@ -229754,7 +229760,6 @@
 {"word":"zaubrerin","description":"Subst. (veraltet) — weibliche Form von Zaubrer; Zauberin","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"zaubrern","description":"Dativ Plural von Zauberer","base":"zauberer","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"zaubrers","description":"Genitiv Singular von Zauberer","base":"zauberer","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"zaude","description":"Verb (veraltet/landschaftl.) — zögern, zaudern","base":"zauden","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"zauder","description":"Subst. — jemand, der zaudert; Zögerer","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"zaudere","description":"1./3. Person Sg. Konj. I von zaudern","base":"zaudern","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"zauderei","description":"Subst. — das Zaudern, Zögerei","base":null,"corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
