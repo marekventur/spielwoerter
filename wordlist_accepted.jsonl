@@ -157802,7 +157802,8 @@
 {"word":"pitfall","description":"Subst. (Anglizismus) — versteckte Gefahr, Falle","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"piton","description":"Subst. (m.) — Kletterhaken, Felsnadel","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"pitstop","description":"Subst. (Sport, Rennsport) — kurzer Halt zur Wartung/Betankung","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"pitta","description":"Subst. (Ornithologie) — Gattung bunter Vögel in den Tropen","base":null,"corpus_sources":["wikipedia","kaikki_forms","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"pitta","description":"Subst., f. — Fladenbrot; auch Pita","base":null,"corpus_sources":["wikipedia","kaikki_forms","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"pittas","description":"Pl. von Pitta","base":"pitta","source":"community","verified_by":"moderator"}
 {"word":"pitter","description":null,"base":"bitter","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"pitterl","description":null,"base":"bitter","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"pitterle","description":null,"base":"bitter","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -172181,6 +172182,7 @@
 {"word":"rychter","description":null,"base":"richter","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"rydberg","description":"Subst. (Physik) — Einheit der Wellenzahl (nach J. R. Rydberg)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"rye","description":"Subst. — Roggenwhisky (Anglizismus)","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"curated","verified_by":"manual"}
+{"word":"ryes","description":"Pl. von Rye (Roggenwhisky)","base":"rye","source":"community","verified_by":"moderator"}
 {"word":"rygiel","description":"Subst. (m.) — Riegel, Sperrbalken, Sicherungsstift","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ryor","description":"Pl. von Rya (skand. Teppich)","base":"rya","source":"community","verified_by":"moderator"}
 {"word":"rzewnie","description":"Adv. — auf rührende, ergreifende Weise; von Rührung erfüllt","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
