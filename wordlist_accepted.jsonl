@@ -52494,7 +52494,7 @@
 {"word":"duques","description":"Gn. Sg. od. Pl. von Duque","base":"duque","source":"community","verified_by":"moderator"}
 {"word":"duquesa","description":"Subst. f. — Herzogin (spanisch)","base":null,"source":"community","verified_by":"moderator"}
 {"word":"duquesas","description":"Pl. von Duquesa","base":"duquesa","source":"community","verified_by":"moderator"}
-{"word":"dur","description":"Adj. — hart, schwer zu bearbeiten; anspruchsvoll, streng","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"dur","description":"Subs., n. — Tongeschlecht","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"durabel","description":"Adj. — haltbar, langlebig, beständig","base":null,"corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"durabelst","description":"abs. Superl. (Elativ) von durabel","base":"durabel","source":"community","verified_by":"moderator"}
 {"word":"durabelste","description":"Dekl. Form des Superl. von durabel","base":"durabel","source":"community","verified_by":"moderator"}
@@ -156326,6 +156326,7 @@
 {"word":"pfeuffer","description":null,"base":"pfeifer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"pfff","description":"Interjektion — Ausdruck von Ungeduld, Verachtung","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"pffff","description":"Interjektion — Ausdruck von Ungeduld, Verachtung (verlängerte Form)","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"pfiat","description":"Interj. — (bair., österr.) Abschiedsgruß, meist in „pfiat di“ oder „pfiat eich“ (behüte dich/euch Gott)","base":null,"source":"community","verified_by":"moderator"}
 {"word":"pfiff","description":"Subst. (m.) — kurzer, schriller Ton. Verb — Präteritum von pfeifen","base":"pfeifen","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"pfiffe","description":"Verb — Konjunktiv II Präteritum von pfeifen. Subst. — veraltete/landschaftliche Pluralform von Pfiff","base":"pfeifen","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"pfiffen","description":"Verb — 1./3. Person Plural Präteritum von pfeifen. Infinitiv (selten) — wiederholt pfeifen","base":"pfeifen","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -164377,6 +164378,11 @@
 {"word":"raidern","description":"Verb — plündern, rauben; veraltete Form von 'raiden'","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"raids","description":"Pl. von Raid (Angriff, Überfall)","base":"raid","corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"raifort","description":"Subst. (veraltet) — Meerrettich","base":null,"corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"raigras","description":"Subst., n. — 1. Lolch, eine Süßgrasart 2. hoch wachsendes Futtergras","base":null,"source":"community","verified_by":"moderator"}
+{"word":"raigrase","description":"Dat. Sg. von Raigras","base":"raigras","source":"community","verified_by":"moderator"}
+{"word":"raigrases","description":"Gen. Sg. von Raigras","base":"raigras","source":"community","verified_by":"moderator"}
+{"word":"raigräser","description":"Nom. Pl. von Raigras","base":"raigras","source":"community","verified_by":"moderator"}
+{"word":"raigräsern","description":"Dat. Pl. von Raigras","base":"raigras","source":"community","verified_by":"moderator"}
 {"word":"railbus","description":"Subst. — Schienenbus, ein leichtes Schienenfahrzeug","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"railgun","description":"Subst. — elektromagnetische Schienenkanone","base":null,"corpus_sources":["hunspell","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"railguns","description":"Pl. von Railgun","base":"railgun","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -165889,6 +165895,44 @@
 {"word":"ravt","description":null,"base":"rave","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"ravte","description":null,"base":"rave","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"ravten","description":"1. & 3. Pers. Pl. Prät. von raven","base":"raven","source":"community","verified_by":"moderator"}
+{"word":"raye","description":"Subst., m. — Gewebe mit Längsstreifen","base":null,"source":"community","verified_by":"moderator"}
+{"word":"rayes","description":"Gen. Sg. & Pl. von Rayé (Gewebe)","base":"raye","source":"community","verified_by":"moderator"}
+{"word":"raygras","description":"Subst., n. — 1. Lolch, ein Süßgras 2. hoch wachsendes Futtergras","base":null,"source":"community","verified_by":"moderator"}
+{"word":"raygrases","description":"Gen. Sg. von Raygras","base":"raygras","source":"community","verified_by":"moderator"}
+{"word":"raygräser","description":"Nom. Pl. von Raygras","base":"raygras","source":"community","verified_by":"moderator"}
+{"word":"raygräsern","description":"Dat. Pl. von Raygras","base":"raygras","source":"community","verified_by":"moderator"}
+{"word":"rayon","description":"Subst., m. — (österr.) (Dienst-)Bezirk, Gebiet; (schweiz.) Warenhausabteilung","base":null,"source":"community","verified_by":"moderator"}
+{"word":"rayonchef","description":"Subst., m. — (österr., schweiz.) Leiter einer Abteilung in einem Warenhaus oder eines Bezirks","base":null,"source":"community","verified_by":"moderator"}
+{"word":"rayonchefin","description":"Subst., f. — ( österr., schweiz.) Leiterin einer Abteilung in einem Warenhaus oder eines Bezirks","base":null,"source":"community","verified_by":"moderator"}
+{"word":"rayonchefinnen","description":"Pl. von Rayonchefin","base":"rayonchefin","source":"community","verified_by":"moderator"}
+{"word":"rayonchefs","description":"Pl. und Gen. Sg. von Rayonchef","base":"rayonchef","source":"community","verified_by":"moderator"}
+{"word":"rayonier","description":"Imperativ Sg. von rayonieren","base":"rayonieren","source":"community","verified_by":"moderator"}
+{"word":"rayoniere","description":"1. Pers. Sg. Präs. von rayonieren","base":"rayonieren","source":"community","verified_by":"moderator"}
+{"word":"rayonieren","description":"Verb — jemanden einem Rayon zuteilen","base":null,"source":"community","verified_by":"moderator"}
+{"word":"rayonierend","description":"Part. I von rayonieren","base":"rayonieren","source":"community","verified_by":"moderator"}
+{"word":"rayonierende","description":"dekl. Part. I von rayonieren","base":"rayonieren","source":"community","verified_by":"moderator"}
+{"word":"rayonierendem","description":"dekl. Part. I von rayonieren","base":"rayonieren","source":"community","verified_by":"moderator"}
+{"word":"rayonierenden","description":"dekl. Part. I von rayonieren","base":"rayonieren","source":"community","verified_by":"moderator"}
+{"word":"rayonierender","description":"dekl. Part. I von rayonieren","base":"rayonieren","source":"community","verified_by":"moderator"}
+{"word":"rayonierendes","description":"dekl. Part. I von rayonieren","base":"rayonieren","source":"community","verified_by":"moderator"}
+{"word":"rayonierens","description":"Gen. Sg. des subst. Infinitivs von rayonieren","base":"rayonieren","source":"community","verified_by":"moderator"}
+{"word":"rayonierest","description":"Konj. I, 2. Pers. Sg. von rayonieren","base":"rayonieren","source":"community","verified_by":"moderator"}
+{"word":"rayonieret","description":"Konj. I, 2. Pers. Pl. von rayonieren","base":"rayonieren","source":"community","verified_by":"moderator"}
+{"word":"rayonierst","description":"2. Pers. Sg. Präs. von rayonieren","base":"rayonieren","source":"community","verified_by":"moderator"}
+{"word":"rayoniert","description":"3. Pers. Sg. Präs. / Part. II von rayonieren","base":"rayonieren","source":"community","verified_by":"moderator"}
+{"word":"rayonierte","description":"1. & 3. Pers. Sg. Prät. von rayonieren","base":"rayonieren","source":"community","verified_by":"moderator"}
+{"word":"rayoniertem","description":"dekl. Part. II von rayonieren","base":"rayonieren","source":"community","verified_by":"moderator"}
+{"word":"rayonierten","description":"1. & 3. Pers. Pl. Prät. von rayonieren","base":"rayonieren","source":"community","verified_by":"moderator"}
+{"word":"rayonierter","description":"dekl. Part. II von rayonieren","base":"rayonieren","source":"community","verified_by":"moderator"}
+{"word":"rayoniertes","description":"dekl. Part. II von rayonieren","base":"rayonieren","source":"community","verified_by":"moderator"}
+{"word":"rayoniertest","description":"2. Pers. Sg. Prät. von rayonieren","base":"rayonieren","source":"community","verified_by":"moderator"}
+{"word":"rayoniertet","description":"2. Pers. Pl. Prät. von rayonieren","base":"rayonieren","source":"community","verified_by":"moderator"}
+{"word":"rayonierung","description":"Subst., f. — Einteilung in Rayons, Bezirke oder Zonen (bes. österr., schweiz.)","base":null,"source":"community","verified_by":"moderator"}
+{"word":"rayonierungen","description":"Pl. von Rayonierung","base":"rayonierung","source":"community","verified_by":"moderator"}
+{"word":"rayonne","description":"Subst., f. — Viskose","base":null,"source":"community","verified_by":"moderator"}
+{"word":"rayons","description":"Pl. und Gen. Sg. von Rayon","base":"rayon","source":"community","verified_by":"moderator"}
+{"word":"rayonsgrenze","description":"Subst., f. — (österr.) Grenze eines Rayons (Bezirk oder Zuständigkeitsbereich)","base":null,"source":"community","verified_by":"moderator"}
+{"word":"rayonsgrenzen","description":"Pl. von Rayonsgrenze","base":"rayonsgrenze","source":"community","verified_by":"moderator"}
 {"word":"razemat","description":null,"base":"racemat","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"razemate","description":null,"base":"racemat","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"razematen","description":null,"base":"racemat","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -168752,6 +168796,7 @@
 {"word":"rextest","description":"2. Pers. Pl. Prät. des trennbaren Verbbestandteils von einrexen","base":"einrexen","source":"community","verified_by":"moderator"}
 {"word":"rextet","description":"2. Pers. Pl. Prät. des trennbaren Verbbestandteils von einrexen","base":"einrexen","source":"community","verified_by":"moderator"}
 {"word":"reynard","description":"Subst. (veraltet, literarisch) — Fuchs; aus der Tierfabel (Reineke Fuchs)","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"reyon","description":"Subst., m. od. n. — Viskose","base":null,"source":"community","verified_by":"moderator"}
 {"word":"rezensent","description":"Subst. — Person, die eine Rezension verfasst; Kritiker","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"rezensenten","description":"Genitiv/Dativ/Akkusativ Singular, Plural von Rezensent","base":"rezensent","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"rezensier","description":"Verb — Imperativ Singular von rezensieren","base":"rezensieren","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -199155,7 +199200,7 @@
 {"word":"tintling","description":"Subst. (m.) — Pilz der Gattung Coprinus (Tintling)","base":null,"corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"tintlinge","description":"Pl. von Tintling","base":"tintling","corpus_sources":["hunspell","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"tintlings","description":"Genitiv Singular von Tintling","base":"tintling","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"tip","description":"Subst. (ugs.) — Trinkgeld; kleiner Ratschlag","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"tip","description":"Subst., m. — Trinkgeld; auch frühere Schreibweise von Tipp","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"tipi","description":"Subst. (auch Tipi) — kegelförmiges Zelt nordamerikanischer Indianer","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"tipis","description":"Pl. von Tipi","base":"tipi","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"tipp","description":"Subst. (ugs.) — Tipp, Ratschlag","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -200669,10 +200714,12 @@
 {"word":"toxoid","description":"Subst. (Medizin) — entgiftetes Bakterientoxin für Impfstoffe","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"toxämie","description":"Subst. (Med.) — Blutvergiftung, Vorhandensein von Giftstoffen im Blut","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"toxämien","description":"Pl. von Toxämie","base":"toxämie","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"toyboy","description":"Subst. m. — junger, attraktiver Liebhaber einer älteren Frau","base":null,"source":"community","verified_by":"moderator"}
+{"word":"toy","description":"Subst., n. — 1. zur sexuellen Stimulation verwendeter Gegenstand 2. im England des 16. & 17. Jahrhunderts gängige Bezeichnung für ein Lied","base":null,"source":"community","verified_by":"moderator"}
+{"word":"toyboy","description":"Subst., m. — junger Liebhaber einer älteren Frau, der dafür materielle Gegenleistungen erhält","base":null,"source":"community","verified_by":"moderator"}
 {"word":"toyboys","description":"Pl. von Toyboy","base":"toyboy","source":"community","verified_by":"moderator"}
 {"word":"toyota","description":null,"base":"toyotas","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"toyotas","description":"Pl. von Toyota (Produktname) — Autos der Marke Toyota","base":"toyota","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"toys","description":"Gen. Sg. & Pl. von Toy","base":"toy","source":"community","verified_by":"moderator"}
 {"word":"trab","description":"Verb (regional/veraltet) — traben, im Trab gehen","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"trabant","description":"Subst. — 1. Begleiter, Gefolgsmann; 2. (hist.) Satellit, Mond; 3. (DDR) Automarke","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"trabante","description":"Subst. (veraltet) — Begleiter, Trabant","base":"trabant","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
