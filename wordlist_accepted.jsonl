@@ -44859,6 +44859,9 @@
 {"word":"clericals","description":"Pl. von Clerical (Subst.) — Angehörige der klerikalen Partei","base":"clerical","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"clerus","description":"Subst. (veraltet/geh.) — die Gesamtheit der Geistlichen, Klerus","base":null,"corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"clethra","description":"Subst. (f.) — Pflanzengattung (Pfeifensträucher)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"clevener","description":"Subst., m. — blauer Burgunder, eine Weinsorte","base":null,"source":"community","verified_by":"moderator"}
+{"word":"clevenern","description":"Dat. Pl. von Clevener (eine Weinsorte)","base":"clevener","source":"community","verified_by":"moderator"}
+{"word":"cleveners","description":"Gen. Sg. von Clevener (eine Weinsorte)","base":"clevener","source":"community","verified_by":"moderator"}
 {"word":"clever","description":"Adj. — klug, gewitzt, schlau","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"clevere","description":"Deklinierte Form von clever","base":"clever","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"cleverem","description":"Deklinierte Form von clever","base":"clever","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -44875,9 +44878,9 @@
 {"word":"cleversten","description":"Superlativ, dekliniert von clever","base":"clever","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"cleverster","description":"Superlativ, dekliniert von clever","base":"clever","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"cleverstes","description":"Superlativ, dekliniert von clever","base":"clever","source":"morphology","verified_by":"wiktionary-de"}
-{"word":"clevner","description":null,"base":"klevner","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"clevnern","description":null,"base":"klevner","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"clevners","description":null,"base":"klevner","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"clevner","description":"Subst., m — Weinrebsorte bzw. daraus gekelterter Weißwein","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"clevnern","description":"Dat. Pl. von Clevner (eine Weinsorte)","base":"clevner","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"clevners","description":"Gen. Sg. von Clevner (eine Weinsorte)","base":"clevner","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"cliche","description":"Subst. (frz. Lehnwort) — abgedroschene Redewendung, Gemeinplatz","base":"cliché","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"click","description":"Subst. (Anglizismus) — kurzes, knackendes Geräusch; Mausklick","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"clickbait","description":"Subst. (Anglizismus) — reißerischer Inhalt zum Anklicken","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -116550,8 +116553,16 @@
 {"word":"kinderliebem","description":"flekt. Form von kinderlieb","base":"kinderlieb","source":"community","verified_by":"moderator"}
 {"word":"kinderlieben","description":"flekt. Form von kinderlieb","base":"kinderlieb","source":"community","verified_by":"moderator"}
 {"word":"kinderlieber","description":"Komp. von kinderlieb","base":"kinderlieb","source":"community","verified_by":"moderator"}
+{"word":"kinderliebere","description":"dekl. Komp. von kinderlieb","base":"kinderlieb","source":"community","verified_by":"moderator"}
+{"word":"kinderlieberem","description":"dekl. Komp. von kinderlieb","base":"kinderlieb","source":"community","verified_by":"moderator"}
+{"word":"kinderlieberen","description":"dekl. Komp. von kinderlieb","base":"kinderlieb","source":"community","verified_by":"moderator"}
 {"word":"kinderliebes","description":"flekt. Form von kinderlieb","base":"kinderlieb","source":"community","verified_by":"moderator"}
+{"word":"kinderliebst","description":"Abs. Superlativ (Elativ) von kinderlieb","base":"kinderlieb","source":"community","verified_by":"moderator"}
 {"word":"kinderliebste","description":"Superl. von kinderlieb","base":"kinderlieb","source":"community","verified_by":"moderator"}
+{"word":"kinderliebstem","description":"Dekl. Superl. von kinderlieb","base":"kinderlieb","source":"community","verified_by":"moderator"}
+{"word":"kinderliebsten","description":"dekl. Superl. von kinderlieb","base":"kinderlieb","source":"community","verified_by":"moderator"}
+{"word":"kinderliebster","description":"Dekl. Superl. von kinderlieb","base":"kinderlieb","source":"community","verified_by":"moderator"}
+{"word":"kinderliebstes","description":"Dekl. Superl. von kinderlieb","base":"kinderlieb","source":"community","verified_by":"moderator"}
 {"word":"kinderlos","description":"Adj. — ohne Kinder","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kinderlose","description":"deklinierte Form von kinderlos","base":"kinderlos","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"kinderlosem","description":"deklinierte Form von kinderlos","base":"kinderlos","source":"morphology","verified_by":"wiktionary-de"}
@@ -144223,6 +144234,8 @@
 {"word":"männers","description":"Genitiv Singular von Männer (substantivierter Plural)","base":"männer","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"männertag","description":"Subst. — Tag, der Männern gewidmet ist (z.B. Herrentag)","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"männes","description":null,"base":"männe","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"männin","description":"Subst., f. — 1. (bibl.) Frau als Gefährtin des Mannes 2. männlich wirkende, oft heldenhafte Frau","base":null,"source":"community","verified_by":"moderator"}
+{"word":"männinnen","description":"Pl. von Männin","base":"männin","source":"community","verified_by":"moderator"}
 {"word":"männle","description":"Subst. (südd., alemann.) — kleiner Mann, Männchen","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"männlein","description":"Subst., n. — 1. Kleiner Mann; 2. scherzhaft für Mann, hauptsächlich in der Verbindung mit Weiblein","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"männleins","description":"Gen. Sg. von Männlein","base":"männlein","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
