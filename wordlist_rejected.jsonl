@@ -642,7 +642,6 @@
 {"word":"alternem","description":"Deklinierte Form von altern (z.B. einem alternem System)","base":"altern","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"alterner","description":"1. Person Sg. Konj. I von altern oder deklinierte Form (z.B. ein alterner Prozess)","base":"altern","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"altesse","description":"Subst. (veraltet/franz.) — Hoheit (Titel für Fürstentöchter)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"alti","description":null,"base":"alto","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"altmedien","description":"Pl. von Altmedium — traditionelle Medien wie Zeitung, Radio, Fernsehen","base":"altmedium","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"alto","description":"Subst. (Musik) — tiefe Frauen- oder Knabenstimmlage; Sängerin dieser Stimmlage","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"altos","description":"Subst. (Musik) — hohe männliche Stimmlage; Altist","base":"alt","corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -8520,8 +8519,6 @@
 {"word":"kocke","description":null,"base":"cooks","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"kocks","description":null,"base":"cooks","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"kocmann","description":null,"base":"cooks","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"kode","description":"Subst. — alternative Schreibweise von Code (Verschlüsselung, Regelwerk)","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"kodes","description":null,"base":"kode","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"koech","description":null,"base":null,"source":"community","verified_by":"moderator"}
 {"word":"koechle","description":null,"base":"koch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"koehl","description":null,"base":"kohl","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
