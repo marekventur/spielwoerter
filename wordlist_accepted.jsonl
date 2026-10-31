@@ -23472,7 +23472,6 @@
 {"word":"avocado","description":"Subst. — birnenförmige, grüne Frucht mit großem Kern","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"avocados","description":"Pl. von Avocado (alternative Pluralform)","base":"avocado","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"avocadoöl","description":"Subst. — aus Avocados gepresstes Pflanzenöl","base":null,"corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"avocet","description":"Subst. (Ornith.) — Watvogel mit aufwärts gebogenem Schnabel; Säbelschnäbler","base":null,"corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"avokado","description":"Subst. (selten) — alternative Schreibweise für Avocado","base":"avocado","corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"avulsion","description":"Subst. (Med.) — das Abreißen, die gewaltsame Abtrennung eines Körperteils","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"award","description":"Subst., m. — Von einer Jury vergebene Auszeichnung","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -50818,7 +50817,6 @@
 {"word":"douglasien","description":"Plural von Douglasie","base":"douglasie","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"dourine","description":"Subst. (fachspr.) — Geschlechtskrankheit bei Pferden","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"dourinen","description":null,"base":"dourine","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"douve","description":"Subst. (f.) — 1. Wassergraben, Teich; 2. Leberegel (Parasit)","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"dowel","description":"Subst. (m.) — Holzdübel, Zapfen (aus dem Englischen entlehnt)","base":null,"corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"down","description":"Adj. (ugs.) — niedergeschlagen, deprimiert (aus dem Englischen entlehnt)","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"downer","description":"Subst. (ugs.) — deprimierendes Ereignis; Beruhigungsmittel","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -70197,6 +70195,8 @@
 {"word":"ferkle","description":null,"base":"ferkel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"ferm","description":"Adj. (österr.) — sicher, sattelfest; firm","base":null,"source":"community","verified_by":"moderator"}
 {"word":"fermata","description":"Subst. (Musik) — Haltezeichen, Pause","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"fermate","description":"Subst., f. — musikalisches Zeichen, welches eine Note oder eine Pause beliebig verlängert","base":null,"source":"community","verified_by":"moderator"}
+{"word":"fermaten","description":"Pl. von Fermate","base":"fermate","source":"community","verified_by":"moderator"}
 {"word":"ferme","description":"Subst. f. — Bezeichnung für einen französischen Bauernhof","base":null,"source":"community","verified_by":"moderator"}
 {"word":"fermem","description":"Dat. Sg. mask./neutr. von ferm","base":"ferm","source":"community","verified_by":"moderator"}
 {"word":"fermen","description":"Pl. von Ferme","base":"ferme","source":"community","verified_by":"moderator"}
@@ -101116,13 +101116,23 @@
 {"word":"herrsche","description":"Verb — 1./3. Person Sg. Konj. I oder Imperativ Sg. von herrschen","base":"herrschen","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"herrschen","description":"Verb — die Macht, Kontrolle ausüben; vorherrschend sein","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"herrschend","description":"Partizip I von herrschen","base":"herrschen","source":"morphology","verified_by":"wiktionary-de"}
+{"word":"herrschende","description":"dekl. Part. I von herrschen","base":"herrschen","source":"community","verified_by":"moderator"}
+{"word":"herrschendem","description":"dekl. Part. I von herrschen","base":"herrschen","source":"community","verified_by":"moderator"}
+{"word":"herrschenden","description":"dekl. Part. I von herrschen","base":"herrschen","source":"community","verified_by":"moderator"}
+{"word":"herrschender","description":"dekl. Part. I von herrschen","base":"herrschen","source":"community","verified_by":"moderator"}
+{"word":"herrschendes","description":"dekl. Part. I von herrschen","base":"herrschen","source":"community","verified_by":"moderator"}
+{"word":"herrschens","description":"Genitiv des substantivierten Infinitivs von herrschen","base":"herrschen","source":"community","verified_by":"moderator"}
 {"word":"herrscher","description":"Subst. — Person, die herrscht; Monarch, Machthaber","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"herrschern","description":"Dativ Plural von Herrscher","base":"herrscher","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"herrschers","description":"Genitiv Singular von Herrscher","base":"herrscher","source":"morphology","verified_by":"wiktionary-de"}
+{"word":"herrschest","description":"Konj. I, 2. Pers. Sg. von herrschen","base":"herrschen","source":"community","verified_by":"moderator"}
 {"word":"herrschet","description":"Verb — 2. Person Plural Konjunktiv I von herrschen","base":"herrschen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"herrschst","description":"Verb — 2. Person Singular Indikativ Präsens von herrschen","base":"herrschen","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"herrscht","description":"Verb — 3. Person Singular Indikativ Präsens von herrschen","base":"herrschen","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"herrschte","description":"Verb — 1./3. Person Singular Präteritum von herrschen","base":"herrschen","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"herrschten","description":"Prät. Pl. von herrschen","base":"herrschen","source":"community","verified_by":"moderator"}
+{"word":"herrschtest","description":"2. Pers. Sg. Prät. von herrschen","base":"herrschen","source":"community","verified_by":"moderator"}
+{"word":"herrschtet","description":"2. Pers. Pl. Prät. von herrschen","base":"herrschen","source":"community","verified_by":"moderator"}
 {"word":"herrufe","description":"1. Person Sg. Präsens oder Konjunktiv I von herrufen","base":"herrufen","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"herrufen","description":null,"base":"herrufe","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"herrufend","description":null,"base":"herrufe","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -112585,8 +112595,6 @@
 {"word":"jüdischen","description":"Deklinierte Form von jüdisch (Dat. Pl., Gen. Pl., schwache Deklination)","base":"jüdisch","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"jüdischer","description":"Deklinierte Form von jüdisch (Nom. Sg. Mask., Gen./Dat. Sg. Fem., Gen. Pl.)","base":"jüdisch","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"jüdisches","description":"Deklinierte Form von jüdisch (Nom./Akk. Sg. Neut.)","base":"jüdisch","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"jüdith","description":null,"base":"judit","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"jüdiths","description":null,"base":"jütte","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"jüdle","description":null,"base":"jüdeln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"jülicher","description":"Subst. — Einwohner der Stadt Jülich oder der Region Jülich","base":null,"corpus_sources":["hunspell","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"jülichern","description":"Dativ Plural von Jülicher","base":"jülicher","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
