@@ -28436,6 +28436,11 @@
 {"word":"behebungen","description":"Plural von Behebung","base":"behebung","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"beheimat","description":"Verb — 3. Person Singular Indikativ Präsens von beheimaten","base":"beheimaten","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"beheimate","description":null,"base":"beheimat","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"beheimaten","description":"Verb — jemandem oder etwas eine Heimat geben, ansiedeln; meist im Passiv: beheimatet sein","base":null,"source":"community","verified_by":"moderator"}
+{"word":"beheimatend","description":"Part. I von beheimaten","base":"beheimaten","source":"community","verified_by":"moderator"}
+{"word":"beheimatet","description":"3. Pers. Sg. Präs. / Part. II von beheimaten","base":"beheimaten","source":"community","verified_by":"moderator"}
+{"word":"beheimatete","description":"Prät. von beheimaten","base":"beheimaten","source":"community","verified_by":"moderator"}
+{"word":"beheimateten","description":"Prät. Pl. von beheimaten","base":"beheimaten","source":"community","verified_by":"moderator"}
 {"word":"beheiz","description":"Imperativ Singular von beheizen","base":"beheizen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"beheizbar","description":"Adj. — so beschaffen, dass es beheizt werden kann","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"beheizbare","description":"deklinierte Form von beheizbar","base":"beheizbar","source":"morphology","verified_by":"wiktionary-de"}
@@ -48766,7 +48771,6 @@
 {"word":"diamantnen","description":"deklinierte Form von diamanten","base":"diamanten","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"diamantner","description":"deklinierte Form von diamanten","base":"diamanten","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"diamantnes","description":"deklinierte Form von diamanten","base":"diamanten","source":"morphology","verified_by":"wiktionary-de"}
-{"word":"diamants","description":"Genitiv Singular von Diamant","base":"diamant","corpus_sources":["wiktionary","gutenberg"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"diamat","description":"Subst. (Kurzform) — dialektischer Materialismus","base":null,"corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"diameter","description":"Subst. — Durchmesser","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"diameters","description":"Pl. von Diameter","base":"diameter","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -136010,7 +136014,6 @@
 {"word":"mannas","description":null,"base":"manna","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"mannbar","description":"Adj. — geschlechtsreif (bei Frauen)","base":null,"corpus_sources":["hunspell","wikipedia","gutenberg"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mannbare","description":"Deklinierte Form von mannbar (z.B. Nominativ/Akkusativ Femininum Singular)","base":"mannbar","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"mannchen","description":"Subst. — kleine männliche Figur, Männlein; auch veraltete Schreibweise von Männchen","base":null,"corpus_sources":["wikipedia","kaikki_forms","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"manne","description":"Subst. (ugs., norddt.) — Mann, Kerl","base":"mann","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz","ne_contracted"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mannen","description":"Plural von Mann","base":"mann","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mannend","description":"Partizip I von 'mannen' (veraltet für: Leute aufbieten, Mannschaft stellen)","base":"mannen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -188521,7 +188524,6 @@
 {"word":"stadlmair","description":null,"base":"stadel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"stadlmann","description":null,"base":"stadel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"stadlmayr","description":null,"base":"stadel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"stadlmeir","description":null,"base":"stadel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"stadlmeyr","description":null,"base":"stadel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"stadln","description":"Verb (bair./österr.) — im Stall unterbringen, einstallen","base":"stadeln","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"stadt","description":"Subst. (f.) — größere, geschlossene Siedlung, Gemeinwesen","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
