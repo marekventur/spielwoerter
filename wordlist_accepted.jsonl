@@ -15773,20 +15773,26 @@
 {"word":"aperitifen","description":"Dativ Plural von Aperitif","base":"aperitif","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"aperitifs","description":"Pl. von Aperitif","base":"aperitif","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"aperitivo","description":"Subst. (ital.) — alkoholisches Getränk vor dem Essen","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"apern","description":"Verb (alpin) — schneefrei werden","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"apern","description":"Verb — schneefrei werden","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"apernd","description":"Partizip I von apern","base":"apern","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"apernde","description":"Deklinierte Form des Partizips I von apern","base":"apern","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"aperndem","description":"Deklinierte Form des Partizips I von apern","base":"apern","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"apernden","description":"Deklinierte Form des Partizips I von apern","base":"apern","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"apernder","description":"Deklinierte Form des Partizips I von apern","base":"apern","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"aperndes","description":"dekl. Part. I von apern","base":"apern","source":"community","verified_by":"moderator"}
+{"word":"aperns","description":"Genitiv des subst. Infinitivs von apern","base":"apern","source":"community","verified_by":"moderator"}
 {"word":"aperol","description":"Subst., m. — orangeroter italienischer Bitterlikör (Markenname), oft als Aperitif getrunken, https://www.duden.de/rechtschreibung/Aperol","base":null,"source":"community","verified_by":"moderator"}
 {"word":"aperols","description":"Gen. Sg. und Pl. von Aperol","base":"aperol","source":"community","verified_by":"moderator"}
+{"word":"aperst","description":"2. Pers. Sg. Präs. von apern","base":"apern","source":"community","verified_by":"moderator"}
 {"word":"aperste","description":null,"base":"aper","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"apersten","description":null,"base":"aper","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"aperster","description":null,"base":"aper","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"aperstes","description":null,"base":"aper","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"apert","description":null,"base":"apern","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"aperte","description":null,"base":"apern","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"aperten","description":"1. & 3. Pers. Pl. Prät. von apern","base":"apern","source":"community","verified_by":"moderator"}
+{"word":"apertest","description":"2. Pers. Sg. Prät. von apern","base":"apern","source":"community","verified_by":"moderator"}
+{"word":"apertet","description":"2. Pers. Pl. Prät. von apern","base":"apern","source":"community","verified_by":"moderator"}
 {"word":"apex","description":"Subst. (m.) — Spitze, Gipfel, Scheitelpunkt (bes. in Anatomie, Mathematik)","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"apfel","description":"Subst. — rundliche, essbare Frucht des Apfelbaums","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"apfelbaum","description":"Subst. — Baum, der Äpfel als Früchte trägt","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -16073,6 +16079,11 @@
 {"word":"appunto","description":"Interjektion (ital.) — genau, eben; als Stichwort verzeichnet","base":null,"corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"apraxie","description":"Subst. (Med.) — Unfähigkeit, erlernte Bewegungen auszuführen","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"apraxien","description":"Pl. von Apraxie","base":"apraxie","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"apre","description":"Dekl. von aper (schneefrei)","base":"aper","source":"community","verified_by":"moderator"}
+{"word":"aprem","description":"Dekl. von aper (schneefrei)","base":"aper","source":"community","verified_by":"moderator"}
+{"word":"apren","description":"Dekl. von aper (schneefrei)","base":"aper","source":"community","verified_by":"moderator"}
+{"word":"aprer","description":"Dekl. von aper (schneefrei)","base":"aper","source":"community","verified_by":"moderator"}
+{"word":"apres","description":"Dekl. von aper (schneefrei)","base":"aper","source":"community","verified_by":"moderator"}
 {"word":"aprikose","description":"Subst. — Frucht des Aprikosenbaums","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"aprikosen","description":"Pl. von Aprikose","base":"aprikose","corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"april","description":"Subst. — vierter Monat des Jahres","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -73996,8 +74007,6 @@
 {"word":"fluviatiler","description":"deklinierte Form von fluviatil","base":"fluviatil","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"fluviatiles","description":"deklinierte Form von fluviatil","base":"fluviatil","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"fluvisol","description":"Subst., m. (Bodenkunde) — Bodentyp aus fluvialen Ablagerungen","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"fluweel","description":"Subst. (niederl./veraltet) — Samt","base":null,"corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"fluwelen","description":"Adj. — aus Samt; samten","base":"fluweel","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"flux","description":"Subst. — Fluss, Strömung; (Physik) Flussdichte","base":null,"corpus_sources":["wikipedia","kaikki_forms","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fluxus","description":"Subst. — internationale Künstlerbewegung der 1960er Jahre","base":null,"corpus_sources":["hunspell","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fluyt","description":"Subst. (hist., naut.) — niederländischer Frachtschiffstyp des 16./17. Jh","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -79875,6 +79884,9 @@
 {"word":"geapert","description":"Partizip II von apern (schweiz. für tauen/schmelzen)","base":"apern","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geaperte","description":"Deklinierte Form des Partizips II von apern","base":"apern","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geapertem","description":"Deklinierte Form (Dativ) des Partizips II von apern","base":"apern","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"geaperten","description":"dekl. Part. II von apern","base":"apern","source":"community","verified_by":"moderator"}
+{"word":"geaperter","description":"dekl. Part. II von apern","base":"apern","source":"community","verified_by":"moderator"}
+{"word":"geapertes","description":"dekl. Part. II von apern","base":"apern","source":"community","verified_by":"moderator"}
 {"word":"gearbeitet","description":"Partizip II von arbeiten","base":"arbeiten","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"geargwöhnt","description":"Partizip II von argwöhnen","base":"argwöhnen","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"geartet","description":"Partizip II von arten (sich entwickeln, ausprägen)","base":"arten","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -150783,7 +150795,6 @@
 {"word":"ockergelbes","description":"deklinierte Form von ockergelb","base":"ockergelb","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"ockern","description":"Verb — mit Ocker färben oder malen","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ockers","description":"Genitiv Singular von Ocker","base":"ocker","corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"ockert","description":"Adj. (ugs., regional) — geizig, unfreundlich","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"octagon","description":"Subst. — Achteck","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"octan","description":"Subst. n. — gesättigter Kohlenwasserstoff","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"octane","description":null,"base":"octan","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -222361,8 +222372,6 @@
 {"word":"weeds","description":"Gen. Sg. von Weed (Marihuana)","base":"weed","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"weekend","description":"Subst. (Neutr.) — Lehnwort für Wochenende","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"weekends","description":"Pl. von Weekend","base":"weekend","corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"weerman","description":"Subst. (Mask.) — umgangssprachlich für Meteorologe, Wetteransager","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"weest","description":"Verb (regional, veraltet) — 2. Person Singular Indikativ Präsens von 'weesen' (weisen/befehlen)","base":"weisen","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"weft","description":"Subst., n. — (Textilw.) Schussgarn aus harter Cheviotwolle","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"wefte","description":"Dat Sg. & Nom. Pl. von Weft (Schussgarn)","base":"weft","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"weften","description":"Dat. Pl. von Weft (Schussgarn)","base":"weft","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
