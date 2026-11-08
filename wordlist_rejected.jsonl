@@ -3269,7 +3269,10 @@
 {"word":"decanal","description":"Adj. — zum Dekan gehörend, den Dekan betreffend","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"decanals","description":null,"base":"decanal","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"decane","description":"Subst., Pl. — gesättigte Kohlenwasserstoffe (Chemie)","base":"decan","corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"decanen","description":"Dativ Plural von Decan (Chemie)","base":"decan","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"decans","description":null,"base":"decane","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"decanter","description":"Subst. (m.) — Karaffe zum Dekantieren von Wein","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"decanus","description":"Subst. (veraltet) — Dekan, Vorsteher eines Domkapitels","base":null,"corpus_sources":["wiktionary","gutenberg"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"deccan","description":null,"base":"dekan","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"deccans","description":null,"base":"dekan","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"deckelest","description":"Ungültige Beugungsform von deckeln: Verben auf -eln/-ern bilden die 2. Person nicht mit -est/-et.","base":"deckeln","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -3507,6 +3510,12 @@
 {"word":"dobra","description":"Subst. — Währungseinheit von São Tomé und Príncipe","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"docent","description":"Subst. (veraltet, geh.) — Lehrer, Dozent","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"dodde","description":null,"base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"dodecan","description":null,"base":null,"source":"community","verified_by":"moderator"}
+{"word":"dodecane","description":"Subst. (Chemie) — gesättigter Kohlenwasserstoff mit zwölf Kohlenstoffatomen","base":"dodecan","corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"dodecanen","description":"Dativ Plural von Dodecan","base":"dodecan","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"dodecanol","description":null,"base":null,"source":"community","verified_by":"moderator"}
+{"word":"dodecans","description":"Genitiv Singular von Dodecan","base":"dodecan","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"dodekan","description":"Subst. (Chemie) — alternative Schreibweise von Dodecan","base":"dodecan","corpus_sources":["wikipedia","kaikki_forms"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"doeg","description":"Interjektion (niederl./regional) — Abschiedsgruß","base":null,"corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"doei","description":"Interjektion (niederl./umgangssprachl.) — Abschiedsgruß","base":null,"corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"doenert","description":null,"base":null,"source":"community","verified_by":"moderator"}
@@ -3574,6 +3583,7 @@
 {"word":"dorje","description":null,"base":null,"source":"community","verified_by":"moderator"}
 {"word":"dornemann","description":null,"base":"dorn","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"dorner","description":null,"base":"dorn","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"dornlos","description":"Adj. — ohne Dornen","base":null,"corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"dorp","description":"Subst. (veraltet, regional) — Dorf","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"dorper","description":"Subst. — südafrikanische Schafrasse","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"dorso","description":"Subst. (Med., Anat.) — Rücken, Rückseite","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -4604,6 +4614,7 @@
 {"word":"feigls","description":null,"base":"feigel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"feigst","description":"Verb — 2. Person Sg. Präsens von feigen (umgangssprachlich: sich drücken)","base":"feigen","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"feigt","description":"Verb — 3. Person Sg. Präsens von feigen (umgangssprachlich: sich drücken)","base":"feigen","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"feils","description":"Subst. — Genitiv Sg. von feil (veraltet für Feile)","base":"feil","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"feinbier","description":"Subst. — hochwertiges, stark eingebrautes Bier","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"feindend","description":null,"base":"feind","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"feinend","description":"Partizip I von feinen (Verb — verfeinern, ausarbeiten)","base":"feinen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -5246,6 +5257,7 @@
 {"word":"fädlet","description":"Ungültige Beugungsform von fädeln: die verkürzte Stammform (e-Tilgung) ist nur in der 1. Person Singular und im Imperativ Singular zulässig.","base":"fädeln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"fähest","description":null,"base":"fähst","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"fähet","description":null,"base":"fähst","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"fähnr","description":null,"base":"fähnrich","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"fähr","description":"Verb — 1. Person Sg. Ind. Präs. von fahren (e-Tilgung nach Vokal erlaubt)","base":"fahren","corpus_sources":["hunspell","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fährd","description":null,"base":"fährde","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"fährdest","description":"Verb — 2. Person Sg. Konj. II von fahren","base":"fahren","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -6587,6 +6599,7 @@
 {"word":"harigs","description":"Deklinierte Form von harig (z.B. Genitiv Singular Neutrum)","base":"harig","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"haring","description":null,"base":"hering","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"haringer","description":null,"base":"hering","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"harira","description":null,"base":null,"source":"community","verified_by":"moderator"}
 {"word":"harks","description":null,"base":"hark","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"harle","description":"Subst. — veraltet für Narr, Possenreißer","base":null,"corpus_sources":["hunspell","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"harme","description":null,"base":"harm","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -7330,6 +7343,7 @@
 {"word":"hornener","description":"Genitiv Singular Femininum/Nominativ Plural Maskulinum des Adjektivs hornen","base":"hornen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hornenes","description":"Nominativ/Akkusativ Singular Neutrum des Adjektivs hornen","base":"hornen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"horner","description":"Verb — 1. Person Singular Präsens Indikativ von hornen; oder substantiviert: Pl. von Horn","base":"hornen","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"hornfluh","description":"Subst. (schweiz., Geol.) — steiler, felsiger Berggrat","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hornich","description":null,"base":"horn","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hornsegen","description":"Subst. (historisch) — Segensspruch zum Schutz des Viehs","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hosend","description":null,"base":"hose","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -8637,6 +8651,7 @@
 {"word":"koninck","description":null,"base":"könig","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"koninckx","description":null,"base":"könig","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"koning","description":null,"base":"könig","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"konk","description":"Adj. (ugs.) — pleite, zahlungsunfähig","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"konkani","description":null,"base":"kok","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"konkanis","description":null,"base":"kok","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"konne","description":null,"base":"keno","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -8725,6 +8740,7 @@
 {"word":"krauth","description":null,"base":"kraut","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"krauß","description":null,"base":"kraus","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"krauße","description":null,"base":"kraus","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"krax","description":"Subst. (landsch., bes. südd., österr.) — Kletterei, schwieriger Aufstieg; auch Rucksack","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kraxlest","description":"Ungültige Beugungsform von kraxeln: die verkürzte Stammform (e-Tilgung) ist nur in der 1. Person Singular und im Imperativ Singular zulässig.","base":"kraxeln","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kraxlet","description":"Ungültige Beugungsform von kraxeln: die verkürzte Stammform (e-Tilgung) ist nur in der 1. Person Singular und im Imperativ Singular zulässig.","base":"kraxeln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"krechting","description":null,"base":"kracht","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -8737,6 +8753,7 @@
 {"word":"kreissend","description":"Schweizer Schreibweise von kreißend; in der Liste gilt die Schreibung mit ß","base":"kreissen","corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"community","verified_by":"moderator"}
 {"word":"kreisst","description":"Schweizer Schreibweise von kreißt; in der Liste gilt die Schreibung mit ß","base":"kreisen","corpus_sources":["gutenberg","kaikki_forms"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"community","verified_by":"moderator"}
 {"word":"kreißl","description":null,"base":"kraus","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"krejcar","description":null,"base":null,"source":"community","verified_by":"moderator"}
 {"word":"kreme","description":"Subst. (veraltet, landschaftl.) — alternative Schreibweise für Creme","base":"creme","corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kremer","description":"Subst. (veraltet/landschaftl.) — Krämer, Händler","base":null,"corpus_sources":["wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kremere","description":"Dativ Singular von Kremer (veraltet/landschaftl.)","base":"kremer","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -9156,6 +9173,7 @@
 {"word":"legging","description":"Subst. (Pl. Leggings) — enganliegende, elastische Hose","base":null,"corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"leggst","description":"2. Person Singular Indikativ Präsens von legen","base":"legen","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"legs","description":"Pl. von Leg (engl. Lehnwort) — Etappe, Runde (im Sport)","base":"leg","corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"legwan","description":"Subst. (veraltet/landschaftl.) — Leguan, Echse","base":"leguan","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"leher","description":"Subst. — Einwohner von Lehe (Ortsteil)","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"lehesten","description":"Superlativ von leh (veraltet für 'nah'); veraltete Form von 'nächst'","base":"leh","corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"lehestens","description":"Adverb — Superlativform von leh (veraltet für 'nah'); früher für 'nächstens'","base":"leh","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -9749,6 +9767,7 @@
 {"word":"manglet","description":"Ungültige Beugungsform von mangeln: die verkürzte Stammform (e-Tilgung) ist nur in der 1. Person Singular und im Imperativ Singular zulässig.","base":"mangeln","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mani","description":"Subst. (ugs.) — Kurzform für Maniküre","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mania","description":"Subst. — krankhafte Hochstimmung; übertriebene Begeisterung für etwas","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"manila","description":"Subst. — starkes, gelbliches Papier; auch Hauptstadt der Philippinen (Eigenname, aber auch Gattungsbegriff)","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"manito","description":"Subst. (religiös) — Geist, übernatürliche Kraft in der Religion nordamerikanischer Indianer","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"manitou","description":"Subst. (religiös) — Geist, Gottheit in der Religion nordamerikanischer Indianer","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"manitous","description":"Pl. von Manitou","base":"manitou","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -9831,6 +9850,7 @@
 {"word":"mario","description":null,"base":"marian","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"marios","description":null,"base":"marian","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"maris","description":null,"base":"marian","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"marital","description":"Adj. — die Ehe betreffend, ehelich","base":null,"corpus_sources":["wiktionary","gutenberg"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"marius","description":null,"base":"marian","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"marjan","description":null,"base":"marian","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"marjana","description":null,"base":"marian","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -10261,6 +10281,7 @@
 {"word":"minidorf","description":"Subst. (ugs.) — sehr kleines Dorf","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"minion","description":"Subst. — (scherzh., abwertend) unterwürfiger Gefolgsmann, Handlanger","base":null,"corpus_sources":["hunspell","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"minnan","description":null,"base":"chi","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"minner","description":null,"base":"minder","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"minnes","description":"Genitiv Singular von Minne — mittelalterliche Liebesdichtung","base":"minne","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"minnig","description":"Adj. (veraltet, poet.) — liebevoll, zärtlich","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"minnige","description":"Deklinierte Form von minnig (z.B. Nominativ/Akkusativ Femininum Singular)","base":"minnig","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -10426,12 +10447,15 @@
 {"word":"mufflet","description":"Ungültige Beugungsform von muffeln: die verkürzte Stammform (e-Tilgung) ist nur in der 1. Person Singular und im Imperativ Singular zulässig.","base":"muffeln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"mugerl","description":null,"base":"mugeln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"mugl","description":null,"base":"mugeln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"muguet","description":"Subst. (frz. Lehnwort) — Maiglöckchen","base":null,"corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"muguets","description":"Plural von muguet","base":"muguet","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"muhler","description":null,"base":"mullers","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"muhlert","description":null,"base":"mullers","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"muhlhardt","description":null,"base":"mollet","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"muhsal","description":"Subst. — Mühsal, Beschwerde","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"muhsam","description":"Adj. — mühsam, beschwerlich","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mukke","description":"Subst. (ugs., jugendsprachl.) — Musik, Party","base":null,"corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"mulat","description":"Subst. (veraltend) — Person mit einem weißen und einem schwarzen Elternteil","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mulders","description":null,"base":"moller","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"muler","description":null,"base":"mollet","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"mulerius","description":null,"base":"moller","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -10717,6 +10741,7 @@
 {"word":"nark","description":"Subst. (ugs.) — Kurzform für Narkose","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"narres","description":"Genitiv Singular von Narr (veraltete/landschaftliche Form)","base":"narr","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"narri","description":"Subst. (südd., alemann., Fasnacht) — Narr","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"nasauer","description":null,"base":"nassauer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nasensteg","description":"Subst. — oberer Teil der Nasenscheidewand zwischen den Nasenlöchern","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nasion","description":"Subst. (Anat.) — vorderster Punkt der Sutura nasofrontalis","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nassig","description":"Adj. (ugs., regional) — feucht, nass","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -11074,6 +11099,7 @@
 {"word":"nülle","description":null,"base":"nille","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nüni","description":null,"base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"nürz","description":null,"base":"nerz","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"nüssli","description":null,"base":null,"source":"community","verified_by":"moderator"}
 {"word":"oaks","description":"Pl. von Oak — englische Bezeichnung für Eiche, als Lehnwort im Deutschen (z.B. in Komposita) belegt","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"obas","description":null,"base":"oba","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"obelia","description":"Subst. (f.) — Gattung der Hydrozoen (Nesseltiere)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -11094,6 +11120,7 @@
 {"word":"obsen","description":null,"base":"obst","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"obsend","description":null,"base":"obst","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"obste","description":null,"base":"obst","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"obstland","description":"Subst. — Gebiet, in dem Obst angebaut wird","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"obtsm","description":null,"base":"ob","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"ocart","description":"Ordenskürzel der Kartäuser","base":"ordo cartusiensis","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"ocelot","description":"Subst. — mittelamerikanische Raubkatze","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -11184,6 +11211,7 @@
 {"word":"okien","description":"Genitiv Plural von Oko (polnische Währungseinheit)","base":"oko","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"okkenga","description":null,"base":"ode","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"okker","description":"Subst. — Ocker (gelbliches bis bräunliches Farbpigment)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"oktet","description":"Subst. (Musik) — Gruppe von acht Sängern oder Instrumentalisten; Achtklang","base":"oktett","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"olden","description":"Adj. — veraltet, alt, früher","base":null,"corpus_sources":["wikipedia","gutenberg","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"oliger","description":"Adj. — Komparativ von olig; ölhaltiger, mehr Öl enthaltend","base":"olig","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"oliver","description":null,"base":"olivern","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -11255,6 +11283,8 @@
 {"word":"oromo","description":null,"base":"om","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"oromos","description":null,"base":"om","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"orseln","description":"Verb (landsch., veraltet) — murmeln, rauschen","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"ortal","description":"Subst. (österr., sonst veraltet) — Ort, Stelle, Platz","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"ortale","description":"Deklinierte Form von Ortal (z.B. dat./akk. Sg. oder nom./akk./dat. Pl.)","base":"ortal","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ortsn","description":null,"base":"ortsname","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"ortsrande","description":"Dativ Singular von Ortsrand","base":"ortsrand","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"orujo","description":"Subst. — spanischer Tresterbrand (Schnaps)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -11419,11 +11449,13 @@
 {"word":"pegam","description":null,"base":"böhm","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"pegelen","description":"Verb — den Wasserstand mit einem Pegel messen","base":"pegeln","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"pehr","description":null,"base":"peer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"peifer","description":null,"base":"pfeifer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"peille","description":"1. Person Singular Konjunktiv I von peilen","base":"peilen","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"peillen","description":"Verb — (selten/veraltet) peilen, ausloten, messen","base":"peilen","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"peillet","description":"Verb — 3. Person Sg. Konj. II von peilen (selten/veraltet)","base":"peilen","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"peine","description":"Subst. (veraltet) — Qual, Leid, Kummer","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"peines","description":null,"base":"peine","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"peiper","description":null,"base":"pfeifer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"pekig","description":null,"base":"pekigstem","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"pekige","description":null,"base":"pekigstem","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"pekigem","description":null,"base":"pekigstem","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -11517,7 +11549,10 @@
 {"word":"pfarr","description":null,"base":"gepfarrt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"pfarren","description":null,"base":"gepfarrt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"pfarrend","description":null,"base":"gepfarrt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"pfeiffers","description":null,"base":"pfeifer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"pfeiffert","description":null,"base":"pfeifer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"pfriemlet","description":"Ungültige Beugungsform von pfriemeln: die verkürzte Stammform (e-Tilgung) ist nur in der 1. Person Singular und im Imperativ Singular zulässig.","base":"pfriemeln","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"pfyffer","description":null,"base":"pfeifer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"pfärren","description":null,"base":"gepfarrt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"phew","description":"Interjektion — Ausdruck der Erleichterung oder Erschöpfung","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"phil","description":null,"base":"fips","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -11537,6 +11572,8 @@
 {"word":"pics","description":"Pl. von Pic — umgangssprachlich für Bild, Foto","base":"pic","corpus_sources":["wikipedia","gutenberg","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"pidda","description":null,"base":"peer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"pidder","description":null,"base":"peer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"piefer","description":null,"base":"pfeifer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"piepereit","description":null,"base":"pfeifer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"pieslest","description":"Ungültige Beugungsform von pieseln: die verkürzte Stammform (e-Tilgung) ist nur in der 1. Person Singular und im Imperativ Singular zulässig.","base":"pieseln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"pieslet","description":"Ungültige Beugungsform von pieseln: die verkürzte Stammform (e-Tilgung) ist nur in der 1. Person Singular und im Imperativ Singular zulässig.","base":"pieseln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"piet","description":null,"base":"peer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -11963,6 +12000,7 @@
 {"word":"reichl","description":null,"base":"rau","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"reichle","description":null,"base":"rau","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"reichlin","description":null,"base":"rau","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"reichsnah","description":"Adj. — dem (Deutschen) Reich nahestehend","base":null,"corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"reiern","description":"Verb — umgangssprachlich für sich im Kreis drehen, torkeln","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"reifern","description":"Deklinierte Form von reif (Komparativ)","base":"reif","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"reifers","description":"Genitiv Singular Mask./Neut. des Komparativs von reif","base":"reif","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -12040,6 +12078,7 @@
 {"word":"rekelet","description":"Ungültige Beugungsform von rekeln: Verben auf -eln/-ern bilden die 2. Person nicht mit -est/-et.","base":"rekeln","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"reklest","description":"Ungültige Beugungsform von rekeln: die verkürzte Stammform (e-Tilgung) ist nur in der 1. Person Singular und im Imperativ Singular zulässig.","base":"rekeln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"reklet","description":"Ungültige Beugungsform von rekeln: die verkürzte Stammform (e-Tilgung) ist nur in der 1. Person Singular und im Imperativ Singular zulässig.","base":"rekeln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"rekluse","description":"Subst., f. — Einsiedlerin, Klausnerin","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"rektus","description":"Subst. (Anat.) — Kurzform für Musculus rectus (gerader Muskel)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"relict","description":"Subst. (geol., biol.) — Überrest, Überbleibsel; zurückgebliebene Art","base":null,"corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"reläx","description":"Imperativ Sg. von relaxen (ugs. für entspannen)","base":"relaxen","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -12214,6 +12253,7 @@
 {"word":"riker","description":null,"base":"rüger","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"rikkes","description":null,"base":"heini","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"riksdag","description":"Subst. (m.) — historisches schwedisches Parlament","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"rilles","description":"Genitiv Singular von Rille","base":"rille","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"rima","description":"Subst. (anat.) — Spalt, Furche (z.B. Rima glottidis, Stimmritze)","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"rimlos","description":"Adj. — ohne Rand oder Kante","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"rimpel","description":"Subst. (ugs., regional) — kleine Falte, Runzel","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -12407,6 +12447,7 @@
 {"word":"rousses","description":null,"base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"roussi","description":null,"base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"rouvre","description":"Subst. — Traubeneiche (Quercus petraea)","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"rowing","description":"Subst. (Sport) — das Rudern (engl. Lehnwort)","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"roßien","description":null,"base":"rosin","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"roßin","description":null,"base":"rosin","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"rubblest","description":"Ungültige Beugungsform von rubbeln: die verkürzte Stammform (e-Tilgung) ist nur in der 1. Person Singular und im Imperativ Singular zulässig.","base":"rubbeln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -12708,6 +12749,8 @@
 {"word":"sandurs","description":"Pl. von Sandur","base":"sandur","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"saner","description":"Adj. — Komparativ von san; gesünder, heiler","base":"san","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sanfre","description":"Deklinierte Form von sanft (z.B. Nominativ/Akkusativ Femininum Singular, Nominativ/Akkusativ Plural)","base":"sanft","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"sango","description":null,"base":"sag","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"sangos","description":null,"base":"sag","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"sanja","description":null,"base":"sani","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"sanjak","description":null,"base":null,"source":"community","verified_by":"moderator"}
 {"word":"sanke","description":"Verb — 1./3. Person Sg. Prät. von sinken","base":"sinken","corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -12758,6 +12801,8 @@
 {"word":"sauhaut","description":"Subst. — Haut eines Schweins, Schweinsleder","base":null,"corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"saumer","description":"Subst. — Lastträger, Träger von Saumtieren; Grenzbewohner","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"saur","description":null,"base":"sauer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"sausel","description":"Verb — Imperativ Singular von sauseln (leise sausen)","base":"sauseln","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"sausele","description":"Verb — 1. Person Singular Konjunktiv I von sauseln","base":"sauseln","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sauter","description":"Subst. (ugs., veraltend) — Säufer, Trinker","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sauters","description":null,"base":"sauter","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"sauther","description":null,"base":"sauter","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -12925,6 +12970,7 @@
 {"word":"schuehles","description":null,"base":"schuh","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"schuetze","description":null,"base":"schütz","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"schuhl","description":null,"base":"schul","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"schuit","description":"Subst. (niederl., regional) — flaches Lastschiff, Prahm","base":null,"corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"schulds","description":null,"base":"schuld","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"schuldt","description":null,"base":"schuld","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"schummlet","description":"Ungültige Beugungsform von schummeln: die verkürzte Stammform (e-Tilgung) ist nur in der 1. Person Singular und im Imperativ Singular zulässig.","base":"schummeln","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -12962,6 +13008,7 @@
 {"word":"schüßle","description":null,"base":"schüssel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"schüßler","description":null,"base":"schüssel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"schüßling","description":null,"base":"schüssel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"schüür","description":null,"base":"scheuer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"sciame","description":"Subst. (ital., schweiz.) — Schwarm (z.B. Bienenschwarm)","base":null,"corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sconto","description":"Subst. (Wirtschaft) — Skonto, Preisnachlass","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"scored","description":"Partizip II / Präteritum von scoren (engl. Lehnwort) — Punkte erzielen","base":"scoren","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -13686,6 +13733,7 @@
 {"word":"stingl","description":null,"base":"stengel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"stingle","description":null,"base":"stengel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"stings","description":"3. Person Sg. Präsens von stingen (selten/veraltet) — stechen, piksen","base":"stingen","corpus_sources":["wiktionary","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"stipe","description":"Subst. (Bot.) — Stiel eines Pilzes oder einer Alge","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"stir","description":null,"base":"stier","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"stiren","description":null,"base":"stier","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"stirl","description":null,"base":"stier","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -14239,6 +14287,7 @@
 {"word":"thongs","description":"Pl. von Thong — umgangssprachlich für String-Tanga","base":"thong","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"those","description":"Demonstrativpronomen — jene, die Genannte","base":null,"corpus_sources":["wiktionary","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"thoth","description":"Subst. — ägyptischer Gott der Weisheit und Schrift","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"thrash","description":"Verb (engl. Lehnwort) — heftig schlagen; Musikstil","base":"thrashen","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"threschen","description":"Verb — Getreide dreschen; veraltete/landschaftliche Schreibweise","base":"dreschen","corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"thue","description":"1. Person Singular Konjunktiv I von tun","base":"tun","corpus_sources":["wiktionary","wikipedia","gutenberg"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"thun","description":"Verb (veraltet/geh.) — tun, handeln","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -14419,6 +14468,7 @@
 {"word":"treuetest","description":"Verb — 2. Person Singular Präteritum Konjunktiv II von treuen","base":"treuen","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"treus","description":"Subst. — Genitiv Singular von Treu (veraltet für Treue)","base":"treu","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"triben","description":"Verb — 1. Person Plural Konjunktiv I von treiben","base":"treiben","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"tridecane","description":null,"base":null,"source":"community","verified_by":"moderator"}
 {"word":"triens","description":"Subst. (m.) — antike römische Münze (ein Drittel des As)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"trier","description":"Verb — etwas sorgfältig prüfen, untersuchen","base":"trieren","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"triers","description":"Genitiv Singular von Trier (Stadt)","base":"trier","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -14445,6 +14495,8 @@
 {"word":"trixen","description":"Verb (umgangssprachl.) — betrügen, mogeln","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"trixi","description":null,"base":"patze","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"trixie","description":null,"base":"patze","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"troche","description":"Subst. (veraltet/med.) — Arzneiform, Pastille","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"trochlea","description":null,"base":null,"source":"community","verified_by":"moderator"}
 {"word":"troge","description":"Dativ Singular von Trog","base":"trog","corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"trojan","description":"Subst. — Einwohner des antiken Troja; auch für Schadsoftware","base":"trojaner","corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"trojane","description":"Subst. — weibliche Form von Trojaner","base":"trojaner","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -14755,6 +14807,8 @@
 {"word":"unmuthig","description":"Adj. (veraltet) — missmutig, verdrießlich","base":null,"corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"unort","description":"Subst., m. — Ort, der als ungeeignet, unwirtlich oder gefährlich empfunden wird","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"unorts","description":"Genitiv Singular von Unort","base":"unort","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"unrath","description":"Subst. (m.) — veraltete Schreibweise von Unrat","base":"unrat","corpus_sources":["wikipedia","gutenberg","kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"unrathe","description":"Dativ Singular von Unrat (veraltet/gehoben) mit Dativ-e","base":"unrat","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"unrau","description":null,"base":"unruhe","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"unreich","description":"Adj. — nicht reich, arm; veraltet/gehoben","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"unru","description":null,"base":"unruhe","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -15732,6 +15786,7 @@
 {"word":"zelg","description":"Subst. (schweiz., süddt.) — Brachland, unbestelltes Feld","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"zender","description":"Subst. (m.) — Sender, Gerät zur Aussendung von Signalen","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"zenders","description":"Genitiv Singular oder Nominativ Plural von Zender","base":"zender","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"zentel","description":"Subst. (veraltet) — hundertster Teil; ein Prozent","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"zentil","description":"Subst., n. — (Statistik) Perzentil; Wert, der eine nach Größe geordnete Verteilung in hundert gleich große Teile gliedert","base":null,"source":"community","verified_by":"moderator"}
 {"word":"zenzi","description":null,"base":"francisca","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"zer","description":"Verb — Imperativ von zerren (veraltete Kurzform; auch: Präfix-Fragment)","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"curated","verified_by":"manual"}
@@ -15748,6 +15803,7 @@
 {"word":"zerreiss","description":"Schweizer Schreibweise von zerreiß; in der Liste gilt die Schreibung mit ß","base":"zerreißen","corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"community","verified_by":"moderator"}
 {"word":"zerreisse","description":"Schweizer Schreibweise von zerreiße; in der Liste gilt die Schreibung mit ß","base":"zerreißen","corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"community","verified_by":"moderator"}
 {"word":"zerreisst","description":"Schweizer Schreibweise von zerreißt; in der Liste gilt die Schreibung mit ß","base":"zerreißen","corpus_sources":["gutenberg","kaikki_forms","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"community","verified_by":"moderator"}
+{"word":"zerres","description":"Verb — 2. Person Singular Konjunktiv I von zerren","base":"zerren","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"zerstiess","description":"Schweizer Schreibweise von zerstieß; in der Liste gilt die Schreibung mit ß","base":"zerstießen","corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"community","verified_by":"moderator"}
 {"word":"zerstoss","description":"Schweizer Schreibweise von zerstoß; in der Liste gilt die Schreibung mit ß","base":"zerstossen","corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"community","verified_by":"moderator"}
 {"word":"zerstosse","description":"Schweizer Schreibweise von zerstoße; in der Liste gilt die Schreibung mit ß","base":"zerstossen","corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"community","verified_by":"moderator"}
