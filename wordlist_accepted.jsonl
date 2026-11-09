@@ -44345,7 +44345,6 @@
 {"word":"chics","description":"Pl. von chic; elegante, modische Dinge/Personen","base":"chic","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"chief","description":"Adj. (veraltet/geh.) — vornehm, erstrangig; auch Subst. — Chef, Anführer","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"chiefs","description":"Pl. von Chief","base":"chief","corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"chiemsee","description":null,"base":"chiemsees","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"chiemsees","description":"Genitiv Singular von Chiemsee (See in Bayern)","base":"chiemsee","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"chiffon","description":"Subst. (m.) — feiner, durchsichtiger Stoff","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"chiffons","description":"Pl. von Chiffon — feiner, durchsichtiger Stoff","base":null,"corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -83119,6 +83118,12 @@
 {"word":"geilet","description":"2. Pers. Pl. Konj. I von geilen","base":"geilen","source":"community","verified_by":"moderator"}
 {"word":"geilheit","description":"Subst. — Zustand der Geilheit; sexuelle Erregung","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geilheiten","description":"Plural von Geilheit","base":"geilheit","source":"morphology","verified_by":"wiktionary-de"}
+{"word":"geillert","description":"Part. II von illern","base":"illern","source":"community","verified_by":"moderator"}
+{"word":"geillerte","description":"dekl. Part. II von illern","base":"illern","source":"community","verified_by":"moderator"}
+{"word":"geillertem","description":"dekl. Part. II von illern","base":"illern","source":"community","verified_by":"moderator"}
+{"word":"geillerten","description":"dekl. Part. II von illern","base":"illern","source":"community","verified_by":"moderator"}
+{"word":"geillerter","description":"dekl. Part. II von illern","base":"illern","source":"community","verified_by":"moderator"}
+{"word":"geillertes","description":"dekl. Part. II von illern","base":"illern","source":"community","verified_by":"moderator"}
 {"word":"geilst","description":"2. Person Singular Indikativ Präsens von geilen (Verb)","base":"geilen","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geilste","description":"Superlativ von geil (Adjektiv), deklinierte Form","base":"geil","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geilstem","description":"Superlativ von geil, deklinierte Form (Dativ Singular Maskulinum/Neutrum)","base":"geil","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -90240,7 +90245,6 @@
 {"word":"gewürztes","description":"Adjektiv — mit Gewürzen versehen; Partizip II von würzen, dekliniert","base":"gewürzt","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gewüstet","description":null,"base":"wüst","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gewütet","description":"Partizip II von wüten","base":"wüten","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"geyer","description":"Subst. (veraltet) — Geier","base":"geier","corpus_sources":["wiktionary","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geyers","description":null,"base":"geyer","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"geyoutubt","description":null,"base":"youtuben","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"geyser","description":null,"base":"geysern","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -108441,6 +108445,22 @@
 {"word":"illegitimen","description":"deklinierte Form von illegitim","base":"illegitim","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"illegitimer","description":"deklinierte Form von illegitim","base":"illegitim","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"illegitimes","description":"deklinierte Form von illegitim","base":"illegitim","source":"morphology","verified_by":"wiktionary-de"}
+{"word":"iller","description":"1. Pers. Sg. Präs. / Imperativ Sg. von illern (e-Tilgung)","base":"illern","source":"community","verified_by":"moderator"}
+{"word":"illere","description":"1. Pers. Sg. Präs. von illern","base":"illern","source":"community","verified_by":"moderator"}
+{"word":"illern","description":"Verb, landschaftl. — verstohlen blicken, spähen","base":null,"source":"community","verified_by":"moderator"}
+{"word":"illernd","description":"Part. I von illern","base":"illern","source":"community","verified_by":"moderator"}
+{"word":"illernde","description":"dekl. Part. I von illern","base":"illern","source":"community","verified_by":"moderator"}
+{"word":"illerndem","description":"dekl. Part. I von illern","base":"illern","source":"community","verified_by":"moderator"}
+{"word":"illernden","description":"dekl. Part. I von illern","base":"illern","source":"community","verified_by":"moderator"}
+{"word":"illernder","description":"dekl. Part. I von illern","base":"illern","source":"community","verified_by":"moderator"}
+{"word":"illerndes","description":"dekl. Part. I von illern","base":"illern","source":"community","verified_by":"moderator"}
+{"word":"illerns","description":"Genitiv des substantivierten Infinitivs von illern","base":"illern","source":"community","verified_by":"moderator"}
+{"word":"illerst","description":"2. Pers. Sg. Präs. von illern","base":"illern","source":"community","verified_by":"moderator"}
+{"word":"illert","description":"3. Pers. Sg. Präs. von illern","base":"illern","source":"community","verified_by":"moderator"}
+{"word":"illerte","description":"Prät. von illern","base":"illern","source":"community","verified_by":"moderator"}
+{"word":"illerten","description":"Prät. Pl. von illern","base":"illern","source":"community","verified_by":"moderator"}
+{"word":"illertest","description":"2. Pers. Sg. Prät. von illern","base":"illern","source":"community","verified_by":"moderator"}
+{"word":"illertet","description":"2. Pers. Pl. Prät. von illern","base":"illern","source":"community","verified_by":"moderator"}
 {"word":"illiard","description":"Subst. (veraltet) — Zahlwort für eine Billion (10^12)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"illiberal","description":"Adj. — nicht liberal; engstirnig, unduldsam","base":null,"corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"illiberale","description":"deklinierte Form von illiberal","base":"illiberal","source":"morphology","verified_by":"wiktionary-de"}
@@ -108473,6 +108493,7 @@
 {"word":"illoyalsten","description":"Superlativ, dekliniert von illoyal","base":"illoyal","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"illoyalster","description":"Superlativ, dekliniert von illoyal","base":"illoyal","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"illoyalstes","description":"Superlativ, dekliniert von illoyal","base":"illoyal","source":"morphology","verified_by":"wiktionary-de"}
+{"word":"illre","description":"1. Pers. Sg. Präs. von illern (e-Tilgung)","base":"illern","source":"community","verified_by":"moderator"}
 {"word":"illusion","description":"Subst. (f.) — trügerischer Schein, Täuschung","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"illusionen","description":"Plural von Illusion","base":"illusion","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"illuster","description":"Adj. — Komparativ von illuster; glanzvoller, berühmter","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
