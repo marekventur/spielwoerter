@@ -87765,7 +87765,17 @@
 {"word":"geschmäht","description":"Partizip II von schmähen","base":"schmähen","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geschmälert","description":"Partizip II von schmälern","base":"schmälern","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"geschmökert","description":"Partizip II von schmökern","base":"schmökern","source":"morphology","verified_by":"wiktionary-de"}
-{"word":"geschmökt","description":null,"base":"schmökend","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"geschmökerte","description":"dekl. Part. II von schmökern","base":"schmökern","source":"community","verified_by":"moderator"}
+{"word":"geschmökertem","description":"dekl. Part. II von schmökern","base":"schmökern","source":"community","verified_by":"moderator"}
+{"word":"geschmökerten","description":"dekl. Part. II von schmökern","base":"schmökern","source":"community","verified_by":"moderator"}
+{"word":"geschmökerter","description":"dekl. Part. II von schmökern","base":"schmökern","source":"community","verified_by":"moderator"}
+{"word":"geschmökertes","description":"dekl. Part. II von schmökern","base":"schmökern","source":"community","verified_by":"moderator"}
+{"word":"geschmökt","description":"Part. II von schmöken (rauchen)","base":"schmöken","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"geschmökte","description":"dekl. Part. II von schmöken","base":"schmöken","source":"community","verified_by":"moderator"}
+{"word":"geschmöktem","description":"dekl. Part. II von schmöken","base":"schmöken","source":"community","verified_by":"moderator"}
+{"word":"geschmökten","description":"dekl. Part. II von schmöken","base":"schmöken","source":"community","verified_by":"moderator"}
+{"word":"geschmökter","description":"dekl. Part. II von schmöken","base":"schmöken","source":"community","verified_by":"moderator"}
+{"word":"geschmöktes","description":"dekl. Part. II von schmöken","base":"schmöken","source":"community","verified_by":"moderator"}
 {"word":"geschmückt","description":"Partizip II von schmücken","base":"schmücken","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"geschnackt","description":"Partizip II von schnacken","base":"schnacken","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"geschnallt","description":"Partizip II von schnallen","base":"schnallen","source":"morphology","verified_by":"wiktionary-de"}
@@ -173759,8 +173769,8 @@
 {"word":"safesten","description":null,"base":"safe","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"safester","description":null,"base":"safe","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"safestes","description":null,"base":"safe","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"saffian","description":"Subst. — feines, glänzendes Ziegen- oder Schafleder","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"saffians","description":"Pl. von Saffian","base":"saffian","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"saffian","description":"Subst., m. — feines, glänzendes Ziegenleder","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"saffians","description":"Pl. von Saffian (Ziegenleder)","base":"saffian","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"safflor","description":"Subst. — Färberdistel (Carthamus tinctorius)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"safflorit","description":"Subst. (Mineral.) — Mineral, Kobaltarsenid","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"saffran","description":"Subst. — veraltete/regionale Schreibweise von Safran","base":"safran","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -178141,25 +178151,41 @@
 {"word":"schmöcke","description":null,"base":"schmauch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"schmöckel","description":null,"base":"schmauch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"schmöcken","description":"Verb (veraltet, landschaftl.) — riechen, duften","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"schmöke","description":null,"base":"schmökend","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"schmöke","description":"1. Pers. Sg. Präs. von schmöken (rauchen)","base":"schmöken","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"schmökel","description":null,"base":"schmauch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"schmöken","description":null,"base":"schmökend","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"schmökend","description":"Partizip I von schmöken (ugs., regional)","base":"schmöken","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"schmöken","description":"Verb — rauchen","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"schmökend","description":"Part. I von schmöken (rauchen)","base":"schmöken","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"schmökende","description":"dekl. Part. I von schmöken","base":"schmöken","source":"community","verified_by":"moderator"}
+{"word":"schmökendem","description":"dekl. Part. I von schmöken","base":"schmöken","source":"community","verified_by":"moderator"}
+{"word":"schmökenden","description":"dekl. Part. I von schmöken","base":"schmöken","source":"community","verified_by":"moderator"}
+{"word":"schmökender","description":"dekl. Part. I von schmöken","base":"schmöken","source":"community","verified_by":"moderator"}
+{"word":"schmökendes","description":"dekl. Part. I von schmöken","base":"schmöken","source":"community","verified_by":"moderator"}
+{"word":"schmökens","description":"Gen. Sg. des subst. Infinitivs von schmöken","base":"schmöken","source":"community","verified_by":"moderator"}
 {"word":"schmöker","description":"Subst. (ugs.) — spannendes, unterhaltsames Buch; Leseratte","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"schmökere","description":"1. Person Singular Konjunktiv I von schmökern","base":"schmökern","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"schmökern","description":"Verb — mit Genuss und ausdauernd lesen","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"schmökernd","description":"Partizip I von schmökern","base":"schmökern","source":"morphology","verified_by":"wiktionary-de"}
+{"word":"schmökernde","description":"dekl. Part. I von schmökern","base":"schmökern","source":"community","verified_by":"moderator"}
+{"word":"schmökerndem","description":"dekl. Part. I von schmökern","base":"schmökern","source":"community","verified_by":"moderator"}
+{"word":"schmökernden","description":"dekl. Part. I von schmökern","base":"schmökern","source":"community","verified_by":"moderator"}
+{"word":"schmökernder","description":"dekl. Part. I von schmökern","base":"schmökern","source":"community","verified_by":"moderator"}
+{"word":"schmökerndes","description":"dekl. Part. I von schmökern","base":"schmökern","source":"community","verified_by":"moderator"}
+{"word":"schmökerns","description":"Gen. Sg. des subst. Infinitivs von schmökern","base":"schmökern","source":"community","verified_by":"moderator"}
 {"word":"schmökers","description":null,"base":"schmöker","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"schmökerst","description":"Präsens von schmökern","base":"schmökern","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"schmökert","description":"3. Person Singular Indikativ Präsens von schmökern","base":"schmökern","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"schmökerte","description":"Präteritum, Konjunktiv II von schmökern","base":"schmökern","source":"morphology","verified_by":"wiktionary-de"}
-{"word":"schmökest","description":"2. Person Singular Konjunktiv I von schmökern","base":"schmökern","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"schmökerten","description":"1. & 3. Pers. Pl. Prät. von schmökern","base":"schmökern","source":"community","verified_by":"moderator"}
+{"word":"schmökertest","description":"2. Pers. Sg. Prät. von schmökern","base":"schmökern","source":"community","verified_by":"moderator"}
+{"word":"schmökertet","description":"2. Pers. Pl. Prät. von schmökern","base":"schmökern","source":"community","verified_by":"moderator"}
+{"word":"schmökest","description":"2. Pers. Sg. Konj. I von schmöken","base":"schmöken","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"schmöket","description":"2. Person Plural Konjunktiv I von schmökern","base":"schmökern","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"schmökre","description":"1. Person Singular Konjunktiv I (verkürzte Form) oder Imperativ Singular von schmökern","base":"schmökern","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"schmökst","description":"2. Person Singular Indikativ Präsens von schmökern","base":"schmökern","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"schmökt","description":"3. Person Singular Indikativ Präsens (verkürzte Form) oder 2. Person Plural Imperativ von schmökern","base":"schmökern","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"schmökte","description":"Präteritum von schmöken (landschaftl. für rauchen)","base":"schmöken","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"schmökten","description":"1./3. Person Plural Präteritum von schmöken","base":"schmöken","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"schmöktest","description":"2. Pers. Sg. Prät. von schmöken","base":"schmöken","source":"community","verified_by":"moderator"}
 {"word":"schmöktet","description":"2. Person Plural Konjunktiv II von schmöken","base":"schmöken","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"schmölz","description":"Präteritum von schmelzen","base":"schmelzen","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"schmölze","description":"Konjunktiv II von schmelzen","base":"schmelzen","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
