@@ -206343,8 +206343,8 @@
 {"word":"umneble","description":null,"base":"umnebel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"umnehmen","description":null,"base":"umnahm","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"umnehmend","description":null,"base":"umnahm","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"umnennen","description":null,"base":"umgenannt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"umnennend","description":null,"base":"umgenannt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"umnennen","description":"Verb, https://www.dwds.de/wb/umnennen","base":"umnennen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"umnennend","description":"Verb, Partizip Präsens von umnennen","base":"umnennen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"umniet","description":null,"base":"umnieten","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"umniete","description":null,"base":"umnieten","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"umnietend","description":"Partizip I von umnieten","base":"umnieten","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -232060,6 +232060,10 @@
 {"word":"zinkenit","description":"Subst. (Mineralogie) — ein Blei-Antimon-Sulfid-Mineral","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"zinkens","description":"Subst. — Genitiv Singular von Zinken (Horn, Spitz)","base":"zinken","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"zinker","description":"Subst., m. — (salopp) Falschspieler, der Karten markiert; Spitzel, Verräter","base":null,"source":"community","verified_by":"moderator"}
+{"word":"zinkerin","description":"Subst., f. — (Gaunersprache) Falschspielerin, die Spielkarten markiert; auch Spitzel, Verräterin","base":null,"source":"community","verified_by":"moderator"}
+{"word":"zinkerinnen","description":"Pl. von Zinkerin","base":"zinkerin","source":"community","verified_by":"moderator"}
+{"word":"zinkern","description":"Dat. Pl. von Zinker","base":"zinker","source":"community","verified_by":"moderator"}
+{"word":"zinkers","description":"Gen. Sg. von Zinker","base":"zinker","source":"community","verified_by":"moderator"}
 {"word":"zinkerz","description":"Subst. — Erz, aus dem Zink gewonnen wird","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"zinkerze","description":"Subst. — Plural von Zinkerz","base":"zinkerz","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"zinkerzen","description":null,"base":"zinkerz","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
