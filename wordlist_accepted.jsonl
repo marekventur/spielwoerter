@@ -83246,6 +83246,7 @@
 {"word":"gejammers","description":"Genitiv Singular von Gejammer","base":"gejammer","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gejammert","description":"Partizip II von jammern","base":"jammern","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gejammt","description":"Partizip II von jammern","base":"jammern","corpus_sources":["wiktionary","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gejappt","description":"Part. II von jappen","base":"jappen","source":"community","verified_by":"moderator"}
 {"word":"gejapst","description":"Partizip II von japsen","base":"japsen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gejasst","description":"Partizip II von jassen (schweiz., süddt. — ein Kartenspiel spielen)","base":"jassen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gejauchze","description":"Substantiviertes Verb — das Jauchzen","base":"jauchzen","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -111248,7 +111249,24 @@
 {"word":"japen","description":null,"base":"jap","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"japonica","description":"Subst. (f.) — botanische Bezeichnung für eine Art der Zierquitte (Chaenomeles japonica)","base":null,"corpus_sources":["gutenberg","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"japonisch","description":"Adj. — aus Japan stammend, zu Japan gehörend","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"japp","description":"Imp. Sg. & 1. Pers. Sg. Präs. mit e-Tilgung von jappen","base":"jappen","source":"community","verified_by":"moderator"}
+{"word":"jappe","description":"1. Pers. Sg. Präs. von jappen","base":"jappen","source":"community","verified_by":"moderator"}
+{"word":"jappen","description":"Verb — (nordd.) japsen","base":null,"source":"community","verified_by":"moderator"}
+{"word":"jappend","description":"Part. I von jappen","base":"jappen","source":"community","verified_by":"moderator"}
+{"word":"jappende","description":"dekl. Part. I von jappen","base":"jappen","source":"community","verified_by":"moderator"}
+{"word":"jappendem","description":"dekl. Part. I von jappen","base":"jappen","source":"community","verified_by":"moderator"}
+{"word":"jappenden","description":"dekl. Part. I von jappen","base":"jappen","source":"community","verified_by":"moderator"}
+{"word":"jappender","description":"dekl. Part. I von jappen","base":"jappen","source":"community","verified_by":"moderator"}
+{"word":"jappendes","description":"dekl. Part. I von jappen","base":"jappen","source":"community","verified_by":"moderator"}
+{"word":"jappens","description":"Gen. Sg. des subst. Infinitivs von jappen","base":"jappen","source":"community","verified_by":"moderator"}
+{"word":"jappest","description":"Konj. I, 2. Pers. Sg. von jappen","base":"jappen","source":"community","verified_by":"moderator"}
+{"word":"jappet","description":"Konj. I, 2. Pers. Pl. von jappen","base":"jappen","source":"community","verified_by":"moderator"}
+{"word":"jappst","description":"2. Pers. Sg. Präs. von jappen","base":"jappen","source":"community","verified_by":"moderator"}
+{"word":"jappt","description":"3. Pers. Sg. Präs. von jappen","base":"jappen","source":"community","verified_by":"moderator"}
 {"word":"jappte","description":"Präteritum von jappen — keuchend atmen","base":"jappen","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"jappten","description":"1. & 3. Pers. Pl. Prät. von jappen","base":"jappen","source":"community","verified_by":"moderator"}
+{"word":"japptest","description":"2. Pers. Sg. Prät. von jappen","base":"jappen","source":"community","verified_by":"moderator"}
+{"word":"japptet","description":"2. Pers. Pl. Prät. von jappen","base":"jappen","source":"community","verified_by":"moderator"}
 {"word":"japs","description":"Verb — 3. Person Singular Präsens von jappen","base":"jappen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"japse","description":"1. Person Sg. Konjunktiv I von jappen. / Imperativ Sg. von jappen","base":"jappen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"japsen","description":"Verb — keuchend atmen, schnappen (ugs.)","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
