@@ -50123,7 +50123,7 @@
 {"word":"dokus","description":"Pl. von Doku (Kurzwort für Dokumentation)","base":"doku","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"dokusoap","description":"Subst. — Dokumentation in Form einer Soap-Opera","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"dokusoaps","description":"Pl. von Dokusoap","base":"dokusoap","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"dol","description":"Subst. — veraltete Maßeinheit für Schmerzintensität","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"curated","verified_by":"manual"}
+{"word":"dol","description":"Subst., n. — Maßeinheit für Schmerzintensität","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"curated","verified_by":"manual"}
 {"word":"dolch","description":"Subst. — kurze, zweischneidige Stichwaffe","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"dolche","description":"Pl. von Dolch oder deklinierte Form (z.B. Genitiv/Dativ Singular)","base":"dolch","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"dolchen","description":"Verb — mit einem Dolch erstechen","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -50229,6 +50229,7 @@
 {"word":"doloser","description":"Komp. von dolos","base":"dolos","source":"community","verified_by":"moderator"}
 {"word":"doloses","description":"deklinierte Form von dolos","base":"dolos","source":"community","verified_by":"moderator"}
 {"word":"doloseste","description":"Superl. von dolos","base":"dolos","source":"community","verified_by":"moderator"}
+{"word":"dols","description":"Gen. Sg. von Dol","base":"dol","source":"community","verified_by":"moderator"}
 {"word":"dolus","description":"Subst. (Rechtsw.) — Vorsatz, böser Wille (lateinischer Rechtsbegriff)","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"dom","description":"Subst. (m.) — 1. Kuppel, 2. Kathedrale, 3. (ugs.) Gefängnis","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"doma","description":"Subst. Kristallfläche, die zwei Kristallachsen schneidet","base":null,"source":"community","verified_by":"moderator"}
@@ -76138,7 +76139,7 @@
 {"word":"frischten","description":"Präteritum (1./3. Person Plural) von frischen","base":"frischen","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"frischtet","description":"Präteritum (2. Person Plural) von frischen","base":"frischen","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"frischweg","description":"Adv. (umgangssprachl.) — ohne Umschweife, direkt, unverblümt","base":null,"corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"frise","description":"Subst. f. (ugs.) — Frisur","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"frise","description":"Subst., f. — (ugs.) Frisur","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"frisee","description":"Subst. (auch Frisée) — Salatsorte (Endivie)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"frisen","description":"Pl. von Frise (Frisur)","base":"frise","source":"community","verified_by":"moderator"}
 {"word":"friseur","description":"Subst. (m.) — Friseur, Haarschneider","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -109103,6 +109104,7 @@
 {"word":"indologen","description":"Pl. von Indologe","base":"indologe","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"indologie","description":"Subst. — Wissenschaft von der Kultur und Sprache Indiens","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"indologin","description":"Subst. — weibliche Form von Indologe","base":null,"corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"indols","description":"Gen. Sg. von Indol","base":"indol","source":"community","verified_by":"moderator"}
 {"word":"indoor","description":"Adj. — in geschlossenen Räumen stattfindend","base":null,"corpus_sources":["wikipedia","gutenberg","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"indri","description":"Subst. (Zool.) — madagassischer Lemur (Indri indri)","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"indringen","description":"Verb — eindringen, hineindringen","base":null,"corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -122028,7 +122030,9 @@
 {"word":"kotigster","description":"Deklinierte Form von kotig (Superlativ, Gen./Dat. Fem. Sg., Gen. Pl.)","base":"kotig","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kotigstes","description":"Superlativ von kotig, deklinierte Form","base":"kotig","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kotletten","description":"Pl. von Kotelette — kleines, gebratenes Fleischstück (meist vom Schwein oder Kalb)","base":"kotelette","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"kotos","description":null,"base":"koto","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"koton","description":"Subst., m. — Baumwolle","base":null,"source":"community","verified_by":"moderator"}
+{"word":"kotons","description":"Gen. Sg. und Pl. von Koton","base":"koton","source":"community","verified_by":"moderator"}
+{"word":"kotos","description":"Pl. von Koto (japanisches Zupfinstrument)","base":"koto","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"kots","description":null,"base":"kot","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"kotsass","description":"Subst., m. — (nordd.) Bewohner eines ärmlichen Hauses (Kate)","base":null,"source":"community","verified_by":"moderator"}
 {"word":"kotsasse","description":"Subst., m. — (nordd.) Bewohner eines ärmlichen Hauses (Kate)","base":null,"source":"community","verified_by":"moderator"}
