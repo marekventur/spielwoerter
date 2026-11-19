@@ -102087,6 +102087,8 @@
 {"word":"hibisken","description":null,"base":"hibiskus","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"hibiskus","description":"Subst. (selten) — Eibisch, Pflanze der Gattung Hibiscus","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hick","description":"Subst. (ugs.) — Schluckauf","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"hicks","description":"Interj./Subst., m. — Laut beim Schluckauf; ugs. Schluckauf","base":null,"source":"community","verified_by":"moderator"}
+{"word":"hickse","description":"1. Pers. Präsens von hicksen, https://www.duden.de/konjugation/hicksen","base":"hicksen","source":"community","verified_by":"moderator"}
 {"word":"hicksen","description":"Verb — kurz und krampfartig einatmen, Schluckauf haben","base":null,"source":"community","verified_by":"moderator"}
 {"word":"hicksend","description":"Part. I von hicksen","base":"hicksen","source":"community","verified_by":"moderator"}
 {"word":"hickst","description":"2./3. Pers. Sg. Präs. von hicksen","base":"hicksen","source":"community","verified_by":"moderator"}
@@ -179050,6 +179052,7 @@
 {"word":"schrittet","description":"3. Person Singular Präteritum von schritten (veraltet/poetisch für schritt)","base":"schreiten","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"schritts","description":null,"base":"schritt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"schrittst","description":"2. Person Singular Präteritum von schreiten","base":"schreiten","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"schrittweise","description":"Adv./Adj. — Schritt für Schritt, allmählich, stufenweise","base":null,"source":"community","verified_by":"moderator"}
 {"word":"schrock","description":"Präteritum von schrecken (starkes Verb, z.B. 'erschrecken')","base":"schrecken","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"schrocken","description":"Partizip II von schrecken (erschrecken)","base":"schrecken","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"schrofel","description":"Subst. (veraltet) — Hautkrankheit, Ausschlag","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -183729,7 +183732,7 @@
 {"word":"sierren","description":"Pl. von Sierra","base":"sierra","source":"community","verified_by":"moderator"}
 {"word":"siesta","description":"Subst. (f.) — Mittagsruhe, Mittagsschlaf","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"siestas","description":"Plural von Siesta — Mittagsruhe, Mittagsschlaf","base":"siesta","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"siesten","description":"Verb — 1./3. Person Plural Präteritum von siesten (Mittagsruhe halten)","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"siesten","description":"Pl. von Siesta","base":"siesta","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sievert","description":"Subst. (Physik) — Einheit der Äquivalentdosis ionisierender Strahlung","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sieverts","description":"Pl. von Sievert","base":"sievert","corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"siez","description":null,"base":"gesiezt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
