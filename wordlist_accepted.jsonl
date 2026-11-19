@@ -20243,9 +20243,10 @@
 {"word":"augurs","description":null,"base":"augur","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"august","description":"Adj. — erhaben, majestätisch; auch Monatsname (August)","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"augustale","description":"Subst. — Goldmünze Kaiser Friedrichs II","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"augusten","description":"Dativ Plural von August (Monatsname)","base":"august","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"augustes","description":null,"base":"august","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"augusts","description":"Genitiv Singular von August (Monat)","base":"august","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"auguste","description":"Dat. Sg. & Nom. Pl. von August","base":"august","source":"community","verified_by":"moderator"}
+{"word":"augusten","description":"Dat. Pl. von August","base":"august","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"augustes","description":"Gen. Sg. von August","base":"august","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"augusts","description":"Gen. Sg. von August","base":"august","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"augäpfel","description":"Plural von Augapfel","base":"augapfel","corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"augäpfeln","description":null,"base":"augapfel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"auklappen","description":"Verb — nach oben klappen, aufklappen","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -49882,6 +49883,23 @@
 {"word":"diterpene","description":"Pl. von Diterpen","base":"diterpen","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"dito","description":"Adv. — ebenso, gleichermaßen","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"dits","description":"Plural von Dit (altfranz. Lehrgedicht)","base":"dit","source":"community","verified_by":"moderator"}
+{"word":"ditsch","description":"Imp. Sg. von ditschen","base":"ditschen","source":"community","verified_by":"moderator"}
+{"word":"ditschen","description":"Verb — titschen","base":null,"source":"community","verified_by":"moderator"}
+{"word":"ditschend","description":"Part. I von ditschen","base":"ditschen","source":"community","verified_by":"moderator"}
+{"word":"ditschende","description":"dekl. Part. I von ditschen","base":"ditschen","source":"community","verified_by":"moderator"}
+{"word":"ditschendem","description":"dekl. Part. I von ditschen","base":"ditschen","source":"community","verified_by":"moderator"}
+{"word":"ditschenden","description":"dekl. Part. I von ditschen","base":"ditschen","source":"community","verified_by":"moderator"}
+{"word":"ditschender","description":"dekl. Part. I von ditschen","base":"ditschen","source":"community","verified_by":"moderator"}
+{"word":"ditschendes","description":"dekl. Part. I von ditschen","base":"ditschen","source":"community","verified_by":"moderator"}
+{"word":"ditschens","description":"Genitiv des subst. Infinitivs von ditschen","base":"ditschen","source":"community","verified_by":"moderator"}
+{"word":"ditschest","description":"Konj. I, 2. Pers. Sg. von ditschen","base":"ditschen","source":"community","verified_by":"moderator"}
+{"word":"ditschet","description":"Konj. I, 2. Pers. Pl. von ditschen","base":"ditschen","source":"community","verified_by":"moderator"}
+{"word":"ditschst","description":"2. Pers. Sg. Präs. von ditschen","base":"ditschen","source":"community","verified_by":"moderator"}
+{"word":"ditscht","description":"3. Pers. Sg. Präs. von ditschen","base":"ditschen","source":"community","verified_by":"moderator"}
+{"word":"ditschte","description":"1. & 3. Pers. Sg. Prät. von ditschen","base":"ditschen","source":"community","verified_by":"moderator"}
+{"word":"ditschten","description":"1. & 3. Pers. Pl. Prät. von ditschen","base":"ditschen","source":"community","verified_by":"moderator"}
+{"word":"ditschtest","description":"2. Pers. Sg. Prät. von ditschen","base":"ditschen","source":"community","verified_by":"moderator"}
+{"word":"ditschtet","description":"2. Pers. Pl. Prät. von ditschen","base":"ditschen","source":"community","verified_by":"moderator"}
 {"word":"diurese","description":"Subst. (Med.) — vermehrte Harnausscheidung","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"diuresen","description":"Pl. von Diurese","base":"diurese","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"diuretika","description":"Pl. von Diuretikum — harntreibende Mittel","base":"diuretikum","corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -79606,12 +79624,14 @@
 {"word":"gaszählers","description":"Genitiv Singular von Gaszähler","base":"gaszähler","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"gasöfen","description":"Pl. von Gasofen","base":"gasofen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gasöl","description":"Subst. — mittelschweres Heizöl, Destillationsprodukt von Erdöl","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gat","description":"Subst., n. — Gatt (Öse in Segeln)","base":null,"source":"community","verified_by":"moderator"}
 {"word":"gate","description":"Subst. (engl. Lehnwort) — Flugsteig, Abfertigungstor am Flughafen","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"gaten","description":"Österreichisch - lange Männerunterhose","base":"gate","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"gates","description":null,"base":"gate","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gaten","description":"Dat. Pl. von Gat (Öse in Segeln)","base":"gat","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gates","description":"Gen. Sg. von Gate (Flugsteig)","base":"gate","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gateway","description":"Subst. (EDV, engl. Lehnwort) — Zugangspunkt, Netzwerkknoten","base":null,"corpus_sources":["hunspell","wikipedia","gutenberg","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gathas","description":"Subst., Pluralwort — Von Zarathustra stammende Lieder, ältester Teil des Awesta","base":"gathas","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gatling","description":"Subst. — Kurzwort für Gatling-Maschinengewehr","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gats","description":"Gen. Sg. & Pl. von Gat (Öse in Segeln)","base":"gat","source":"community","verified_by":"moderator"}
 {"word":"gatsch","description":"Subst. (ugs., südd., österr.) — weiche, schlammige Masse","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gatsche","description":"Subst. (ugs., südd., österr.) — 1. Pfütze, Matsch; 2. breiter, unbeholfener Sitz","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gatschen","description":"Verb (ugs., südd., österr.) — 1. im Matsch planschen; 2. breitbeinig/unbeholfen sitzen","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -79619,9 +79639,9 @@
 {"word":"gatschig","description":"Adj. (österr., süddt., schweiz.) — matschig, schlammig","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gatschige","description":"Deklinierte Form von gatschig","base":"gatschig","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gatschs","description":null,"base":"gatsch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"gatt","description":"Subs., Seemannssprache- Loch, Ösung","base":"gatte","source":"community","verified_by":"moderator"}
-{"word":"gatte","description":"Subst. (veraltend/geh.) — Ehemann, Gatte","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"gatten","description":"Pl. von Gatte (Ehemänner) oder Infinitiv des Verbs gatten (paaren, vereinigen)","base":"gatte","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gatt","description":"Subs., n. — Öse in Segeln für Leinen oder Taue","base":null,"source":"community","verified_by":"moderator"}
+{"word":"gatte","description":"Subst., m. — Ehemann","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gatten","description":"Pl. von Gatte (Ehemann); auch Dat. Pl. von Gatt (Öse)","base":"gatte","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gattenden","description":"Dativ Plural oder Genitiv/Dativ/Akkusativ Singular Maskulinum des deklinierten Partizips I (gattend)","base":"gatten","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gatter","description":"Subst., Neutr. — Zaun aus Latten; Einfriedung","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gattere","description":"Verb — 1. Person Sg. Konj. I von gattern; mit einem Gatter versehen","base":"gattern","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -79634,6 +79654,7 @@
 {"word":"gatterte","description":"Präteritum (1./3. Person Singular) von gattern","base":"gattern","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gatterten","description":"Präteritum (1./3. Person Plural) oder Dativ Plural von gattern","base":"gattern","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gattertet","description":"2. Person Plural Präteritum/Indikativ von gattern","base":"gattern","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gattes","description":"Gen. Sg. von Gatt","base":"gatt","source":"community","verified_by":"moderator"}
 {"word":"gattest","description":"2. Person Singular Konjunktiv II von gatten","base":"gatten","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gattet","description":"3. Person Singular Indikativ Präsens von gatten","base":"gatten","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gattete","description":"1./3. Person Singular Präteritum/Indikativ von gatten","base":"gatten","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -79644,6 +79665,7 @@
 {"word":"gattin","description":null,"base":"ehegatte","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"gattinnen","description":"Pl. von Gattin","base":"gattin","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gattre","description":null,"base":"gatter","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"gatts","description":"Gen. Sg. oder Pl. von Gatt","base":"gatt","source":"community","verified_by":"moderator"}
 {"word":"gattung","description":"Subst., f. — Klasse, Art, systematische Kategorie in der Biologie oder Sprachwissenschaft","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gattungen","description":"Pl. von Gattung","base":"gattung","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gattungs","description":"Genitiv Singular von Gattung","base":"gattung","corpus_sources":["hunspell","gutenberg"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -80845,6 +80867,12 @@
 {"word":"gedippter","description":"Deklinierte Form von gedippt (Partizip II von dippen)","base":"dippen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gedipptes","description":"Deklinierte Form von gedippt (Partizip II von dippen)","base":"dippen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gedisst","description":"Partizip II von dissen (umgangssprachlich: respektlos behandeln)","base":"dissen","corpus_sources":["wiktionary","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"geditscht","description":"Part. II von ditschen","base":"ditschen","source":"community","verified_by":"moderator"}
+{"word":"geditschte","description":"dekl. Part. II von ditschen","base":"ditschen","source":"community","verified_by":"moderator"}
+{"word":"geditschtem","description":"dekl. Part. II von ditschen","base":"ditschen","source":"community","verified_by":"moderator"}
+{"word":"geditschten","description":"dekl. Part. II von ditschen","base":"ditschen","source":"community","verified_by":"moderator"}
+{"word":"geditschter","description":"dekl. Part. II von ditschen","base":"ditschen","source":"community","verified_by":"moderator"}
+{"word":"geditschtes","description":"dekl. Part. II von ditschen","base":"ditschen","source":"community","verified_by":"moderator"}
 {"word":"gedockt","description":"Partizip II von gedocken (Verb — anlegen, andocken)","base":"gedocken","corpus_sources":["wiktionary","gutenberg","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gedockte","description":"Deklinierte Form des Partizips II (gedockt)","base":"gedocken","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gedocktem","description":"Deklinierte Form des Partizips II (gedockt)","base":"gedocken","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -89193,6 +89221,12 @@
 {"word":"getischt","description":"Partizip II von tischen (umgangssprachl. für servieren, auftragen)","base":"tischen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"getitelt","description":"Partizip Perfekt von titeln — mit einem Titel versehen","base":"titeln","corpus_sources":["wiktionary","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"getitelte","description":"Deklinierte Form des Partizips Perfekt von titeln","base":"titeln","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"getitscht","description":"Part. II von titschen","base":"titschen","source":"community","verified_by":"moderator"}
+{"word":"getitschte","description":"dekl. Part. II von titschen","base":"titschen","source":"community","verified_by":"moderator"}
+{"word":"getitschtem","description":"dekl. Part. II von titschen","base":"titschen","source":"community","verified_by":"moderator"}
+{"word":"getitschten","description":"dekl. Part. II von titschen","base":"titschen","source":"community","verified_by":"moderator"}
+{"word":"getitschter","description":"dekl. Part. II von titschen","base":"titschen","source":"community","verified_by":"moderator"}
+{"word":"getitschtes","description":"dekl. Part. II von titschen","base":"titschen","source":"community","verified_by":"moderator"}
 {"word":"getoastet","description":"Partizip II von 'getoasten' — geröstet (bes. Brot im Toaster)","base":"getoasten","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"getobe","description":"Substantivierter Infinitiv von toben (mit Genitiv-s)","base":"toben","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"getobt","description":"Partizip II von toben","base":"toben","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -110600,8 +110634,8 @@
 {"word":"ismailis","description":"Pl. von Ismaili","base":"ismaili","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ismailit","description":"Subst. — Angehöriger einer schiitisch-islamischen Glaubensrichtung","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ismailiten","description":"Genitiv/Dativ/Akkusativ Singular, Plural von Ismailit","base":"ismailit","source":"morphology","verified_by":"wiktionary-de"}
-{"word":"ismen","description":"Pl. von Ismus; https://www.duden.de/rechtschreibung/Ismus","base":"ismus","source":"community","verified_by":"moderator"}
-{"word":"ismus","description":"Subst. m.; bloße Theorie, eine von den vielen auf ...ismus endenden Richtungen in Wissenschaft, Kunst o. Ä., von Lehrmeinungen und Systemen; https://www.duden.de/rechtschreibung/Ismus","base":null,"source":"community","verified_by":"moderator"}
+{"word":"ismen","description":"Pl. von Ismus","base":"ismus","source":"community","verified_by":"moderator"}
+{"word":"ismus","description":"Subst., m. — bloße Theorie","base":null,"source":"community","verified_by":"moderator"}
 {"word":"isobar","description":"Subst. (fachspr.) — Linie gleichen Luftdrucks auf Wetterkarten","base":null,"corpus_sources":["hunspell","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"isobare","description":"Adj. — gleichen Luftdruck habend; Subst. — weibliche Form von isobar","base":"isobar","corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"isobarem","description":"Dativ Singular Maskulinum/Neutrum von isobar","base":"isobar","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -119183,10 +119217,12 @@
 {"word":"knilche","description":null,"base":"knilch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"knilchen","description":null,"base":"knilch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"knilchs","description":"Pl. von Knilch (veraltet, umgangssprachl.) — Kerl, Mann","base":"knilch","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"knipp","description":"1. & 3. Pers. Sg. Prät. von kneipen (kneifen)","base":"kneipen","source":"community","verified_by":"moderator"}
 {"word":"knippel","description":"Subst. (veraltet, regional) — Knüppel, Stock","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"knippen","description":"Verb — (regional, veraltet) kneifen, zwicken","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"knipper","description":"Verb — mit den Augen blinzeln, zwinkern","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"knippert","description":"3. Person Sg. Präsens von knipper (blinzelt)","base":"knipper","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"knippst","description":"2. Pers. Sg. Prät. von kneipen (kneifen)","base":"kneipen","source":"community","verified_by":"moderator"}
 {"word":"knips","description":"Subst. (ugs.) — Knipser, Fotoapparat; auch Interjektion (Geräusch)","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"knipse","description":"Verb — 1. Person Sg. Ind. Präs. von knipsen","base":"knipsen","corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"knipsen","description":"Verb — 1. mit der Schere schneiden; 2. (ugs.) fotografieren","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -194873,7 +194909,8 @@
 {"word":"sättigung","description":"Subst., f. — das Sattsein; das Sättigen","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sättigungen","description":"Plural von Sättigung","base":"sättigung","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"sättler","description":"Subst. — Sattler, Handwerker","base":"sattler","corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"sätzchens","description":"Genitiv Singular von Sätzchen","base":"sätzchen","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"sätzchen","description":"Subst., n. — Verkleinerungsform von Satz; kurzer, kleiner Satz","base":"satz","source":"community","verified_by":"moderator"}
+{"word":"sätzchens","description":"Gen. Sg. von Sätzchen","base":"sätzchen","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sätze","description":"Pl. von Satz","base":"satz","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sätzen","description":"Dativ Plural von Satz","base":"satz","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"säuber","description":"Imperativ Sg. von säubern (ugs./regional für 'säubere')","base":"säubern","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -199649,6 +199686,24 @@
 {"word":"titrierst","description":"Verb (Fachsprache) — 2. Person Sg. Indikativ Präsens von titrieren","base":"titrieren","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"titriert","description":"Verb (Fachsprache) — 3. Person Sg. Indikativ Präsens und Partizip II von titrieren","base":"titrieren","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"titrierte","description":"Verb (Fachsprache) — Präteritum (1./3. Person Sg.) von titrieren","base":"titrieren","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"titsch","description":"Imp. Sg. von titschen","base":"titschen","source":"community","verified_by":"moderator"}
+{"word":"titsche","description":"1. Pers. Sg. Präs. von titschen","base":"titschen","source":"community","verified_by":"moderator"}
+{"word":"titschen","description":"Verb — 1. eintunken 2. aufspringen 3. schlagen","base":null,"source":"community","verified_by":"moderator"}
+{"word":"titschend","description":"Part. I von titschen","base":"titschen","source":"community","verified_by":"moderator"}
+{"word":"titschende","description":"dekl. Part. I von titschen","base":"titschen","source":"community","verified_by":"moderator"}
+{"word":"titschendem","description":"dekl. Part. I von titschen","base":"titschen","source":"community","verified_by":"moderator"}
+{"word":"titschenden","description":"dekl. Part. I von titschen","base":"titschen","source":"community","verified_by":"moderator"}
+{"word":"titschender","description":"dekl. Part. I von titschen","base":"titschen","source":"community","verified_by":"moderator"}
+{"word":"titschendes","description":"dekl. Part. I von titschen","base":"titschen","source":"community","verified_by":"moderator"}
+{"word":"titschens","description":"Genitiv des subst. Infinitivs von titschen","base":"titschen","source":"community","verified_by":"moderator"}
+{"word":"titschest","description":"Konj. I, 2. Pers. Sg. von titschen","base":"titschen","source":"community","verified_by":"moderator"}
+{"word":"titschet","description":"Konj. I, 2. Pers. Pl. von titschen","base":"titschen","source":"community","verified_by":"moderator"}
+{"word":"titschst","description":"2. Pers. Sg. Präs. von titschen","base":"titschen","source":"community","verified_by":"moderator"}
+{"word":"titscht","description":"3. Pers. Sg. Präs. von titschen","base":"titschen","source":"community","verified_by":"moderator"}
+{"word":"titschte","description":"1. & 3. Pers. Sg. Prät. von titschen","base":"titschen","source":"community","verified_by":"moderator"}
+{"word":"titschten","description":"1. & 3. Pers. Pl. Prät. von titschen","base":"titschen","source":"community","verified_by":"moderator"}
+{"word":"titschtest","description":"2. Pers. Sg. Prät. von titschen","base":"titschen","source":"community","verified_by":"moderator"}
+{"word":"titschtet","description":"2. Pers. Pl. Prät. von titschen","base":"titschen","source":"community","verified_by":"moderator"}
 {"word":"titte","description":"Subst. (ugs., vulg.) — weibliche Brust","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"tittel","description":"Subst. — veraltet für Tüpfelchen, Punkt auf dem i","base":null,"corpus_sources":["wikipedia","gutenberg","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"titten","description":"Pl. von Titte (derb für weibliche Brust)","base":"titte","corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -223596,7 +223651,7 @@
 {"word":"wehens","description":"Substantivierter Infinitiv von wehen mit Genitiv-s","base":"wehen","corpus_sources":["hunspell","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"weher","description":"Komparativ von weh (schmerzhaft, leidvoll)","base":"weh","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"wehere","description":"Dekl. Komp. des Adj. weh","base":"weh","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"weherem","description":"Adjektiv — Dativ Sg. Mask./Neut. von weher (schmerzend, leidvoll)","base":"wehe","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"weherem","description":"Dekl. Komp. von weh","base":"weh","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"weheren","description":"Adjektiv — Dativ Pl. oder Genitiv/Dativ/Akk. Sg. Mask. von weher (schmerzend, leidvoll)","base":"wehe","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"weherer","description":"Dekl. Komp. von weh","base":"weh","source":"community","verified_by":"moderator"}
 {"word":"weheres","description":"Dekl. Komp. von weh","base":"weh","source":"community","verified_by":"moderator"}
