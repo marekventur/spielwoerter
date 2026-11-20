@@ -183002,6 +183002,11 @@
 {"word":"sexchat","description":"Subst. — Chat mit sexuellen Inhalten","base":null,"corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sexclub","description":null,"base":"sexklub","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"sexclubs","description":null,"base":"sexklub","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"sexer","description":"Subst., m. — Fachkraft, die das Geschlecht von Küken bestimmt","base":null,"source":"community","verified_by":"moderator"}
+{"word":"sexerin","description":"Subst., f. — weibliche Fachkraft in der Geflügelzucht, die das Geschlecht von Küken bestimmt","base":null,"source":"community","verified_by":"moderator"}
+{"word":"sexerinnen","description":"Pl. von Sexerin","base":"sexerin","source":"community","verified_by":"moderator"}
+{"word":"sexern","description":"Dat. Pl. von Sexer","base":"sexer","source":"community","verified_by":"moderator"}
+{"word":"sexers","description":"Gen. Sg. von Sexer","base":"sexer","source":"community","verified_by":"moderator"}
 {"word":"sexes","description":null,"base":"sex","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"sexfilm","description":"Subst. — Film mit sexuellem Inhalt","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sexfilme","description":"Pl. von Sexfilm","base":"sexfilm","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
