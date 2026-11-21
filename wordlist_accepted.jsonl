@@ -116407,7 +116407,7 @@
 {"word":"kiebles","description":null,"base":"kübel","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"kiefer","description":"Subst. — Nadelbaum der Gattung Pinus; auch der Knochen des Unterkiefers","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kieferlos","description":"Adj. — ohne Kiefer","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"kiefern","description":"Adj. — aus Kiefernholz bestehend","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"kiefern","description":"Adj. — aus Kiefernholz bestehend; auch Dat. Pl. von Kiefer","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kieferne","description":"Deklinierte Form von kiefern","base":"kiefern","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kiefernem","description":"Dativ Singular Maskulinum/Neutrum des Adjektivs kiefern","base":"kiefern","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kiefernen","description":"Deklinierte Form des Adjektivs kiefern (Dativ Plural, alle Genera; Genitiv/Dativ/Akkusativ Singular Femininum; Genitiv Plural)","base":"kiefern","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -137408,6 +137408,8 @@
 {"word":"mayonaise","description":"Subst. (veraltete Schreibweise) — Mayonnaise, kalte, dickflüssige Sauce auf Basis von Eigelb und Öl","base":"mayonnaise","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mayos","description":"Pl. von Mayo","base":"mayo","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"mazarine","description":"Subst. — tiefblaue Farbe oder ein tiefblauer Stoff","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"mazda","description":"ein Auto der Marke Mazda, mit Pluralbildung möglich","base":null,"source":"community","verified_by":"moderator"}
+{"word":"mazdas","description":"Pl. von Mazda","base":null,"source":"community","verified_by":"moderator"}
 {"word":"mazedone","description":"Subst. — Einwohner Mazedoniens","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mazedonen","description":"Pl. von Mazedone","base":"mazedone","corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mazedonin","description":"Subst. — weibliche Einwohnerin Mazedoniens","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -139895,6 +139897,10 @@
 {"word":"mint","description":"Subst. — Münzstätte; auch Pflanzengattung (Minze)","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mintgrün","description":"Adj. — in einem hellen, bläulichen Grünton, der an die Farbe der Minzpflanze erinnert","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mintgrüne","description":"Deklinierte Form von mintgrün","base":"mintgrün","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"mintsauce","description":"Subst., f. — Soße aus frischer Minze, Essig und Zucker, besonders zu Lammfleisch","base":null,"source":"community","verified_by":"moderator"}
+{"word":"mintsaucen","description":"Pl. von Mintsauce","base":"mintsauce","source":"community","verified_by":"moderator"}
+{"word":"mintsoße","description":"Subst., f. — Soße aus Minze, Essig und Zucker, v. a. zu Lammfleisch (engl. mint sauce)","base":null,"source":"community","verified_by":"moderator"}
+{"word":"mintsoßen","description":"Pl. von Mintsoße","base":"mintsoße","source":"community","verified_by":"moderator"}
 {"word":"minuartia","description":"Subst. (Bot.) — Pflanzengattung der Nelkengewächse (Miere)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"minuend","description":"Subst. (Math.) — Zahl, von der subtrahiert wird","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"minuenden","description":"Pl. von Minuend","base":"minuend","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -139902,12 +139908,32 @@
 {"word":"minuetto","description":"Subst. n. — Menuett","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"minuettos","description":"Gen. Sg. & Pl. von Minuett (italienische Form)","base":"minuetto","source":"community","verified_by":"moderator"}
 {"word":"minus","description":"Subst. (n.) — mathematisches Zeichen für Subtraktion; Fehlbetrag","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"minusgeschäft","description":"Subst., n. — Geschäft, bei dem ein Verlust entsteht","base":null,"source":"community","verified_by":"moderator"}
+{"word":"minusgeschäfte","description":"Pl. von Minusgeschäft","base":"minusgeschäft","source":"community","verified_by":"moderator"}
+{"word":"minusgeschäften","description":"Dat. Pl. von Minusgeschäft","base":"minusgeschäft","source":"community","verified_by":"moderator"}
+{"word":"minusgeschäftes","description":"Gen. Sg. von Minusgeschäft","base":"minusgeschäft","source":"community","verified_by":"moderator"}
+{"word":"minusgeschäfts","description":"Gen. Sg. von Minusgeschäft","base":"minusgeschäft","source":"community","verified_by":"moderator"}
 {"word":"minusgrad","description":"Subst. — Temperatur unter null Grad Celsius","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"minusgrade","description":"Pl. von Minusgrad","base":"minusgrad","source":"community","verified_by":"moderator"}
+{"word":"minusgraden","description":"Dat. Pl. von Minusgrad","base":"minusgrad","source":"community","verified_by":"moderator"}
+{"word":"minusgrads","description":"Gen. Sg. von Minusgrad","base":"minusgrad","source":"community","verified_by":"moderator"}
 {"word":"minuskel","description":"Subst. — Kleinbuchstabe (im Gegensatz zur Majuskel)","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"minuskeln","description":"Verb — in Kleinbuchstaben schreiben","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"minuspol","description":"Subst. (m.) — negativer Pol, Kathode","base":null,"corpus_sources":["hunspell","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"minuspole","description":"Pl. von Minuspol","base":"minuspol","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"minuspolen","description":"Dat. Pl. von Minuspol","base":"minuspol","source":"community","verified_by":"moderator"}
+{"word":"minuspoles","description":"Gen. Sg. von Minuspol","base":"minuspol","source":"community","verified_by":"moderator"}
 {"word":"minuspols","description":"Genitiv Singular von Minuspol","base":"minuspol","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"minuspunkt","description":"Subst., m. — Punkt, der bei einer Bewertung abgezogen wird; negativer Aspekt, Nachteil","base":null,"source":"community","verified_by":"moderator"}
+{"word":"minuspunkte","description":"Pl. von Minuspunkt","base":"minuspunkt","source":"community","verified_by":"moderator"}
+{"word":"minuspunkten","description":"Dat. Pl. von Minuspunkt","base":"minuspunkt","source":"community","verified_by":"moderator"}
+{"word":"minuspunktes","description":"Gen. Sg. von Minuspunkt","base":"minuspunkt","source":"community","verified_by":"moderator"}
+{"word":"minuspunkts","description":"Gen. Sg. von Minuspunkt","base":"minuspunkt","source":"community","verified_by":"moderator"}
+{"word":"minusrekord","description":"Subst., m. — niedrigster je gemessener Wert, negativer Rekord (z. B. bei Temperaturen oder Umsätzen)","base":null,"source":"community","verified_by":"moderator"}
+{"word":"minusrekorde","description":"Pl. von Minusrekord","base":"minusrekord","source":"community","verified_by":"moderator"}
+{"word":"minusrekorden","description":"Dat. Pl. von Minusrekord","base":"minusrekord","source":"community","verified_by":"moderator"}
+{"word":"minusrekordes","description":"Gen. Sg. von Minusrekord","base":"minusrekord","source":"community","verified_by":"moderator"}
+{"word":"minusrekords","description":"Gen. Sg. von Minusrekord","base":"minusrekord","source":"community","verified_by":"moderator"}
 {"word":"minuswert","description":"Subst. — negativer Wert, Fehlbetrag","base":null,"corpus_sources":["hunspell","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"minuszins","description":"Subst. (m.) — negativer Zinssatz","base":null,"corpus_sources":["hunspell","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"minuszone","description":"Subst. — Bereich mit negativen Werten (z.B. Temperatur)","base":null,"corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -148796,7 +148822,6 @@
 {"word":"nobel","description":"Adjektiv — vornehm, großzügig, von hoher Qualität","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nobelium","description":"Subst., Neutr. — chemisches Element (No)","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nobeliums","description":null,"base":"no","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"nobels","description":"Genitiv Singular von Nobel (Adjektiv)","base":"nobel","corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nobelste","description":"Superlativ von nobel, deklinierte Form","base":"nobel","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nobelstem","description":"Superlativ von nobel, Dativ Singular maskulin/neutrum","base":"nobel","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"nobelsten","description":"Superlativ von nobel, Dativ Plural / Genitiv maskulin/neutrum","base":"nobel","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -158749,6 +158774,11 @@
 {"word":"pluralist","description":"Subst. — Vertreter des Pluralismus (Vielfalt von Meinungen, Gruppen)","base":null,"corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"plurals","description":null,"base":"plural","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"plus","description":"Subst. oder Adv. — mathematisches Zeichen, Vorteil, zusätzlich","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"plusgrad","description":"Subst., m. — Temperaturgrad über dem Gefrierpunkt","base":null,"source":"community","verified_by":"moderator"}
+{"word":"plusgrade","description":"Pl. von Plusgrad","base":"plusgrad","source":"community","verified_by":"moderator"}
+{"word":"plusgraden","description":"Dat. Pl. von Plusgrad","base":"plusgrad","source":"community","verified_by":"moderator"}
+{"word":"plusgrades","description":"Gen. Sg. von Plusgrad","base":"plusgrad","source":"community","verified_by":"moderator"}
+{"word":"plusgrads","description":"Gen. Sg. von Plusgrad","base":"plusgrad","source":"community","verified_by":"moderator"}
 {"word":"pluskonto","description":"Subst. — Konto mit Guthaben, Habenkonto","base":null,"corpus_sources":["hunspell","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"plusminus","description":"Adv. — ungefähr, etwa; auch als Präposition oder Konjunktion","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"pluspol","description":"Subst. (Elektrotechnik) — positiver Pol einer Spannungsquelle","base":null,"corpus_sources":["hunspell","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -181070,6 +181100,10 @@
 {"word":"sedativum","description":"Subst. (Pharmazie) — Beruhigungsmittel, Schlafmittel","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sedativums","description":"Genitiv Singular von Sedativum","base":"sedativum","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"seder","description":"Subst. (m.) — Festmahl am Vorabend des jüdischen Pessachfestes","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"sedez","description":"Subst., n. — Buchformat, bei dem der Druckbogen in 16 Blätter gefalzt wird","base":null,"source":"community","verified_by":"moderator"}
+{"word":"sedeze","description":"Pl. von Sedez","base":"sedez","source":"community","verified_by":"moderator"}
+{"word":"sedezen","description":"Dat. Pl. von Sedez","base":"sedez","source":"community","verified_by":"moderator"}
+{"word":"sedezes","description":"Gen. Sg. von Sedez","base":"sedez","source":"community","verified_by":"moderator"}
 {"word":"sedier","description":null,"base":"sediere","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"sediere","description":"Verb — 1. Person Singular Indikativ Präsens von sedieren","base":"sedieren","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sedieren","description":"Verb — durch Medikamente in einen schlafähnlichen Zustand versetzen","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -183319,6 +183353,10 @@
 {"word":"sials","description":null,"base":"sial","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"siamang","description":"Subst. — großer, schwarzer Gibbon (Primat)","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"siamangs","description":"Pl. von Siamang","base":"siamang","corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"siamese","description":"Subst., m. — Einwohner des früheren Königreichs Siam; auch Siamkatze","base":null,"source":"community","verified_by":"moderator"}
+{"word":"siamesen","description":"Gen./Dat./Akk. Sg. und Pl. von Siamese","base":"siamese","source":"community","verified_by":"moderator"}
+{"word":"siamesin","description":"weibl. Form von Siamese","base":"siamese","source":"community","verified_by":"moderator"}
+{"word":"siamesinnen","description":"Pl. von Siamesin","base":"siamese","source":"community","verified_by":"moderator"}
 {"word":"siamkatze","description":"Subst. — Rassekatze mit charakteristischer Fellzeichnung","base":null,"corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"siamkobra","description":"Subst. — Giftschlange aus Südostasien","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sibilant","description":"Subst. (Sprachw.) — Zischlaut (z.B. s, sch)","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -201906,7 +201944,6 @@
 {"word":"trennwand","description":"Subst. — eine Wand, die einen Raum teilt","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"trennwände","description":"Nominativ/Genitiv/Akkusativ Plural von Trennwand","base":"trennwand","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"trennwänden","description":"Dativ Plural von Trennwand","base":"trennwand","source":"morphology","verified_by":"wiktionary-de"}
-{"word":"trennöl","description":"Subst. — Öl, das ein Trennen erleichtert (z.B. in der Backtechnik)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"trense","description":"Subst. — Kandare, Gebissstange für Pferde","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"trensen","description":"Verb — ein Pferd mit der Trense führen oder zügeln","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"trenz","description":null,"base":"getrenzt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -209218,7 +209255,6 @@
 {"word":"unktest","description":"Verb — 2. Person Singular Präteritum von unken","base":"unken","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"unktet","description":"Verb — 2. Person Plural Präteritum von unken","base":"unken","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"unkultur","description":"Subst., f. — Zustand der Kulturlosigkeit; Verwahrlosung","base":null,"corpus_sources":["hunspell","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"unkunde","description":"Subst., f. — Unwissenheit, Mangel an Kenntnissen","base":null,"corpus_sources":["hunspell","gutenberg"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"unkundig","description":"Adj. — nicht kundig, nicht unterrichtet, unwissend","base":null,"corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"unkundige","description":"Deklinierte Form von unkundig (z.B. Nom./Akk. Sg. Fem., Nom./Akk. Pl.)","base":"unkundig","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"unkundigem","description":"deklinierte Form von unkundig","base":"unkundig","source":"morphology","verified_by":"wiktionary-de"}
@@ -228279,6 +228315,8 @@
 {"word":"wurstle","description":"Verb (ugs., süddt.) — sich abmühen, sich durchwursteln","base":"wursteln","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"wurstware","description":"Subst. — Wurstware, Wurstprodukt (Pl. Wurstwaren)","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"wurstwaren","description":"Plural von Wurstware","base":"wurstware","source":"morphology","verified_by":"wiktionary-de"}
+{"word":"wurt","description":"Subst., f. — künstlich aufgeschütteter Siedlungshügel in den Marschen als Schutz vor Sturmfluten (Warft)","base":null,"source":"community","verified_by":"moderator"}
+{"word":"wurten","description":"Pl. von Wurt","base":"wurt","source":"community","verified_by":"moderator"}
 {"word":"wurtzit","description":"Subst. (Mineral.) — Mineral, Zinksulfid","base":null,"corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"wurz","description":"Subst. (veraltet, landschaftl.) — Wurzel, Pflanze, Kraut","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"wurze","description":"Subst. (veraltet) — Wurzel, Pflanze, Kraut","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
