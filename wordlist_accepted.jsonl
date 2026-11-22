@@ -55166,6 +55166,7 @@
 {"word":"einbuddle","description":"1./3. Person Sg. Konjunktiv I von einbuddeln (ugs. für 'eingraben')","base":"einbuddeln","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"einbuk","description":"Präteritum von einbacken (ugs./regional für 'backte hinein')","base":"einbacken","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"einbund","description":"Subst., m. —  Patengeschenk","base":null,"source":"community","verified_by":"moderator"}
+{"word":"einbunde","description":"Dat. Sg. von Einbund","base":"einbund","source":"community","verified_by":"moderator"}
 {"word":"einbundes","description":"Gen. Sg. von Einbund","base":"einbund","source":"community","verified_by":"moderator"}
 {"word":"einbunds","description":"Gen. Sg. von Einbund","base":"einbund","source":"community","verified_by":"moderator"}
 {"word":"einbunker","description":null,"base":"einbunkre","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -69911,11 +69912,25 @@
 {"word":"feldzüge","description":"Plural von Feldzug","base":"feldzug","corpus_sources":["wiktionary","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"feldzügen","description":"Dativ Plural von Feldzug","base":"feldzug","corpus_sources":["wiktionary","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"feldübung","description":"Subst. — militärische Übung im Gelände","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"felg","description":"Imperativ Sg. von felgen","base":"felgen","source":"community","verified_by":"moderator"}
 {"word":"felge","description":"Subst. (f.) — Radkranz, Radreifen","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"felgen","description":"Verb — die Felgen eines Fahrrads oder Autos wechseln oder bearbeiten","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"felgend","description":"Part. I von felgen","base":"felgen","source":"community","verified_by":"moderator"}
+{"word":"felgende","description":"dekl. Part. I von felgen","base":"felgen","source":"community","verified_by":"moderator"}
+{"word":"felgendem","description":"dekl. Part. I von felgen","base":"felgen","source":"community","verified_by":"moderator"}
+{"word":"felgenden","description":"dekl. Part. I von felgen","base":"felgen","source":"community","verified_by":"moderator"}
+{"word":"felgender","description":"dekl. Part. I von felgen","base":"felgen","source":"community","verified_by":"moderator"}
+{"word":"felgendes","description":"dekl. Part. I von felgen","base":"felgen","source":"community","verified_by":"moderator"}
 {"word":"felgenlos","description":"Adj. — ohne Felgen","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"felgens","description":"Genitiv des substantivierten Infinitivs von felgen","base":"felgen","source":"community","verified_by":"moderator"}
+{"word":"felgest","description":"2. Pers. Sg. Konj. I von felgen","base":"felgen","source":"community","verified_by":"moderator"}
+{"word":"felget","description":"Konj. I, 2. Pers. Pl. von felgen","base":"felgen","source":"community","verified_by":"moderator"}
+{"word":"felgst","description":"2. Pers. Sg. Präs. von felgen","base":"felgen","source":"community","verified_by":"moderator"}
 {"word":"felgt","description":"3. Pers. Sg. / 2. Pers. Pl. Präs. von felgen","base":"felgen","source":"community","verified_by":"moderator"}
 {"word":"felgte","description":"1./3. Pers. Sg. Prät. von felgen","base":"felgen","source":"community","verified_by":"moderator"}
+{"word":"felgten","description":"1. & 3. Pers. Pl. Prät. von felgen","base":"felgen","source":"community","verified_by":"moderator"}
+{"word":"felgtest","description":"2. Pers. Sg. Prät. von felgen","base":"felgen","source":"community","verified_by":"moderator"}
+{"word":"felgtet","description":"2. Pers. Pl. Prät. von felgen","base":"felgen","source":"community","verified_by":"moderator"}
 {"word":"feliden","description":"Pl. von Felide — Katzenartige, Familie der Raubtiere (z.B. Katzen, Löwen)","base":"felide","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fell","description":"Subst. — Hautbedeckung bei Säugetieren; Tierhaut mit Haaren","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fellache","description":"Subst. — (veraltet) ägyptischer Bauer, Landarbeiter","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -81333,6 +81348,12 @@
 {"word":"gefeiter","description":"Adjektiv — Partizip II von feien, dekliniert (Nominativ Singular maskulin, Genitiv/Dativ Singular feminin, Genitiv Plural)","base":"feien","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gefeites","description":"Adjektiv — Partizip II von feien, dekliniert (Nominativ/Akkusativ Singular neutrum)","base":"feien","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gefeixt","description":"Partizip II von feixen (laut und albern lachen)","base":"feixen","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gefelgt","description":"Part. II von felgen","base":"felgen","source":"community","verified_by":"moderator"}
+{"word":"gefelgte","description":"dekl. Part. II von felgen","base":"felgen","source":"community","verified_by":"moderator"}
+{"word":"gefelgtem","description":"dekl. Part. II von felgen","base":"felgen","source":"community","verified_by":"moderator"}
+{"word":"gefelgten","description":"dekl. Part. II von felgen","base":"felgen","source":"community","verified_by":"moderator"}
+{"word":"gefelgter","description":"dekl. Part. II von felgen","base":"felgen","source":"community","verified_by":"moderator"}
+{"word":"gefelgtes","description":"dekl. Part. II von felgen","base":"felgen","source":"community","verified_by":"moderator"}
 {"word":"gefensterlt","description":"Partizip II von fensterln","base":"fensterln","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"gefenstert","description":"Partizip II von fenstern","base":"fenstern","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"gefenzt","description":"Part. II von fenzen","base":"fenzen","source":"community","verified_by":"moderator"}
@@ -94302,8 +94323,8 @@
 {"word":"grottigsten","description":"Superlativ, dekliniert von grottig","base":"grottig","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"grottigster","description":"Superlativ, dekliniert von grottig","base":"grottig","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"grottigstes","description":"Superlativ, dekliniert von grottig","base":"grottig","source":"morphology","verified_by":"wiktionary-de"}
-{"word":"grotto","description":"Subst. (m.) — kleine Grotte, Höhle; auch Bezeichnung für Lokal","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"grottos","description":"Pl. von Grotto","base":"grotto","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"grotto","description":"Subst., m. — tessinische Bezeichnung für Weinschenke","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"grottos","description":"Gen. Sg. & Pl. von Grotto (Weinschenke)","base":"grotto","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"grouper","description":"Subst. (engl. Lehnwort) — Zackenbarsch (Fisch)","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"groupers","description":"Pl. von Grouper","base":"grouper","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"groupie","description":"Subst. (ugs.) — begeisterter Fan, der Stars nachreist","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -137269,13 +137290,13 @@
 {"word":"mausender","description":"Adj. — deklinierte Form von mausend","base":"mausend","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mausendes","description":"Adj. — deklinierte Form von mausend","base":"mausend","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mauseohr","description":"Subst. — (ugs.) abgegriffenes, schmutziges Buch","base":null,"corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"mauser","description":"Subst. — Zeit des Feder- oder Haarkleidwechsels bei Tieren","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"mauser","description":"Subst., f. — 1. Federwechsel bei Tieren 2. Pistole des gleichnamigen Herstellers; auch Subst., m. — (schweiz.) Fallensteller","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mausere","description":"Verb — 1. Person Sg. Konjunktiv I von mausern","base":"mausern","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mausern","description":"Verb — 1. Federn oder Haare wechseln; 2. sich verbessern, entwickeln","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mausernd","description":"Partizip I von mausern","base":"mausern","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mausernde","description":"Dekliniertes Partizip I von mausern","base":"mausern","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mauserns","description":"Substantivierter Infinitiv von mausern mit Genitiv-s","base":"mausern","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"mausers","description":"Genitiv Singular von Mauser (Vogelhäutung)","base":"mauser","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"mausers","description":"Gen. Sg. von Mauser (Fallensteller)","base":"mauser","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mauserst","description":"2. Person Singular Indikativ Präsens von mausern","base":"mausern","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mausert","description":"3. Person Singular Indikativ Präsens von mausern","base":"mausern","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mauserte","description":"Präteritum (1./3. Person Singular) von mausern","base":"mausern","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
