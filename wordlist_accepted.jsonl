@@ -84864,6 +84864,12 @@
 {"word":"geländern","description":"Dativ Plural von Geländer","base":"geländer","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geländers","description":"Genitiv Singular von Geländer","base":"geländer","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geländes","description":"Genitiv Singular von Gelände","base":"gelände","corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"geländet","description":"Part. II von länden","base":"länden","source":"community","verified_by":"moderator"}
+{"word":"geländete","description":"dekl. Part. II von länden","base":"länden","source":"community","verified_by":"moderator"}
+{"word":"geländetem","description":"dekl. Part. II von länden","base":"länden","source":"community","verified_by":"moderator"}
+{"word":"geländeten","description":"dekl. Part. II von länden","base":"länden","source":"community","verified_by":"moderator"}
+{"word":"geländeter","description":"dekl. Part. II von länden","base":"länden","source":"community","verified_by":"moderator"}
+{"word":"geländetes","description":"dekl. Part. II von länden","base":"länden","source":"community","verified_by":"moderator"}
 {"word":"gelänge","description":"Verb — 1./3. Person Singular Konjunktiv II von gelingen","base":"gelingen","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gelängen","description":"Verb — 1./3. Person Plural Konjunktiv II von gelingen","base":"gelingen","corpus_sources":["wiktionary","hunspell","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gelängert","description":null,"base":"länger","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -133908,14 +133914,27 @@
 {"word":"lämpels","description":"Genitiv Singular von Lämpel","base":"lämpel","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ländchen","description":"Subst., Neutr. — Diminutiv von Land; kleines Land, Gebiet","base":"land","corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ländchens","description":"Subst., Neutr. — Genitiv Singular von Ländchen","base":"ländchen","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"lände","description":"Subst. (landsch., veraltet) — Ufer, Landungsplatz, Flussufer","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"länden","description":null,"base":"lände","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"lände","description":"Imper. Sg. und 1. Pers. Sg. Präs. von länden (aus dem Wasser holen)","base":"länden","corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"länden","description":"Verb — (schweiz.) aus dem Wasser holen und an Land bringen","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"ländend","description":"Part. I von länden","base":"länden","source":"community","verified_by":"moderator"}
+{"word":"ländende","description":"dekl. Part. I von länden","base":"länden","source":"community","verified_by":"moderator"}
+{"word":"ländendem","description":"dekl. Part. I von länden","base":"länden","source":"community","verified_by":"moderator"}
+{"word":"ländenden","description":"dekl. Part. I von länden","base":"länden","source":"community","verified_by":"moderator"}
+{"word":"ländender","description":"dekl. Part. I von länden","base":"länden","source":"community","verified_by":"moderator"}
+{"word":"ländendes","description":"dekl. Part. I von länden","base":"länden","source":"community","verified_by":"moderator"}
+{"word":"ländens","description":"Genitiv des substantivierten Infinitivs von länden","base":"länden","source":"community","verified_by":"moderator"}
 {"word":"länder","description":"Pl. von Land","base":"land","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"länderchen","description":"Plural von Ländchen","base":"ländchen","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"länderei","description":"Subst. — kleines Stück Land, Ackerland; ländlicher Betrieb","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ländereien","description":"Plural von Länderei","base":"länderei","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"ländern","description":"Verb — (selten) in Länder aufteilen; durch Länder bereisen","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"länderrat","description":"Subst. — Gremium von Vertretern der Länder (z.B. in Deutschland)","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"ländest","description":"2. Pers. Sg. Präs. von länden","base":"länden","source":"community","verified_by":"moderator"}
+{"word":"ländet","description":"3. Pers. Sg. Präs. von länden","base":"länden","source":"community","verified_by":"moderator"}
+{"word":"ländete","description":"1. & 3. Pers. Sg. Prät. von länden","base":"länden","source":"community","verified_by":"moderator"}
+{"word":"ländeten","description":"1. & 3. Pers. Pl. Prät. von länden","base":"länden","source":"community","verified_by":"moderator"}
+{"word":"ländetest","description":"2. Pers. Sg. Prät. von länden","base":"länden","source":"community","verified_by":"moderator"}
+{"word":"ländetet","description":"2. Pers. Pl. Prät. von länden","base":"länden","source":"community","verified_by":"moderator"}
 {"word":"ländisch","description":"Adj. — ländlich, zur Landschaft gehörig","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ländische","description":"Deklinierte Form von ländisch (z.B. weibliche Form)","base":"ländisch","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"ländle","description":"Subst. (südwestdt., österr., schweiz.) — kleines Land, Heimat, Region","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
