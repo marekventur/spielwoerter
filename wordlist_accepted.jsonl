@@ -95515,6 +95515,8 @@
 {"word":"gutsein","description":"Subst. — der Zustand, gut zu sein; moralische Qualität","base":null,"corpus_sources":["hunspell","gutenberg"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gutseins","description":"Genitiv Singular von Gutsein","base":"gutsein","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gutsel","description":"Subst., n. — (landschftl.) Bonbon, Süßigkeit","base":null,"source":"community","verified_by":"moderator"}
+{"word":"gutseln","description":"Dat. Pl. von Gutsel","base":"gutsel","source":"community","verified_by":"moderator"}
+{"word":"gutsels","description":"Gen. Sg. von Gutsel","base":"gutsel","source":"community","verified_by":"moderator"}
 {"word":"gutshaus","description":"Subst. — Herrenhaus auf einem Gut","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gutshause","description":"Dativ Singular von Gutshaus","base":"gutshaus","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gutshauses","description":"Genitiv Singular von Gutshaus","base":"gutshaus","source":"morphology","verified_by":"wiktionary-de"}
