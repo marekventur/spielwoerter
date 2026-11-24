@@ -29349,6 +29349,7 @@
 {"word":"beizenden","description":"Dativ Plural/Genitiv Maskulinum/Neutrum/Akkusativ Maskulinum des adjektivisch deklinierten Partizips I von beizen","base":"beizen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"beizender","description":"Genitiv Singular Femininum/Nominativ Plural Maskulinum des adjektivisch deklinierten Partizips I von beizen","base":"beizen","corpus_sources":["wiktionary","gutenberg"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"beizendes","description":"Nominativ/Akkusativ Singular Neutrum des adjektivisch deklinierten Partizips I von beizen","base":"beizen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"beizens","description":"Gen. Sg. von das Beizen (substantivierter Infinitiv)","base":"beizen","source":"community","verified_by":"moderator"}
 {"word":"beizer","description":"Subst. — Person, die das Beizen (z.B. von Holz, Leder) ausführt","base":null,"corpus_sources":["wiktionary","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"beizern","description":"Dativ Plural von Beizer","base":"beizer","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"beizers","description":"Genitiv Singular von Beizer","base":"beizer","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -87915,6 +87916,11 @@
 {"word":"geschränkt","description":"Partizip II von schränken","base":"schränken","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"geschröpft","description":"Partizip II von schröpfen","base":"schröpfen","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"geschubbert","description":"Partizip II von schubbern","base":"schubbern","source":"morphology","verified_by":"wiktionary-de"}
+{"word":"geschubberte","description":"dekl. Part. II von schubbern","base":"schubbern","source":"community","verified_by":"moderator"}
+{"word":"geschubbertem","description":"dekl. Part. II von schubbern","base":"schubbern","source":"community","verified_by":"moderator"}
+{"word":"geschubberten","description":"dekl. Part. II von schubbern","base":"schubbern","source":"community","verified_by":"moderator"}
+{"word":"geschubberter","description":"dekl. Part. II von schubbern","base":"schubbern","source":"community","verified_by":"moderator"}
+{"word":"geschubbertes","description":"dekl. Part. II von schubbern","base":"schubbern","source":"community","verified_by":"moderator"}
 {"word":"geschubse","description":"Subst., dekl. Form von Geschubs — wiederholtes Schubsen","base":"geschubs","corpus_sources":["wiktionary","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"geschubses","description":"Genitiv Singular von Geschubse","base":"geschubse","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"geschubst","description":"Partizip II von schubsen — stoßen, drängen","base":"schubsen","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -179334,11 +179340,20 @@
 {"word":"schubbe","description":"Verb (ugs.) — leicht schieben, stoßen","base":"schubben","corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"schubber","description":"Verb (ugs., regional) — schubben, reiben","base":"schubbern","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"schubbere","description":"Verb (landschaftl.) — schubbern, reiben, scheuern; 1./3. Person Singular Konjunktiv I oder Imperativ Singular","base":"schubbern","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"schubbern","description":"Verb (landschaftl.) — reiben, scheuern, schrubben","base":null,"corpus_sources":["wiktionary","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"schubbern","description":"Verb — reiben, kratzen, scheuern","base":null,"corpus_sources":["wiktionary","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"schubbernd","description":"Partizip I von schubbern","base":"schubbern","source":"morphology","verified_by":"wiktionary-de"}
+{"word":"schubbernde","description":"dekl. Part. I von schubbern","base":"schubbern","source":"community","verified_by":"moderator"}
+{"word":"schubberndem","description":"dekl. Part. I von schubbern","base":"schubbern","source":"community","verified_by":"moderator"}
+{"word":"schubbernden","description":"dekl. Part. I von schubbern","base":"schubbern","source":"community","verified_by":"moderator"}
+{"word":"schubbernder","description":"dekl. Part. I von schubbern","base":"schubbern","source":"community","verified_by":"moderator"}
+{"word":"schubberndes","description":"dekl. Part. I von schubbern","base":"schubbern","source":"community","verified_by":"moderator"}
+{"word":"schubberns","description":"Genitiv des substantivierten Infinitivs von schubbern","base":"schubbern","source":"community","verified_by":"moderator"}
 {"word":"schubberst","description":"Präsens von schubbern","base":"schubbern","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"schubbert","description":"Verb (landschaftl.) — 3. Person Singular Indikativ Präsens von schubbern","base":"schubbern","corpus_sources":["wiktionary","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"schubberte","description":"Präteritum, Konjunktiv II von schubbern","base":"schubbern","source":"morphology","verified_by":"wiktionary-de"}
+{"word":"schubberten","description":"1. & 3. Pers. Pl. Prät. von schubbern","base":"schubbern","source":"community","verified_by":"moderator"}
+{"word":"schubbertest","description":"2. Pers. Sg. Prät. von schubbern","base":"schubbern","source":"community","verified_by":"moderator"}
+{"word":"schubbertet","description":"2. Pers. Pl. Prät. von schubbern","base":"schubbern","source":"community","verified_by":"moderator"}
 {"word":"schubbre","description":null,"base":"schubber","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"schubert","description":null,"base":"schubbert","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"schuberth","description":null,"base":"schubbert","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -184682,9 +184697,9 @@
 {"word":"sitzzwang","description":"Subst., m. — Verpflichtung, an einer Sitzung teilzunehmen","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sixpack","description":"Subst. (ugs.) — trainiertes Bauchmuskelpaket; auch für Sechserpackung","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sixpacks","description":"Pl. von Sixpack — Subst. (engl. Lehnwort) — Sechserpackung, z.B. von Getränkedosen","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"sixt","description":null,"base":"sixte","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"sixt","description":"Subst., f. — Fechtstellung","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"sixtant","description":null,"base":"sextant","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"sixten","description":null,"base":"sixte","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"sixten","description":"Pl. von Sixt (Fechtstellung)","base":"sixt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"sixtina","description":"Subst. f. — Kapelle im Vatikan","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"sizilisch","description":"Adj. — Sizilien betreffend, von Sizilien stammend","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sjambok","description":"Subst. (aus dem Afrikaans) — Peitsche aus Nilpferd- oder Rhinozeroshaut","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
