@@ -89858,6 +89858,12 @@
 {"word":"gewidert","description":"Partizip II von widern (ugs.) — angewidert, abgestoßen","base":"widern","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gewidmet","description":"Partizip II von widmen — zugeeignet, übereignet","base":"widmen","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gewidmete","description":"Deklinierte Form des Partizips II (gewidmet)","base":"widmen","corpus_sources":["wiktionary","hunspell","gutenberg","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gewiebelt","description":"Part. II von wiebeln","base":"wiebeln","source":"community","verified_by":"moderator"}
+{"word":"gewiebelte","description":"dekl. Part. II von wiebeln","base":"wiebeln","source":"community","verified_by":"moderator"}
+{"word":"gewiebeltem","description":"dekl. Part. II von wiebeln","base":"wiebeln","source":"community","verified_by":"moderator"}
+{"word":"gewiebelten","description":"dekl. Part. II von wiebeln","base":"wiebeln","source":"community","verified_by":"moderator"}
+{"word":"gewiebelter","description":"dekl. Part. II von wiebeln","base":"wiebeln","source":"community","verified_by":"moderator"}
+{"word":"gewiebeltes","description":"dekl. Part. II von wiebeln","base":"wiebeln","source":"community","verified_by":"moderator"}
 {"word":"gewieft","description":"Partizip II von wieven (ugs.) — gerissen, schlau","base":"wieven","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gewiefte","description":"Deklinierte Form des Partizips II (gewieft)","base":"wieven","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gewieftem","description":"Deklinierte Form des Partizips II (gewieft)","base":"wieven","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -225930,8 +225936,24 @@
 {"word":"widrigster","description":"Superlativ, dekliniert von widrig","base":"widrig","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"widrigstes","description":"Superlativ, dekliniert von widrig","base":"widrig","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"wie","description":"Adv. — auf welche Art; Fragewort","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"wiebel","description":"Subst. (ugs., regional) — Zwiebel","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"wiebel","description":"Subst., m. — Kornkäfer","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"wiebele","description":"1. Person Singular Konjunktiv I von wiebeln (Verb — wackeln)","base":"wibeln","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"wiebeln","description":"Verb — vernähen, stopfen; wiefeln","base":null,"source":"community","verified_by":"moderator"}
+{"word":"wiebelnd","description":"Part. I von wiebeln","base":"wiebeln","source":"community","verified_by":"moderator"}
+{"word":"wiebelnde","description":"dekl. Part. I von wiebeln","base":"wiebeln","source":"community","verified_by":"moderator"}
+{"word":"wiebelndem","description":"dekl. Part. I von wiebeln","base":"wiebeln","source":"community","verified_by":"moderator"}
+{"word":"wiebelnden","description":"dekl. Part. I von wiebeln","base":"wiebeln","source":"community","verified_by":"moderator"}
+{"word":"wiebelnder","description":"dekl. Part. I von wiebeln","base":"wiebeln","source":"community","verified_by":"moderator"}
+{"word":"wiebelndes","description":"dekl. Part. I von wiebeln","base":"wiebeln","source":"community","verified_by":"moderator"}
+{"word":"wiebelns","description":"Genitiv des substantivierten Infinitivs von wiebeln","base":"wiebeln","source":"community","verified_by":"moderator"}
+{"word":"wiebels","description":"Gen. Sg. von Wiebel","base":"wiebel","source":"community","verified_by":"moderator"}
+{"word":"wiebelst","description":"2. Pers. Sg. Präs. von wiebeln","base":"wiebeln","source":"community","verified_by":"moderator"}
+{"word":"wiebelt","description":"3. Pers. Sg. Präs. von wiebeln","base":"wiebeln","source":"community","verified_by":"moderator"}
+{"word":"wiebelte","description":"Prät. von wiebeln","base":"wiebeln","source":"community","verified_by":"moderator"}
+{"word":"wiebelten","description":"1. & 3. Pers. Pl. Prät. von wiebeln","base":"wiebeln","source":"community","verified_by":"moderator"}
+{"word":"wiebeltest","description":"2. Pers. Sg. Prät. von wiebeln","base":"wiebeln","source":"community","verified_by":"moderator"}
+{"word":"wiebeltet","description":"2. Pers. Pl. Prät. von wiebeln","base":"wiebeln","source":"community","verified_by":"moderator"}
+{"word":"wieble","description":"1. Pers. Sg. Präs. von wiebeln","base":"wiebeln","source":"community","verified_by":"moderator"}
 {"word":"wieche","description":"Subst. (veraltet) — Docht, Wisch","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"wiechen","description":null,"base":"weiche","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"wiedehopf","description":"Subst. — Vogelart (Upupa epops)","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
