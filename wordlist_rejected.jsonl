@@ -4639,6 +4639,7 @@
 {"word":"farner","description":"Subst. — Person, die Farne sammelt oder sich mit Farnen beschäftigt","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"farners","description":"Genitiv Singular von Farner","base":"farner","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fas","description":null,"base":"farsi","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"fasaden","description":"Pl. oder Dativ Plural von Fassade","base":"fassade","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"fascie","description":null,"base":"faszie","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"faselest","description":"Ungültige Beugungsform von faseln: Verben auf -eln/-ern bilden die 2. Person nicht mit -est/-et.","base":"faseln","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"faslest","description":"Ungültige Beugungsform von faseln: die verkürzte Stammform (e-Tilgung) ist nur in der 1. Person Singular und im Imperativ Singular zulässig.","base":"faseln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -7908,6 +7909,7 @@
 {"word":"immunstes","description":"Superlativ von immun, deklinierte Form (Nominativ/ Akkusativ Neut. Sg.)","base":"immun","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"imst","description":null,"base":"im","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"imsts","description":null,"base":"im","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"inaner","description":"Dekl. von inan","base":"inan","source":"community","verified_by":"moderator"}
 {"word":"inans","description":"Gen. Sg. von Inan","base":"inan","source":"community","verified_by":"moderator"}
 {"word":"inarnt","description":"Verb — 3. Pers. Sg. Präsens von inarmen (umarmen, einschließen)","base":"inarmen","corpus_sources":["gutenberg"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"inauen","description":null,"base":"au","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -8347,6 +8349,7 @@
 {"word":"kachlet","description":"Ungültige Beugungsform von kacheln: die verkürzte Stammform (e-Tilgung) ist nur in der 1. Person Singular und im Imperativ Singular zulässig.","base":"kacheln","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"kachon","description":null,"base":"cajon","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"kachons","description":null,"base":"cajon","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"kadaif","description":"Subst. — feines, fadenartiges Gebäck aus dem Orient","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kadarka","description":"Subst. — Rotweinsorte aus Ungarn","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"kaelble","description":null,"base":"kalb","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"kaenzler","description":null,"base":"kanzler","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -9250,6 +9253,7 @@
 {"word":"landau","description":"Subst. — vierrädrige, offene Kutsche; Stadtname (Eigenname) mit Gattungsbedeutung","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","wortschatz"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"landeck","description":null,"base":"la","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"landecks","description":null,"base":"la","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"landungs","description":"Genitiv Singular von Landung","base":"landung","corpus_sources":["hunspell","gutenberg"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"langemann","description":null,"base":"lang","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"langle","description":"Verb — 1. Person Sg. Ind. Präs. von langen (reichen, ausreichen)","base":"langen","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"langmann","description":null,"base":"lang","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -10183,6 +10187,8 @@
 {"word":"mees","description":null,"base":"bart","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"meester","description":null,"base":"meister","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"meetup","description":"Subst. (Neologismus) — informelles Treffen, Veranstaltung","base":null,"corpus_sources":["hunspell","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"megastau","description":"Subst. — sehr großer, langanhaltender Stau","base":null,"corpus_sources":["wiktionary","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"megastaus","description":null,"base":"megastau","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"mehdi","description":null,"base":null,"source":"community","verified_by":"moderator"}
 {"word":"mehlich","description":"Adj. — mehlig, staubig, fein wie Mehl","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"mehlkloss","description":"Schweizer Schreibweise von mehlkloß; in der Liste gilt die Schreibung mit ß","base":null,"corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"community","verified_by":"moderator"}
@@ -15584,6 +15590,7 @@
 {"word":"weinmeyer","description":null,"base":"wein","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"weinmeyr","description":null,"base":"wein","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"weinsosse","description":"Schweizer Schreibweise von weinsoße; in der Liste gilt die Schreibung mit ß","base":"weinsauce","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"community","verified_by":"moderator"}
+{"word":"weinsud","description":"Subst. — Flüssigkeit, die beim Keltern von Trauben entsteht","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"weiss","description":"Schweizer Schreibweise von weiß; in der Liste gilt die Schreibung mit ß","base":null,"corpus_sources":["wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"community","verified_by":"moderator"}
 {"word":"weissbart","description":"Schweizer Schreibweise von weißbart; in der Liste gilt die Schreibung mit ß","base":null,"corpus_sources":["kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"community","verified_by":"moderator"}
 {"word":"weissbier","description":"Schweizer Schreibweise von weißbier; in der Liste gilt die Schreibung mit ß","base":null,"corpus_sources":["wikipedia","gutenberg","kaikki_forms"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"community","verified_by":"moderator"}
