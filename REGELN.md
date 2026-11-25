@@ -4,7 +4,7 @@
 
 Ziel von spielwoerter.de ist es, eine frei verfügbare, lizenzfreie und möglichst vollständige Datenbank deutscher Wörter aufzubauen und regelmäßig zu pflegen. Besonderes Augenmerk wird auf ein einfaches, klar formuliertes Regelwerk ohne große Ausnahmen gelegt.
 
-Als Grundlage des Datenbestands von spielwoerter.de dienen folgende Publikationen bzw. Online-Wörterbücher:
+Als Maßstab für die Zulässigkeit von Wörtern auf spielwoerter.de dienen folgende Publikationen bzw. Online-Wörterbücher:
 
 - Online-Wörterbücher:
   - Duden Online (DO) unter [www.duden.de](https://www.duden.de)
