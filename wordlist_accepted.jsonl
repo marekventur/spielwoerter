@@ -10297,6 +10297,7 @@
 {"word":"anbiedernden","description":"dekl. Part. I von anbiedern","base":"anbiedern","source":"community","verified_by":"moderator"}
 {"word":"anbiedernder","description":"dekl. Part. I von anbiedern","base":"anbiedern","source":"community","verified_by":"moderator"}
 {"word":"anbiederndes","description":"dekl. Part. I von anbiedern","base":"anbiedern","source":"community","verified_by":"moderator"}
+{"word":"anbiederns","description":"Gen. Sg. des subst. Infinitivs von anbiedern","base":"anbiedern","source":"community","verified_by":"moderator"}
 {"word":"anbiederst","description":"2. Pers. Sg. Präs. von anbiedern","base":"anbiedern","source":"community","verified_by":"moderator"}
 {"word":"anbiedert","description":"Verb — 3. Person Sg. Präsens von anbiedern","base":"anbiedern","corpus_sources":["wiktionary","hunspell","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"anbiederte","description":"Prät. / Konj. II von anbiedern","base":"anbiedern","source":"community","verified_by":"moderator"}
@@ -77258,7 +77259,13 @@
 {"word":"furchen","description":"Verb — Furchen ziehen; runzeln","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"furchend","description":"Verb — Partizip I von furchen (Furchen ziehen)","base":"furchen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"furchende","description":"Verb — dekliniertes Partizip I von furchen (Furchen ziehend)","base":"furchen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"furchendem","description":"dekl. Part. I von furchen","base":"furchen","source":"community","verified_by":"moderator"}
+{"word":"furchenden","description":"flektierte Form von furchend (Part. I von furchen)","base":"furchen","source":"community","verified_by":"moderator"}
+{"word":"furchender","description":"flektierte Form von furchend (Part. I von furchen)","base":"furchen","source":"community","verified_by":"moderator"}
+{"word":"furchendes","description":"flektierte Form von furchend (Part. I von furchen)","base":"furchen","source":"community","verified_by":"moderator"}
+{"word":"furchens","description":"Genitiv des substantivierten Infinitivs von furchen","base":"furchen","source":"community","verified_by":"moderator"}
 {"word":"furchest","description":"Verb — 2. Person Singular Konjunktiv I von furchen (Furchen ziehen)","base":"furchen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"furchet","description":"Konj. I, 2. Pers. Pl. von furchen","base":"furchen","source":"community","verified_by":"moderator"}
 {"word":"furchig","description":"Adj. — voller Furchen, runzlig","base":null,"corpus_sources":["hunspell","wortschatz"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"furchige","description":"Deklinierte Form von furchig","base":"furchig","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"furchigem","description":"Deklinierte Form von furchig (Dativ)","base":"furchig","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -77274,6 +77281,9 @@
 {"word":"furchtbarer","description":"deklinierte Form von furchtbar","base":"furchtbar","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"furchtbares","description":"deklinierte Form von furchtbar","base":"furchtbar","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"furchte","description":null,"base":"furche","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"furchten","description":"Prät. Pl. von furchen","base":"furchen","source":"community","verified_by":"moderator"}
+{"word":"furchtest","description":"2. Pers. Sg. Prät. von furchen","base":"furchen","source":"community","verified_by":"moderator"}
+{"word":"furchtet","description":"2. Pers. Pl. Prät. von furchen","base":"furchen","source":"community","verified_by":"moderator"}
 {"word":"furchtlos","description":"Adj. — ohne Furcht, mutig","base":null,"corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"furchtlose","description":"deklinierte Form von furchtlos","base":"furchtlos","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"furchtlosem","description":"deklinierte Form von furchtlos","base":"furchtlos","source":"morphology","verified_by":"wiktionary-de"}
@@ -81776,6 +81786,10 @@
 {"word":"gefunzt","description":"Partizip II von funzen (ugs. für funken, telefonieren)","base":"funzen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gefurcht","description":"Partizip II von furchen — Furchen ziehen, durchfurcht","base":"furchen","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gefurchte","description":"Deklinierte Form von gefurcht (Partizip II von furchen)","base":"furchen","corpus_sources":["wiktionary","hunspell","gutenberg"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"gefurchtem","description":"dekl. Part. II von furchen","base":"furchen","source":"community","verified_by":"moderator"}
+{"word":"gefurchten","description":"dekl. Part. II von furchen","base":"furchen","source":"community","verified_by":"moderator"}
+{"word":"gefurchter","description":"dekl. Part. II von furchen","base":"furchen","source":"community","verified_by":"moderator"}
+{"word":"gefurchtes","description":"dekl. Part. II von furchen","base":"furchen","source":"community","verified_by":"moderator"}
 {"word":"gefurzt","description":"Partizip II von furzen — (derb) einen Darmwind abgehen lassen","base":"furzen","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gefuscht","description":"Partizip II von fuschen — betrügen, mogeln","base":"fuschen","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"gefuschte","description":"Deklinierte Form des Partizips II von fuschen","base":"fuschen","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -127250,7 +127264,6 @@
 {"word":"landhuhn","description":"Subst. — freilaufendes Huhn; Huhn einer alten, robusten Rasse","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"landhäuser","description":"Nominativ/Genitiv/Akkusativ Plural von Landhaus","base":"landhaus","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"landhäusern","description":"Dativ Plural von Landhaus","base":"landhaus","source":"morphology","verified_by":"wiktionary-de"}
-{"word":"landig","description":"Adj. — landschaftlich, ländlich; auch: fest an Land gelegen","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"landisch","description":"Adj. — das Land betreffend, ländlich; auch veraltet für landesüblich","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"landjahr","description":"Subst. — Jahr, das Jugendliche in der Landwirtschaft arbeiten","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"landjuden","description":"Pl. von Landjude — Jude, der auf dem Land lebt","base":"landjude","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -127903,7 +127916,6 @@
 {"word":"latitüden","description":"Pl. von Latitüde","base":"latitüde","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"latizes","description":"Pl. von Latex","base":"latex","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"latkas","description":null,"base":"latkes","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"latke","description":"Subst. (jidd.) — Kartoffelpuffer","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"latkes","description":"Plural von Latke","base":"latke","corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"latrina","description":"Subst. (veraltet) — Abort, Toilette","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"latrine","description":"Subst. — einfacher Abort, Toilettenanlage (oft militärisch)","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
