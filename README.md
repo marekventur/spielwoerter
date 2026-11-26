@@ -53,9 +53,9 @@ We use only factual word forms, not creative expression (definitions, prose). Th
 
 ---
 
-## Scrabble rules
+## Word rules
 
-The rules used to determine which words are valid are documented in [`REGELN.md`](REGELN.md) (in German), based on the official ORZ rules published by Scrabble Deutschland e.V.
+The rules used to determine which words are valid are documented in [`REGELN.md`](REGELN.md) (in German). Inflection follows the grammar notes of the official ORZ rules published by Scrabble Deutschland e.V.
 
 ---
 
@@ -120,7 +120,7 @@ Quality was measured throughout using a black-box oracle (`scripts/oracle/wordli
 wordlist_accepted.jsonl   # PRIMARY OUTPUT — accepted words with metadata
 wordlist_uncertain.jsonl  # Words flagged as uncertain (not in accepted list)
 stats.json                # Auto-generated statistics
-REGELN.md                 # Official Scrabble rules (German)
+REGELN.md                 # Word admissibility rules (German)
 scripts/
   generate_stats.py       # Generates stats.json from wordlist_accepted.jsonl
   build_wordlists.py      # Assembles final JSONL wordlists from TSV + expanded forms

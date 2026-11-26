@@ -1,53 +1,43 @@
-# Deutsche Scrabble-Wortregeln
+# Regeln für die Zulässigkeit von Wörtern auf spielwoerter.de
 
-Zusammenfassung der offiziellen Regeln zur Zulässigkeit von Wörtern beim SCRABBLE (ORZ) von Scrabble Deutschland e.V., wie sie für spielwoerter angewendet wurden.
+## Allgemeines
 
----
+Ziel von spielwoerter.de ist es, eine frei verfügbare, lizenzfreie und möglichst vollständige Datenbank deutscher Wörter aufzubauen und regelmäßig zu pflegen. Besonderes Augenmerk wird auf ein einfaches, klar formuliertes Regelwerk ohne große Ausnahmen gelegt.
 
-## ZULÄSSIG (gültige Wörter)
+Als Maßstab für die Zulässigkeit von Wörtern auf spielwoerter.de dienen folgende Publikationen bzw. Online-Wörterbücher:
 
-1. **Als Stichwort verzeichnete Wörter** sowie deren grammatisch korrekte Beugungsformen und aufgeführte alternative Schreibweisen.
-2. **Fachsprachliche, umgangssprachliche, veraltete, seltene und landschaftliche** Begriffe — gültig, sofern als Stichwort verzeichnet.
-3. **Interjektionen** (z.B. brr, ha, hü, st, hä, mmh, bst) — gültig unabhängig von Satzzeichen.
-4. **Fremdwörter** — nur Lehnwörter, die als eigenständige Stichwörter im deutschen Wörterbuch verzeichnet sind und von deutschsprachigen Muttersprachlern im Alltag verwendet werden (z.B. Score, Arkose, Balkon, Buffet). Die bloße Erkennbarkeit der fremdsprachlichen Herkunft genügt nicht.
-5. **Alte Rechtschreibung**, wenn als Stichwort aufgeführt (z.B. rauh neben rau).
-6. **Ausgeschriebene Buchstaben** des griechischen und deutschen Alphabets (z.B. Xi, My, Phi, Omega, Zett, Eszett, Jot).
-7. **Kurzwörter**, die als solche oder mit „kurz für" gekennzeichnet sind (z.B. Epo, Kita, Aids, Sani, Nife).
-8. **Religiöse/theologische Begriffe**, die als Glaubensbegriffe definiert sind (z.B. Scharia, Thora, Trinität, Manitu, Elohim).
-9. **Mythologische/literarische Begriffe**, sofern sie Pluralangabe, übertragene Bedeutung oder Ableitungen haben (z.B. Lindwurm [Pl. Lindwürmer], Isegrim [= mürrischer Mensch], herkulisch).
-10. **Produktnamen mit ®**, sofern Pluralbildung möglich (z.B. Jeep→Jeeps, Colt→Colts). Ableitungen von Produktnamen sind statthaft (z.B. googeln).
-11. **Zusammengesetzte Substantive und Verben**, wenn als Stichwort aufgeführt. Deklination richtet sich nach dem hinteren Nomen.
-12. **Verschmelzungen**, wenn als Stichwort eingetragen (z.B. fürs, aufm, übern).
-13. **Namen als Gattungsbezeichnungen** mit Plural oder übertragener Bedeutung (z.B. Krösus = sehr reicher Mensch; Riviera Pl. Rivieren).
-14. **Einwohnerbezeichnungen, Sprachnamen, abgeleitete Adjektive** von Ortsnamen (z.B. Ire, Bremer, Englisch, dänisch).
-15. **Völker- und Stammesnamen**, wenn explizit als Stichwort verzeichnet (z.B. Sioux, Quade, Staufe).
-16. **Staatsorgane und Institutionen** (z.B. Bundeswehr, Bundesrat, Folketing, Stasi).
-17. **Ären, Epochen, historische Ereignisse** (z.B. Trias, Altertum, Spätbarock, Vormärz, Krimkrieg).
-18. **Politische Widerstandsbewegungen** (z.B. Intifada, Maquis, Hamas).
-19. **Fremdsprachliche Titel und Anreden** (z.B. Don, Sir, Lady, Countess, Mirza).
-20. **Vegetations- und Klimazonen** (z.B. Puna, Arktis, Tropen).
-21. **Geophysikalische Begriffe** (z.B. Nordpol, Südpol, Äquator).
+- Online-Wörterbücher:
+  - Duden Online (DO) unter [www.duden.de](https://www.duden.de)
+  - Digitales Wörterbuch der Deutschen Sprache (DWDS) unter [www.dwds.de](https://www.dwds.de)
+- Aktuelle Publikationen des Duden-Verlags:
+  - Duden – Die deutsche Rechtschreibung (DR)
+  - Duden – Deutsches Universalwörterbuch (DUW)
+  - Duden – Fremdwörterbuch (FW)
+  - Duden – Die Grammatik (GR)
 
 ---
 
-## UNZULÄSSIG (ungültige Wörter)
+## I. Regeln zur Zulässigkeit von Wörtern
 
-1. **Eigennamen**: Vor-/Nachnamen, Ortsnamen, Himmelskörper, Firmennamen, einzigartige Organisationen/Parteien — AUSSER sie haben auch eine Gattungsbedeutung mit Plural (siehe Zulässig Nr. 13).
-2. **Abkürzungen**: erkennbar an Punkten, Erläuterung als Abkürzung, buchstabenweiser Aussprache, mehreren Großbuchstaben, chemischen Zeichen, Handelsklauseln, Währungscodes oder Gleichheitszeichen nach dem Stichwort (z.B. K.o., BH, EDV, Fe, EUR).
-3. **Wörter mit Sonderzeichen**: Bindestriche, Apostrophe, Punkte (z.B. Jo-Jo, mega-in, 'naus).
-4. **Vor- und Nachsilben** alleinstehend (z.B. aero..., anti..., ...heit, ...keit).
-5. **Einzelwörter aus Wortgruppen** ohne eigenen Stichworteintrag (z.B. „se" aus „per se", „quo" aus „Status quo").
-6. **Tierfabelnamen** (z.B. Murner, Grimbart, Malepartus).
-7. **Mythologische/literarische Begriffe**, die eine einzige Person oder Sache beschreiben, ohne Plural/übertragene Bedeutung (z.B. Edda, Charybdis, Styx).
-8. **Produktnamen ohne Plural** (z.B. Botox, Buna, Teflon, Viagra).
-9. **Zusammengesetzte Wörter mit geografischem Eigennamen**, die ein Gebiet bezeichnen (z.B. Aztekenreich, Rheingau, Poebene).
-10. **Nur im Plural aufgeführte Personengruppen** (z.B. Fulbe, Alpini, Amish, Enakiter).
-11. **Geschlechtsspezifische Ableitungen** ohne eigenen Stichworteintrag (z.B. „Bohrerin" ungültig, wenn nicht eigenständig verzeichnet, auch wenn „Bohrer" existiert).
-12. **Verschmelzungen mit „es"**, die nicht als Stichwort eingetragen sind (z.B. „habs", „wers").
+1. Zulässig sind alle Wörter, welche in einer der o. a. Publikationen als eigene Stichworteinträge angegeben sind und folgende Kriterien erfüllen:
+   - a. sie bestehen aus einem einzigen zusammengeschriebenen Wort
+   - b. sie bestehen maximal aus einem führenden Großbuchstaben
+   - c. sie enthalten keine Satz- oder Sonderzeichen (Ausnahmen: diakritische Zeichen an Buchstaben und Buchstabenverschmelzungen; Ausrufezeichen bei Interjektionen)
+   - d. sie werden nicht ausschließlich als Abkürzung aufgeführt
+2. Ebenso zulässig sind in den Stichworteinträgen von zulässigen Wörtern aufgeführte alternative Schreibweisen, auch wenn diese keinen eigenen Stichworteintrag haben.
+3. Zulässig sind Eigennamen von Personen, sofern sie einen eigenen Stichworteintrag haben; ebenso sind ihre im Stichworteintrag aufgeführten Vornamen zulässig, sofern diese nicht nach Regel 1 unzulässig sind.
+4. Alle Interjektionen sind zulässig, eventuelle Satzzeichen wie das Ausrufezeichen werden dabei ignoriert (siehe auch 1.c.).
+5. Alle grammatisch korrekten Beugungsformen der unter 1. bis 4. genannten zulässigen Wörter sind zulässig, maßgeblich für die Zulässigkeit sind die Beugungsregeln unter II.
+6. Sollte ein Wort nach den Regeln 1. bis 5. in einem der zugelassenen Wörterbücher zulässig sein, ist es auch dann zulässig, wenn dieses Wort in einem anderen der zugelassenen Wörterbücher als falsch aufgeführt wird.
+7. Ergibt sich für ein Wort aus den Regeln 1. bis 6. keine klare Zulässigkeit, so ist von seiner Zulässigkeit auszugehen.
 
 ---
 
-## BEUGUNGSREGELN
+## II. Beugungsregeln
+
+Die Beugungsregeln von Wörtern richten sich nach den „Erläuterungen zur Grammatik“ aus den [„Offiziellen Regeln zur Zulässigkeit von Wörtern bei Scrabble“](https://scrabble-info.de/wp-content/uploads/2026/03/ORZ-20260315.pdf) des Scrabble Deutschland e. V., Stand 15.03.2026. Maßgeblich ist der dortige Text.
+
+Die folgende Übersicht fasst die wichtigsten Punkte in eigenen Worten zusammen. Sie dient nur der Orientierung; bei Abweichungen gelten die verlinkten Erläuterungen.
 
 ### Verben
 
@@ -92,11 +82,3 @@ Zusammenfassung der offiziellen Regeln zur Zulässigkeit von Wörtern beim SCRAB
 - **Lateinische/romanische Endung -er**: e KANN entfallen (z.B. makabrem, propre). NICHT bei englisch- oder hebräischstämmigen Adjektiven.
 - **Endung -auer/-euer**: e KANN beibehalten werden (teueres neben teures).
 - **Adjektive auf -ere**: KEINE e-Tilgung (vordere bleibt, nicht vordre).
-
----
-
-## Grenzfälle
-
-Wörter, die sowohl Eigenname als auch Gattungsbezeichnung sind (z.B. „mark" als Währungseinheit/Grenzlinie vs. Eigenname „Mark") sind aufgrund der Gattungsbedeutung zulässig.
-
-Wörter, bei denen echte Unsicherheit besteht — ob ein Grundwort im Wörterbuch verzeichnet ist, ob eine Beugungsform nach den obigen Regeln zulässig ist — werden in spielwoerter mit `"uncertain": true` markiert und sind nicht in der Hauptliste enthalten.
