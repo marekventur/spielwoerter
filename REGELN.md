@@ -25,7 +25,10 @@ Als Maßstab für die Zulässigkeit von Wörtern auf spielwoerter.de dienen folg
    - c. sie enthalten keine Satz- oder Sonderzeichen (Ausnahmen: diakritische Zeichen an Buchstaben und Buchstabenverschmelzungen; Ausrufezeichen bei Interjektionen)
    - d. sie werden nicht ausschließlich als Abkürzung aufgeführt
 2. Ebenso zulässig sind in den Stichworteinträgen von zulässigen Wörtern aufgeführte alternative Schreibweisen, auch wenn diese keinen eigenen Stichworteintrag haben.
-3. Zulässig sind Eigennamen von Personen, sofern sie einen eigenen Stichworteintrag haben; ebenso sind ihre im Stichworteintrag aufgeführten Vornamen zulässig, sofern diese nicht nach Regel 1 unzulässig sind.
+3. Zulässig sind auch Eigennamen von Personen, sofern sie einen eigenen Stichworteintrag haben. Auch die im Stichworteintrag aufgeführten Vornamen sind zulässig, sofern sie nicht nach Regel 1 unzulässig sind.
+   - Beispiel „Einstein, Albert“: Sowohl „Einstein“ als auch „Albert“ sind gültige Wörter.
+   - Beispiel „Rousseau, Jean-Jacques“: „Rousseau“ ist gültig, „Jean-Jacques“ nicht, da der Vorname einen Bindestrich enthält.
+   - Beispiel „Lessing, Gotthold Ephraim“: Sowohl „Lessing“ als auch „Gotthold“ als auch „Ephraim“ sind gültige Wörter.
 4. Alle Interjektionen sind zulässig, eventuelle Satzzeichen wie das Ausrufezeichen werden dabei ignoriert (siehe auch 1.c.).
 5. Alle grammatisch korrekten Beugungsformen der unter 1. bis 4. genannten zulässigen Wörter sind zulässig, maßgeblich für die Zulässigkeit sind die Beugungsregeln unter II.
 6. Sollte ein Wort nach den Regeln 1. bis 5. in einem der zugelassenen Wörterbücher zulässig sein, ist es auch dann zulässig, wenn dieses Wort in einem anderen der zugelassenen Wörterbücher als falsch aufgeführt wird.
