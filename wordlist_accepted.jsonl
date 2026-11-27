@@ -8918,7 +8918,6 @@
 {"word":"almest","description":"Konj. I, 2. Pers. Sg. von almen","base":"almen","source":"community","verified_by":"moderator"}
 {"word":"almet","description":"Konj. I, 2. Pers. Pl. von almen","base":"almen","source":"community","verified_by":"moderator"}
 {"word":"almhirte","description":"Subst. — Person, die das Vieh auf der Alm hütet","base":"almhirt","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"almhof","description":"Subst. — Bauernhof auf einer Alm","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"almhütte","description":"Subst. — einfache Hütte auf einer Alm","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"almhütten","description":"Pl. von Almhütte","base":"almhütte","corpus_sources":["wiktionary","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"almkäse","description":"Subst. — auf der Alm hergestellter Käse","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -11420,6 +11419,7 @@
 {"word":"angehexter","description":"dekl. Part. II von anhexen","base":"anhexen","source":"community","verified_by":"moderator"}
 {"word":"angehextes","description":"dekl. Part. II von anhexen","base":"anhexen","source":"community","verified_by":"moderator"}
 {"word":"angehimmelt","description":"Partizip II von anhimmeln","base":"anhimmeln","source":"morphology","verified_by":"wiktionary-de"}
+{"word":"angehn","description":"Infinitiv sowie 1. & 3. Pers. Präs. mit e-Tilgung von angehen","base":"angehen","source":"community","verified_by":"moderator"}
 {"word":"angehoben","description":"Partizip II von anheben (erhöhen, beginnen zu heben)","base":"anheben","corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"angehobne","description":"Deklinierte Form des Partizips II (angehoben) mit e-Tilgung","base":"anheben","corpus_sources":["ne_contracted"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"angehockt","description":"Partizip II von anhocken — sich hinsetzen, hocken","base":"anhocken","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -36057,6 +36057,12 @@
 {"word":"bimsten","description":"1./3. Person Plural Präteritum von bims(en) — mit Bimsstein reiben/schleifen","base":"bimsen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"bimstest","description":"2. Person Singular Präteritum von bims(en)","base":"bimsen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"bin","description":"Verb — 1. Person Singular Präsens von sein","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"binar","description":"Adj. — aus zwei Einheiten bestehend; binär","base":null,"source":"community","verified_by":"moderator"}
+{"word":"binare","description":"Dekl. von binar","base":"binar","source":"community","verified_by":"moderator"}
+{"word":"binarem","description":"Dekl. von binar","base":"binar","source":"community","verified_by":"moderator"}
+{"word":"binaren","description":"Dekl. von binar","base":"binar","source":"community","verified_by":"moderator"}
+{"word":"binarer","description":"flekt. Form von binar","base":"binar","source":"community","verified_by":"moderator"}
+{"word":"binares","description":"Dekl. von binar","base":"binar","source":"community","verified_by":"moderator"}
 {"word":"binarisch","description":"Adj. — die binäre Zahlendarstellung betreffend","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"binarische","description":"deklinierte Form von binarisch","base":"binarisch","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"binarischem","description":"deklinierte Form von binarisch","base":"binarisch","source":"morphology","verified_by":"wiktionary-de"}
@@ -44110,11 +44116,8 @@
 {"word":"charts","description":"Pl. von Chart — Musik- oder Verkaufsranglisten","base":"chart","corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"chasar","description":"Subst. — Angehöriger eines historischen Turkvolkes (auch Chasaren)","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"chasaren","description":"Pl. von Chasar","base":"chasar","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"chass","description":null,"base":"chasse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"chasse","description":"Subst. (frz.) — 1. Jagd. 2. Tanzschritt. 3. Likörglas","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"chasselas","description":"Subst. — Weißweinrebsorte (Gutedel)","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"chassen","description":null,"base":"chasse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"chassend","description":null,"base":"chasse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"chassepot","description":"Subst. — französisches Hinterladegewehr des 19. Jahrhunderts","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"chassest","description":"Verb — 2. Person Singular Konjunktiv I von chassen (dass du chassest)","base":"chassen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"chasseur","description":"Subst. (aus dem Franz.) — Jäger; (im Restaurant) Kellner für bestimmte Aufgaben","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -44126,8 +44129,6 @@
 {"word":"chassidim","description":null,"base":"chassid","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"chassids","description":null,"base":"chassid","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"chassis","description":"Subst. (n.) — Fahrgestell, Grundrahmen eines Fahrzeugs","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"chasst","description":null,"base":"chasse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"chasste","description":null,"base":"chasse","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"chat","description":"Subst. (ugs.) — Kurzform für Chatroom, Online-Unterhaltung","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"chatbot","description":"Subst. (m.) — Computerprogramm zur Simulation von Gesprächen mit einem menschlichen Partner","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"chatbots","description":"Pl. von Chatbot — Dialogsystem zur automatisierten Kommunikation","base":"chatbot","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -44315,8 +44316,6 @@
 {"word":"chiasmus","description":"Subst., m. — rhetorische Stilfigur der Kreuzstellung von Satzteilen","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"chiaöl","description":"Subst. — aus Chiasamen gewonnenes Öl","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"chic","description":"Adj. — elegant, modisch, schick","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"chicane","description":"Subst. (fachspr., Rennsport) — künstlich angelegte, enge Kurvenfolge auf einer Rennstrecke","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"chicanes","description":"Pl. von Chicane","base":"chicane","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"chicha","description":"Subst. (f.) — alkoholisches Getränk aus Mais in Lateinamerika","base":null,"corpus_sources":["wiktionary","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"chichewa","description":"Subst. — Bantusprache in Malawi und angrenzenden Gebieten","base":null,"corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"chichewas","description":null,"base":"chichewa","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -44637,6 +44636,8 @@
 {"word":"christe","description":"Subst. (veraltet, poet.) — Christ","base":"christ","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"christen","description":"Verb — jemanden taufen, auf den Namen Christi taufen","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"christens","description":"Genitiv Singular von 'Christ' (Anhänger Christi) oder 3. Person Singular Präsens von 'christen'","base":"christ","corpus_sources":["wiktionary","wikipedia","wortschatz"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"christentum","description":"Subst., n. — auf Jesus Christus und seine Lehre gegründete monotheistische Religion","base":null,"source":"community","verified_by":"moderator"}
+{"word":"christentums","description":"Gen. Sg. von Christentum","base":"christentum","source":"community","verified_by":"moderator"}
 {"word":"christi","description":"Genitiv Singular von 'Christus' (Jesus Christus)","base":"christus","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"christin","description":null,"base":"christe","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"christo","description":null,"base":"christi","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -48646,15 +48647,11 @@
 {"word":"dezidierten","description":"deklinierte Form von dezidiert","base":"dezidiert","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"dezidierter","description":"deklinierte Form von dezidiert","base":"dezidiert","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"dezidiertes","description":"deklinierte Form von dezidiert","base":"dezidiert","source":"morphology","verified_by":"wiktionary-de"}
-{"word":"dezil","description":"Subst. (Statistik) — eines von neun Werten, die eine geordnete Datenreihe in zehn gleiche Teile teilen","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"dezile","description":"Deklinierte Form von Dezil (Nominativ/Akkusativ Plural, Dativ Singular)","base":"dezil","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"dezilen","description":"Deklinierte Form von Dezil (Dativ Plural)","base":"dezil","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"deziliter","description":"Subst. — Zehntelliter, metrische Einheit","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"dezilitern","description":"Dativ Plural von Deziliter","base":"deziliter","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"deziliters","description":"Genitiv Singular von Deziliter","base":"deziliter","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"dezillion","description":"Subst. (veraltet) — Zahlwort für 10^60 (im dt. System) oder 10^33 (im US-System)","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"dezillionen","description":"Plural von Dezillion","base":"dezillion","source":"morphology","verified_by":"wiktionary-de"}
-{"word":"dezils","description":null,"base":"dezil","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"dezimal","description":"Adj. — auf die Zahl Zehn bezogen, im Zehnersystem","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"dezimale","description":"Deklinierte Form von dezimal (z.B. fem. Nom./Akk. Sg. oder Nom./Akk. Pl.)","base":"dezimal","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"dezimalem","description":"Deklinierte Form von dezimal (mask./neut. Dat. Sg.)","base":"dezimal","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -51800,7 +51797,7 @@
 {"word":"druschen","description":"1./3. Person Pl. Präteritum von dreschen","base":"dreschen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"drusches","description":null,"base":"drusch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"druschs","description":null,"base":"drusch","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"druse","description":"Subst., f. — 1. Hohlraum in Gestein mit Mineralauskleidung; 2. (veraltet) Drüse","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"druse","description":"Subst., f. — 1. Hohlraum in Gestein mit Mineralauskleidung 2. Krankheit bei Pferden; Subst., m. — Angehöriger einer islam. Glaubensgemeinschaft","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"drusel","description":null,"base":"druselt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"drusele","description":null,"base":"druselt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"druseln","description":null,"base":"druselt","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -61097,7 +61094,21 @@
 {"word":"entstande","description":"Partizip II von entstehen (veraltet/gehoben)","base":"entstehen","corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"entstanden","description":"Partizip II von entstehen","base":"entstehen","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"entstaube","description":"1./3. Person Singular Konjunktiv I von entstauben","base":"entstauben","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"entstauben","description":"Verb — 1. von Staub befreien 2. modernisieren, auffrischen","base":null,"source":"community","verified_by":"moderator"}
+{"word":"entstaubend","description":"Part. I von entstauben","base":"entstauben","source":"community","verified_by":"moderator"}
+{"word":"entstaubende","description":"dekl. Part. I von entstauben","base":"entstauben","source":"community","verified_by":"moderator"}
+{"word":"entstaubens","description":"Genitiv des substantivierten Infinitivs von entstauben","base":"entstauben","source":"community","verified_by":"moderator"}
+{"word":"entstaubest","description":"Konj. I, 2. Pers. Sg. von entstauben","base":"entstauben","source":"community","verified_by":"moderator"}
+{"word":"entstaubet","description":"Konj. I, 2. Pers. Pl. von entstauben","base":"entstauben","source":"community","verified_by":"moderator"}
+{"word":"entstaubst","description":"2. Pers. Sg. Präs. von entstauben","base":"entstauben","source":"community","verified_by":"moderator"}
 {"word":"entstaubt","description":"3. Person Singular Indikativ Präsens oder Partizip II von entstauben","base":"entstauben","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"entstaubte","description":"Prät. von entstauben","base":"entstauben","source":"community","verified_by":"moderator"}
+{"word":"entstaubtem","description":"dekl. Part. II von entstauben","base":"entstauben","source":"community","verified_by":"moderator"}
+{"word":"entstaubten","description":"Prät. Pl. von entstauben","base":"entstauben","source":"community","verified_by":"moderator"}
+{"word":"entstaubter","description":"dekl. Part. II von entstauben","base":"entstauben","source":"community","verified_by":"moderator"}
+{"word":"entstaubtes","description":"dekl. Part. II von entstauben","base":"entstauben","source":"community","verified_by":"moderator"}
+{"word":"entstaubtest","description":"2. Pers. Sg. Prät. von entstauben","base":"entstauben","source":"community","verified_by":"moderator"}
+{"word":"entstaubtet","description":"2. Pers. Pl. Prät. von entstauben","base":"entstauben","source":"community","verified_by":"moderator"}
 {"word":"entsteh","description":null,"base":"enstünde","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"entstehe","description":"1./3. Person Singular Konjunktiv I von entstehen","base":"entstehen","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"entstehen","description":"Verb — sich bilden, hervorgehen, anfangsweise da sein","base":null,"corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -100295,7 +100306,7 @@
 {"word":"helgens","description":"Gen. Sg. von Helgen","base":"helgen","source":"community","verified_by":"moderator"}
 {"word":"helger","description":"Komparativ von helg (norddt., veraltet) — heiliger","base":"helg","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"heli","description":"Subst. (ugs., Kurzwort) — Helikopter","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"helices","description":null,"base":"helix","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"helices","description":"Gen. von Helix","base":"helix","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"helicon","description":"Subst. (Musik) — tiefes Blechblasinstrument, kreisförmig gewunden","base":null,"corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"helikoid","description":"Subst. (Math.) — schraubenförmige, gewundene Fläche","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"helikoide","description":"Deklinierte Form (Nom./Akk. Pl., Dat. Sg.) von Helikoid","base":"helikoid","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
