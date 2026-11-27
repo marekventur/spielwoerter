@@ -108065,6 +108065,7 @@
 {"word":"hürde","description":"Subst. (f.) — Hindernis, Schwierigkeit; Sportgerät","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hürden","description":"Pl. von Hürde; auch Dativ Singular (mit Dativ-e)","base":"hürde","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hürdenlos","description":"Adj. — ohne Hindernisse, ungehindert","base":null,"corpus_sources":["wortschatz"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"hüst","description":"Interj. — Fuhrmannsruf an Zugtiere: nach links!","base":null,"source":"community","verified_by":"moderator"}
 {"word":"hüstel","description":"Verb — Imperativ Singular von hüsteln","base":"hüsteln","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hüstele","description":"Verb — 1. Person Singular Konjunktiv I von hüsteln","base":"hüsteln","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"hüsteln","description":"Verb — leicht und wiederholt husten","base":null,"corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -189888,6 +189889,11 @@
 {"word":"stechen","description":"Verb — mit einem spitzen Gegenstand eindringen, verletzen","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"stechend","description":"Partizip I von stechen, adjektivisch verwendbar","base":"stechen","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"stechende","description":"Deklinierte Form des Adjektivs/Partizips stechend","base":"stechend","corpus_sources":["wiktionary","hunspell","gutenberg","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"stechendem","description":"Dekl. von stechend","base":"stechend","source":"community","verified_by":"moderator"}
+{"word":"stechenden","description":"Dekl. von stechend","base":"stechend","source":"community","verified_by":"moderator"}
+{"word":"stechender","description":"Dekl. von stechend","base":"stechend","source":"community","verified_by":"moderator"}
+{"word":"stechendes","description":"Dekl. von stechend","base":"stechend","source":"community","verified_by":"moderator"}
+{"word":"stechendste","description":"Dekl. Superl. von stechend","base":"stechend","source":"community","verified_by":"moderator"}
 {"word":"stechens","description":"Genitiv des substantivierten Infinitivs stechen","base":"stechen","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"stecher","description":"Subst. — Person oder Gerät, das sticht","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"stecherin","description":null,"base":"stecher","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -199045,9 +199051,11 @@
 {"word":"threnodie","description":"Subst. (f.) — Trauer- oder Klagelied, Trauergesang","base":null,"corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"threnodien","description":"Plural von Threnodie","base":"threnodie","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"threonin","description":"Subst. (n.) — essentielle Aminosääre","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"thrill","description":"Subst., m. — prickelnde Erregung, Nervenkitzel","base":null,"source":"community","verified_by":"moderator"}
 {"word":"thriller","description":"Subst. (m.) — spannender Roman, Film o.Ä","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"thrillern","description":"Dativ Plural von Thriller","base":"thriller","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"thrillers","description":"Genitiv Singular oder Nominativ Plural von Thriller","base":"thriller","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"thrills","description":"Gen. Sg. und Pl. von Thrill","base":"thrill","source":"community","verified_by":"moderator"}
 {"word":"thripse","description":"Pl. von Thrips — Insekten der Ordnung Thysanoptera (Fransenflügler)","base":"thrips","corpus_sources":["wiktionary","wikipedia","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"thripsen","description":null,"base":"thrips","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"thripses","description":"Genitiv Singular von Thrips","base":"thrips","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
@@ -203654,6 +203662,8 @@
 {"word":"tuckerten","description":"Präteritum von tuckern (1./3. Person Plural)","base":"tuckern","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"tuckertet","description":"Präteritum von tuckern (2. Person Plural)","base":"tuckern","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"tuckre","description":null,"base":"tucker","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"tudor","description":"Subst., m. — Angehöriger eines englischen Herrschergeschlechts","base":null,"source":"community","verified_by":"moderator"}
+{"word":"tudors","description":"Gen. Sing. von Tudor","base":null,"source":"community","verified_by":"moderator"}
 {"word":"tue","description":"1. Person Singular Präsens sowie 1./3. Person Singular Konjunktiv I sowie Imperativ Singular von tun","base":"tun","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"tuen","description":"1. Person Plural Konjunktiv I Präsens Aktiv","base":"tun","source":"community","verified_by":"moderator"}
 {"word":"tuend","description":"Partizip I von tun","base":"tun","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -224274,6 +224284,7 @@
 {"word":"weihfeuer","description":"Subst. (n.) — Feuer, das zu einem Weiheakt entzündet wird","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"weihkreuz","description":"Subst. (n.) — geweihtes Kreuz, Segenskreuz","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"weihnacht","description":"Subst. (veraltet/kurz) — Weihnachten","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"weihnachten","description":"Subst., n. (auch Pl.) — christliches Fest der Geburt Christi am 25. Dezember","base":null,"source":"community","verified_by":"moderator"}
 {"word":"weihrauch","description":"Subst. — aromatisches Harz für Räucherungen","base":null,"corpus_sources":["wiktionary","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"weihrauche","description":"Dativ Singular, Nominativ/Genitiv/Akkusativ Plural von Weihrauch","base":"weihrauch","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"weihrauchen","description":"Dativ Plural von Weihrauch","base":"weihrauch","source":"morphology","verified_by":"wiktionary-de"}
