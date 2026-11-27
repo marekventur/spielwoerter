@@ -175193,19 +175193,45 @@
 {"word":"sarissen","description":"Pl. von Sarissa","base":"sarissa","corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sarkasmen","description":"Pl. von Sarkasmus","base":"sarkasmus","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sarkasmus","description":"Subst. — beißender, verletzender Spott","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"sarkom","description":"Subst. (Med.) — Sarkom, bösartiger Tumor des Bindegewebes","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"sarkoma","description":null,"base":"sarkom","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
-{"word":"sarkome","description":"Pl. von Sarkom — bösartiger Tumor aus Bindegewebe","base":"sarkom","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"sarkomen","description":"Dativ Pl. von Sarkom","base":"sarkom","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"sarkode","description":"Subst., f. — (biol.) veraltete Bezeichnung für das Protoplasma einzelliger Lebewesen","base":null,"source":"community","verified_by":"moderator"}
+{"word":"sarkoden","description":"Pl. von Sarkode","base":"sarkode","source":"community","verified_by":"moderator"}
+{"word":"sarkoid","description":"Adj. — sarkomähnliche, meist gutartige Geschwulst, z. B. bei Pferden","base":null,"source":"community","verified_by":"moderator"}
+{"word":"sarkoide","description":"Dekl. von sarkoid (sarkomähnlich)","base":"sarkoid","source":"community","verified_by":"moderator"}
+{"word":"sarkoidem","description":"Dekl. von sarkoid (sarkomähnlich)","base":"sarkoid","source":"community","verified_by":"moderator"}
+{"word":"sarkoiden","description":"Dekl. von sarkoid (sarkomähnlich)","base":"sarkoid","source":"community","verified_by":"moderator"}
+{"word":"sarkoider","description":"Dekl. von sarkoid (sarkomähnlich)","base":"sarkoid","source":"community","verified_by":"moderator"}
+{"word":"sarkoides","description":"Dekl. von sarkoid (sarkomähnlich)","base":"sarkoid","source":"community","verified_by":"moderator"}
+{"word":"sarkoidose","description":"Subst., f. —  systemische Erkrankung des Bindegewebes mit Granulombildung (Morbus Boeck)","base":null,"source":"community","verified_by":"moderator"}
+{"word":"sarkoidosen","description":"Pl. von Sarkoidose","base":"sarkoidose","source":"community","verified_by":"moderator"}
+{"word":"sarkolemm","description":"Subst., n. — Zellmembran, die eine Muskelfaser umhüllt","base":null,"source":"community","verified_by":"moderator"}
+{"word":"sarkolemmen","description":"Pl. von Sarkolemm","base":"sarkolemm","source":"community","verified_by":"moderator"}
+{"word":"sarkolemms","description":"Gen. Sg. von Sarkolemm","base":"sarkolemm","source":"community","verified_by":"moderator"}
+{"word":"sarkom","description":"Subst., n. — bösartiger Tumor des Bindegewebes","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"sarkoma","description":"Subst., n. — bösartiger Tumor des Bindegewebes; Sarkom","base":null,"corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"sarkomas","description":"Gen. Sg. von Sarkoma","base":"sarkoma","source":"community","verified_by":"moderator"}
+{"word":"sarkomata","description":"Pl. von Sarkoma","base":"sarkom","source":"community","verified_by":"moderator"}
+{"word":"sarkomatose","description":"Subst., f. — Multiple Tumore des Muskel-, Binde-, Stütz- oder Nervengewebes im fortgeschrittenen Stadium","base":null,"source":"community","verified_by":"moderator"}
+{"word":"sarkomatosen","description":"Pl. von Sarkomatose","base":"sarkomatose","source":"community","verified_by":"moderator"}
+{"word":"sarkomatös","description":"Adj. — 1. sarkomartig verändertes Gewebe 2. durch Sarkomatose hervorgerufen","base":null,"source":"community","verified_by":"moderator"}
+{"word":"sarkomatöse","description":"Dekl. von sarkomatös","base":"sarkomatös","source":"community","verified_by":"moderator"}
+{"word":"sarkomatösem","description":"Dekl. von sarkomatös","base":"sarkomatös","source":"community","verified_by":"moderator"}
+{"word":"sarkomatösen","description":"Dekl. von sarkomatös","base":"sarkomatös","source":"community","verified_by":"moderator"}
+{"word":"sarkomatöser","description":"Dekl. von sarkomatös","base":"sarkomatös","source":"community","verified_by":"moderator"}
+{"word":"sarkomatöses","description":"Dekl. von sarkomatös","base":"sarkomatös","source":"community","verified_by":"moderator"}
+{"word":"sarkome","description":"Nom. Pl. von Sarkom (Tumor)","base":"sarkom","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"sarkomen","description":"Dativ Pl. von Sarkom (Tumor)","base":"sarkom","corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sarkomer","description":"Subst. (Biol.) — kleinste kontraktile Einheit der Muskelfaser","base":null,"corpus_sources":["hunspell","wikipedia"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sarkomere","description":"Pl. von Sarkomer","base":"sarkomer","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sarkomers","description":"Genitiv Sg. von Sarkom","base":"sarkom","corpus_sources":["hunspell"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"sarkoms","description":"Genitiv Sg. von Sarkom","base":"sarkom","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"sarkophag","description":"Subst. — steinerner Sarg, antike Grabstätte","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"sarkophage","description":"Nominativ/Genitiv/Akkusativ Plural von Sarkophag","base":"sarkophag","source":"morphology","verified_by":"wiktionary-de"}
+{"word":"sarkoms","description":"Genitiv Sg. von Sarkom (Tumor)","base":"sarkom","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"sarkophag","description":"Subst., m. — großer, oft prunkvoller Sarg, in welchem bedeutende Persönlichkeiten beerdigt sind","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"sarkophage","description":"Nom Pl. von Sarkophag","base":"sarkophag","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"sarkophagen","description":"Dativ Plural von Sarkophag","base":"sarkophag","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"sarkophages","description":"Genitiv Singular von Sarkophag","base":"sarkophag","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"sarkophags","description":"Genitiv Singular von Sarkophag","base":"sarkophag","source":"morphology","verified_by":"wiktionary-de"}
+{"word":"sarkoplasma","description":"Subst., n. — Protoplasma der Muskelzellen","base":null,"source":"community","verified_by":"moderator"}
+{"word":"sarkoplasmas","description":"Gen. Sg. von Sarkoplasma","base":"sarkoplasma","source":"community","verified_by":"moderator"}
+{"word":"sarkoplasmen","description":"Pl. von Sarkoplasma","base":"sarkoplasma","source":"community","verified_by":"moderator"}
 {"word":"sarkosin","description":"Subst. (Biochem.) — Aminosäure, Zwischenprodukt im Stoffwechsel","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sarmate","description":"Subst. — Angehöriger eines antiken Reitervolkes","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"sarmaten","description":"Pl. von Sarmate — Angehöriger eines antiken Reitervolkes","base":"sarmate","corpus_sources":["wiktionary","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -189892,8 +189918,15 @@
 {"word":"stechendem","description":"Dekl. von stechend","base":"stechend","source":"community","verified_by":"moderator"}
 {"word":"stechenden","description":"Dekl. von stechend","base":"stechend","source":"community","verified_by":"moderator"}
 {"word":"stechender","description":"Dekl. von stechend","base":"stechend","source":"community","verified_by":"moderator"}
+{"word":"stechendere","description":"Dekl. Komp. von stechend","base":"stechend","source":"community","verified_by":"moderator"}
+{"word":"stechenderen","description":"Dekl. Komp. von stechend","base":"stechend","source":"community","verified_by":"moderator"}
 {"word":"stechendes","description":"Dekl. von stechend","base":"stechend","source":"community","verified_by":"moderator"}
+{"word":"stechendst","description":"Abs. Superl. (Elativ) von stechend","base":"stechend","source":"community","verified_by":"moderator"}
 {"word":"stechendste","description":"Dekl. Superl. von stechend","base":"stechend","source":"community","verified_by":"moderator"}
+{"word":"stechendstem","description":"Dekl. Superl. von stechend","base":"stechend","source":"community","verified_by":"moderator"}
+{"word":"stechendsten","description":"Dekl. Superl. von stechend","base":"stechend","source":"community","verified_by":"moderator"}
+{"word":"stechendster","description":"Dekl. Superl. von stechend","base":"stechend","source":"community","verified_by":"moderator"}
+{"word":"stechendstes","description":"Dekl. Superl. von stechend","base":"stechend","source":"community","verified_by":"moderator"}
 {"word":"stechens","description":"Genitiv des substantivierten Infinitivs stechen","base":"stechen","corpus_sources":["wiktionary","hunspell","gutenberg","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"stecher","description":"Subst. — Person oder Gerät, das sticht","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"stecherin","description":null,"base":"stecher","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
