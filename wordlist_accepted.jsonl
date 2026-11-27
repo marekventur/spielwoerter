@@ -60729,14 +60729,25 @@
 {"word":"entmiete","description":"Verb — 1. Person Singular Indikativ/Konjunktiv I und Imperativ Singular von entmieten","base":"entmieten","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"entmieten","description":"Verb — (jemanden) aus einer Mietwohnung verdrängen","base":null,"corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"entmietet","description":"Verb — 3. Person Singular Indikativ Präsens oder Partizip II von entmieten","base":"entmieten","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
-{"word":"entmin","description":null,"base":"entmine","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"entmin","description":"Imper. Sg. & 1. Pers. Sg. Präs. mit e-Tilgung von entminen","base":"entminen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"entmine","description":"Verb — 1. Person Singular Indikativ Präsens von entminen","base":"entminen","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"entminen","description":"Verb — Minen (Sprengkörper) räumen oder unschädlich machen","base":null,"corpus_sources":["wiktionary","hunspell","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"entminend","description":"Partizip I von entminen","base":"entminen","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"entminest","description":"Verb — 2. Person Singular Konjunktiv I Präsens von entminen","base":"entminen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"entminende","description":"Dekl. Part. I von entminen","base":"entminen","source":"community","verified_by":"moderator"}
+{"word":"entminendem","description":"Dekl. Part. I von entminen","base":"entminen","source":"community","verified_by":"moderator"}
+{"word":"entminenden","description":"Dekl. Part. I von entminen","base":"entminen","source":"community","verified_by":"moderator"}
+{"word":"entminender","description":"Dekl. Part. I von entminen","base":"entminen","source":"community","verified_by":"moderator"}
+{"word":"entminendes","description":"Dekl. Part. I von entminen","base":"entminen","source":"community","verified_by":"moderator"}
+{"word":"entminest","description":"2. Pers. Sg. Konj. I von entminen","base":"entminen","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"entminst","description":"Verb — 2. Person Singular Indikativ Präsens von entminen","base":"entminen","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
-{"word":"entmint","description":null,"base":"entmine","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"entmint","description":"3. Pers. Sg. Präs. & 2. Pers. Pl. Präs. von entminen","base":"entminen","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"entminte","description":"Präteritum von entminen oder adjektivisches Partizip II (deklinierte Form)","base":"entminen","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"entmintem","description":"Dekl. Part. II von entminen","base":"entminen","source":"community","verified_by":"moderator"}
+{"word":"entminten","description":"1. & 3. Pers. Pl. Prät. von entminen","base":"entminen","source":"community","verified_by":"moderator"}
+{"word":"entminter","description":"Dekl. Part. II von entminen","base":"entminen","source":"community","verified_by":"moderator"}
+{"word":"entmintes","description":"Dekl. Part. II von entminen","base":"entminen","source":"community","verified_by":"moderator"}
+{"word":"entmintest","description":"2. Pers. Sg. Prät. von entminen","base":"entminen","source":"community","verified_by":"moderator"}
+{"word":"entmintet","description":"2. Pers. Pl. Prät. von entminen","base":"entminen","source":"community","verified_by":"moderator"}
 {"word":"entmisch","description":"Verb — Imperativ Singular von entmischen","base":"entmischen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"entmische","description":"1./3. Person Sg. Konjunktiv I oder Imperativ Sg. von entmischen","base":"entmischen","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"entmischt","description":"3. Person Sg. Indikativ Präsens oder Partizip II von entmischen","base":"entmischen","corpus_sources":["wiktionary","hunspell","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -170251,6 +170262,9 @@
 {"word":"robbtet","description":"Verb — 2. Person Plural Präteritum von robben","base":"robben","corpus_sources":["wiktionary","hunspell"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"robe","description":"Subst. (f.) — langes, weites, oft festliches Kleidungsstück","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"roben","description":"Substantiv, feminin - Plural von Robe, festliches langes Kleid","base":"robe","corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"robert","description":"Eigenname, m. — männlicher Vorname","base":null,"source":"community","verified_by":"moderator"}
+{"word":"roberte","description":"Nom. Pl. von Robert (Vorname)","base":"robert","source":"community","verified_by":"moderator"}
+{"word":"roberts","description":"Gen. Sg. von Robert (Vorname)","base":"robert","source":"community","verified_by":"moderator"}
 {"word":"robinie","description":"Subst. (Bot.) — Scheinakazie, Baum der Gattung Robinia","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","gutenberg","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"robinien","description":"Pl. von Robinie","base":"robinie","corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms","wortschatz"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"robinson","description":null,"base":"robinsons","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
@@ -191536,7 +191550,9 @@
 {"word":"storens","description":"Genitiv Singular des substantivierten Infinitivs von storen","base":"storen","corpus_sources":["wiktionary","kaikki_forms"],"dict_source_count":2,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"storer","description":"Subst. (veraltet, landschaftl.) — Störer, jemand der stört","base":null,"corpus_sources":["wikipedia","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"stores","description":null,"base":"store","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
+{"word":"storm","description":"Eigenname — Theodor Storm, deutscher Schriftsteller","base":"sturm","source":"community","verified_by":"moderator"}
 {"word":"storme","description":"Verb — 1. Person Sg. Konjunktiv I von stürmen oder veraltete/landschaftliche Imperativform","base":"stürmen","corpus_sources":["wikipedia","gutenberg"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
+{"word":"storms","description":"Gen. Sg. von Storm (deutscher Schriftsteller)","base":"storm","source":"community","verified_by":"moderator"}
 {"word":"stormwind","description":"Subst. — heftiger, stürmischer Wind","base":null,"corpus_sources":["wikipedia","gutenberg","wortschatz"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
 {"word":"storni","description":null,"base":"storno","corpus_sources":[],"dict_source_count":0,"classification_pass":null,"source":"morphology","verified_by":"kaikki+deepseek-chat"}
 {"word":"stornier","description":"Verb — 1. Person Sg. Indikativ Präsens von stornieren","base":"stornieren","corpus_sources":["wiktionary"],"dict_source_count":1,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
@@ -198935,7 +198951,11 @@
 {"word":"theodoliten","description":"Dativ Plural von Theodolit","base":"theodolit","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"theodolites","description":"Genitiv Singular von Theodolit","base":"theodolit","source":"morphology","verified_by":"wiktionary-de"}
 {"word":"theodolits","description":"Genitiv Singular von Theodolit","base":"theodolit","source":"morphology","verified_by":"wiktionary-de"}
+{"word":"theodor","description":"Eigenname, m. — männlicher Vorname","base":null,"source":"community","verified_by":"moderator"}
+{"word":"theodore","description":"Nom. Pl. von Theodor (Vorname)","base":"theodor","source":"community","verified_by":"moderator"}
+{"word":"theodoren","description":"Dat. Pl. von Theodor (Vorname)","base":"theodor","source":"community","verified_by":"moderator"}
 {"word":"theodorit","description":"Subst. (Mineralogie) — seltenes Arsenmineral","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"tiebreaker","source":"llm","verified_by":"deepseek-chat"}
+{"word":"theodors","description":"Gen. Sg. von Theodor (Vorname)","base":"theodor","source":"community","verified_by":"moderator"}
 {"word":"theogamie","description":"Subst. (fachspr.) — Götterhochzeit, mythologische Vermählung von Gottheiten","base":null,"corpus_sources":["wikipedia"],"dict_source_count":0,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"theogonie","description":"Subst. (f.) — Entstehungsgeschichte der Götter (Mythologie)","base":null,"corpus_sources":["wiktionary","hunspell","wikipedia","kaikki_forms"],"dict_source_count":3,"classification_pass":"double-pass-agree","source":"llm","verified_by":"deepseek-chat"}
 {"word":"theogonien","description":"Plural von Theogonie","base":"theogonie","source":"morphology","verified_by":"wiktionary-de"}
